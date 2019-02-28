@@ -1,0 +1,133 @@
+<?php require_once('Connections/connDellavalle.php'); ?>
+<?php
+$post_cat= home;
+$post_cat_position= "home";
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta name="author" content="CyberCarrot" />
+<meta name="keywords" content="San Joaquin Valley, packing, houses, nureries, cold storage facilities, churches, water purveyors, well drillers, bottled water producers, landscape architects, garners, realtors, ELAP, water quality" />
+<meta name="description" content="Dellavalle Laboratory Inc" />
+<meta name="robots" content="all" />
+<title>Dellavalle Laboratory, Inc. Chemists and Consultants</title>
+<link href="smqb_nav.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+/* inbody styles */
+tr.<?php echo $post_cat ?>ub  {display:block;}
+</style>
+<script type="text/javascript" src="eventLoader.js"></script>
+</head>
+
+<body>
+<div id="top"><?php include("includes/top_div.html"); ?></div>
+<div id="bottom">
+<div id="leftbottom">
+<div id="navwrapper">
+<div id="navbox"></div>
+<div id="nav"><?php include("includes/dellavalle_navigation.php"); ?></div>
+</div>
+</div>
+<div id="rightbottom">
+<div id="welcomewrapper">
+<div id="welcomebox"></div>
+<div id="welcome">
+<p>An environmental/agricultural laboratory and consulting firm located in the San Joaquin Valley with clientele worldwide.  Our clients include dairies, growers, homeowners, engineering firms, food processors, water systems, rural schools, fertilizer and compost producers.</p>
+<p>Agriculturally, our analytical methods are for arid and semi-arid growing conditions.  The laboratory specializes in analyzing: soils; plant tissues; irrigation, influent/effluent waters; composts and fertilizers. Our professionals provide fertilizer recommendations, nutrient management plans, troubleshooting expertise, irrigation and fertility/salinity management. <a href="http://www.dellavallelab.com/aboutus.html">[ more ]</a></p>
+</div>
+</div>
+<div id="slideshow">
+  <script language="JavaScript1.2" type="text/javascript">
+/***********************************************
+* Fade-in image slideshow script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Modified by cr3ative December 2004 to show images in random order
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+var slideshow_width='534px'
+var slideshow_height='180px'
+var pause=5000 
+var fadeimages=new Array()
+fadeimages[0]="http://www.dellavallelab.com/images/1cows.jpg"
+fadeimages[1]="http://www.dellavallelab.com/images/2hands.jpg"
+fadeimages[2]="http://www.dellavallelab.com/images/3water.jpg"
+fadeimages[3]="http://www.dellavallelab.com/images/4tomatoes.jpg"
+fadeimages[4]="http://www.dellavallelab.com/images/5vineyard.jpg"
+fadeimages[5]="http://www.dellavallelab.com/images/6oranges.jpg"
+fadeimages[6]="http://www.dellavallelab.com/images/7blossoms.jpg"
+fadeimages[7]="http://www.dellavallelab.com/images/8cottonfield.jpg"
+fadeimages[8]="http://www.dellavallelab.com/images/9walnuts.jpg"
+fadeimages[9]="http://www.dellavallelab.com/images/10peaches.jpg"
+var preloadedimages=new Array()
+for (p=0;p<fadeimages.length;p++){
+preloadedimages[p]=new Image()
+preloadedimages[p].src=fadeimages[p]
+}
+var ie4=document.all
+var dom=document.getElementById
+if (ie4||dom)
+document.write('<div style="position:relative;width:'+slideshow_width+';height:'+slideshow_height+';overflow:hidden"><div id="canvas0" style="position:absolute;width:'+slideshow_width+';height:'+slideshow_height+';top:0;left:0;filter:alpha(opacity=10);-moz-opacity:10"></div><div id="canvas1" style="position:absolute;width:'+slideshow_width+';height:'+slideshow_height+';top:0;left:0;filter:alpha(opacity=10);-moz-opacity:10"></div></div>')
+else
+document.write('<img name="defaultslide" src="'+fadeimages[0]+'">')
+var curpos=10
+var degree=10
+var curcanvas="canvas0"
+var curimageindex=Math.floor(Math.random() * fadeimages.length)
+var nextimageindex=Math.floor(Math.random() * fadeimages.length)
+function fadepic(){
+if (curpos<100){
+curpos+=10
+if (tempobj.filters)
+tempobj.filters.alpha.opacity=curpos
+else if (tempobj.style.MozOpacity)
+tempobj.style.MozOpacity=curpos/101
+}
+else{
+clearInterval(dropslide)
+nextcanvas=(curcanvas=="canvas0")? "canvas0" : "canvas1"
+tempobj=ie4? eval("document.all."+nextcanvas) : document.getElementById(nextcanvas)
+tempobj.innerHTML='<img src="'+fadeimages[nextimageindex]+'">'
+nextimageindex=Math.floor(Math.random() * fadeimages.length)
+setTimeout("rotateimage()",pause)
+}
+}
+function rotateimage(){
+if (ie4||dom){
+resetit(curcanvas)
+var crossobj=tempobj=ie4? eval("document.all."+curcanvas) : document.getElementById(curcanvas)
+crossobj.style.zIndex++
+var temp='setInterval("fadepic()",50)'
+dropslide=eval(temp)
+curcanvas=(curcanvas=="canvas0")? "canvas1" : "canvas0"
+}
+else
+document.images.defaultslide.src=fadeimages[curimageindex]
+curimageindex=Math.floor(Math.random() * fadeimages.length)
+}
+function resetit(what){
+curpos=10
+var crossobj=ie4? eval("document.all."+what) : document.getElementById(what)
+if (crossobj.filters)
+crossobj.filters.alpha.opacity=curpos
+else if (crossobj.style.MozOpacity)
+crossobj.style.MozOpacity=curpos/101
+}
+function startit(){
+var crossobj=ie4? eval("document.all."+curcanvas) : document.getElementById(curcanvas)
+crossobj.innerHTML='<img src="'+fadeimages[curimageindex]+'">'
+rotateimage()
+}
+if (ie4||dom)
+window.onload=startit
+else
+setInterval("rotateimage()",pause)
+</script>
+</div>
+</div>
+</div>
+<?php include("includes/copyright.html"); ?>
+</body>
+</html>
+

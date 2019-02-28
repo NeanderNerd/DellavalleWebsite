@@ -1,0 +1,17 @@
+<p><strong>Query String is one of the best features in ContentSeed.</strong></p>
+
+<p>By leveraging the query string feature you can literally make an entire site with nothing but a single "home page". Needless to say, site maintenance and modifications take on a whole new ease when there's only <strong>ONE PAGE</strong> to deal with.</p>
+
+<p dir="ltr" style="MARGIN-RIGHT: 0px">This page will show you how to call content into a page based just on the URL of the hyperlink using the ContentSeed system.<br />
+	<br />
+	This content you're seeing is coming from a "main seed", that is; the seed is getting the content based on the actual file name. In this case that's /generator/test/qstring.php, but it's possible to call all kinds of content into this same page area.</p>
+
+<div id="note">
+	
+<p>For this example I'll just call all of the content that exists in the test pages by query string.<br />
+		As you click the links below take note of the URL, you'll see that it stays generator/test/qstring.php but uses the parameter of ?content={pagename} to call the content:<br />
+		<br />
+		<a href="qstring.php?content=generator/test/default.php">The Default Page</a><br />
+		<a href="qstring.php?content=generator/test/author.php">The Author Page</a><br />
+		<a href="qstring.php?content=generator/test/multiple.php">The Multiple Page's Core Content</a><br />
+		<a href="qstring.php?content=generator/test/side.htm">Multiple Page's Side</a></p></div>

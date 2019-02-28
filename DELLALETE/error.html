@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta name="author" content="CyberCarrot" />
+<meta name="keywords" content="" />
+<meta name="description" content="Dellavalle Laboratory Inc" />
+<meta name="robots" content="all" />
+<title>Dellavalle Laboratory, Inc. Chemists and Consultants - Employment</title>
+<link href="smqb_nav.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="print.css" rel="stylesheet" type="text/css" media="print"/>
+<script type="text/javascript" src="eventLoader.js"></script>
+</head>
+
+<body>
+<div id="top"><?php include("includes/top_div.html"); ?></div>
+<div id="bottom">
+<div id="leftbottom">
+<div id="navwrapper">
+<div id="navbox"></div>
+<div id="nav"><?php include("includes/dellavalle_navigation.php"); ?></div>
+<img src="images/watermark.gif" alt="Dellavalle Laboratory Inc."/> 
+</div>
+</div>
+<div id="contactuswrapper">
+<div id="contactusbox"></div>
+<div id="contactus">
+<h5>Contact Us</h5>
+<p>Please fill out this form and submit your request.</p>
+<p id="note">(fields marked as (*) are required)</p>
+<p id="error">**Error: "Name", "Telephone/Fax Numbers", and "Email Address" are required fields.**</p>
+<FORM method="POST" action="beta/inc_email_mailer.php">
+<p class="contacttitle">Name:*</p>
+<INPUT name="Name" type="text" size="45" class="contact_form">
+<p class="contacttitle">Address:</p>
+<INPUT name="Address" type="text" size="45" class="contact_form" id="address">
+<INPUT name="Address" type="text" size="45" class="contact_form">
+<p class="contacttitle">City/State/Zip Code:</p>
+<INPUT name="City" type="text" size="28" class="contact_form">
+<INPUT name="State" type="text" size="2" class="contact_form">
+<INPUT name="ZipCode" type="text" size="5" class="contact_form">
+<p class="contacttitle">Telephone/Fax Numbers:* <span>(xxx) xxx-xxxx</span></p>
+<INPUT name="Telephone" type="text" size="20" class="contact_form">
+<INPUT name="Fax" type="text" size="20" class="contact_form">
+<p class="contacttitle">Email Address:*</p>
+<INPUT name="Email" type="text" size="45" class="contact_form">
+<table width="500" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <th scope="col">Yes</th>
+    <th scope="col">No</th>
+    <th scope="col">I would like information on the following:</th>
+  </tr>
+  <tr>
+    <td><input type="radio" name="services" value="yes"></td>
+    <td><input type="radio" name="services" value="no" checked></td>
+    <td>Services</td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="services" value="yes"></td>
+    <td><input type="radio" name="services" value="no" checked></td>
+    <td>Prices</td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="services" value="yes"></td>
+    <td><input type="radio" name="services" value="no" checked></td>
+    <td>Sampling</td>
+  </tr>
+  <tr>
+    <td><input type="radio" name="services" value="yes"></td>
+    <td><input type="radio" name="services" value="no" checked></td>
+    <td>Would you like a professional consultant to contact you?</td>
+  </tr>
+</table>
+<p class="contacttitle">Additional Comments or Notes:</p>
+<textarea name="comments" cols="60" wrap="VIRTUAL" rows="8"></textarea>
+<input name="Submit" type="button" value="Submit" class="btn" />
+<input name="Reset" type="button" value="Reset" class="btn" />
+</form>
+</div>
+</div>
+</div>
+<?php include("includes/copyright.html"); ?>
+</body>
+</html>
+

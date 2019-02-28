@@ -1,0 +1,43 @@
+﻿#mainimage1block {
+box-shadow: 0 0 10px #333; 
+behavior: url(css/PIE.htc);}
+
+#mainimage2block {
+box-shadow: 0 0 10px #333; 
+behavior: url(css/PIE.htc);}
+
+#mainimage3block {
+box-shadow: 0 0 10px #333; 
+behavior: url(css/PIE.htc);}
+
+#global ul li a {
+box-shadow: 2px -5px 5px #000;
+border-radius: 5px 5px 0 0;
+behavior: url(css/PIE.htc);}
+
+#global ul li a:hover {
+box-shadow: 2px -5px 5px #000;
+border-radius: 5px 5px 0 0;
+behavior: url(css/PIE.htc);}
+
+.button a {
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-o-border-radius: 5px;
+box-shadow: 0 2px 3px #999;
+behavior: url(css/PIE.htc);}
+	
+.button a:hover {
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-o-border-radius: 5px;
+behavior: url(css/PIE.htc);}
+
+.image-catalog {
+border: 1px #d0d0d0 solid;
+padding: 5px;
+margin: 5px 10px;
+box-shadow: 0 5px 20px #888;
+behavior: url(css/PIE.htc);}

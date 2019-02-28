@@ -1,0 +1,30 @@
+<h1 align="left">Congratulations</h1>
+<p>If you're seeing this text that means you've got your /generator in the right place and your server is running PHP files.</p>
+<p>
+	<span style="FONT-WEIGHT: bold; COLOR: #ff0000">UN= deployer<br />
+		PW= deployer</span></p>
+<div class="note">
+	<span style="font-weight: bold; ">Other permission levels are:</span><br />
+	<br />
+	"Admin"<br />
+	<span style="FONT-WEIGHT: bold; COLOR: #ff0000">UN= admin<br />
+		PW= admin</span><br />
+	<br />
+	"Author", which you can see here: <a href="author.php">../test/author.php</a><br />
+	<span style="FONT-WEIGHT: bold; COLOR: #ff0000">UN= author<br />
+		PW= author</span><br />
+	<br />
+	Note: You must close your browser session to log out of the system to try each of the permission levels.</div>
+<p>
+	<span style="font-weight: bold; ">Test the content file for writing</span></p>
+<p>Once this page opens in the on-line editor for you make a change to this file, just highlight something and change its color or delete something from the face of this page. <br />
+	After you've made your change hit the "save" icon on the top left of the tool-bar and see if the content will save. If it does you know that your file: generator/assets/db.php is marked as "writable". If it doesn't take the change you know it's not writable. </p>
+<p>
+	<span style="font-weight: bold; ">Test the /assets folder for uploads</span></p>
+<p>Try and create a backup of this content file. <br />
+	Just hit the Backup button on the left of this edit window. <br />
+	If you can create a backup then your folder: generator/assets has the proper permissions. <br />
+	This means that you'll not only be able to create backups but also upload images, flash movies, audio, video, etc. into your editor's "asset manager".</p>
+<div class="note">
+	<p>If one of the above tests fails see the Quick Start guide that came with your PHPSeeds distribution and either set the permissions yourself through whatever control panel, FTP client, or have your host do it for you.</p></div>
+	<p>PHPSeeds is a very easy to deploy content management system. Its one of the few CMS that doesn't use a database and there's only one folder (generator/assets) and one file (generator/assets/db.php) that need special permissions. There's nothing technical about its installation or use. In minutes you can make a site editable with nothing but a browser.</p>

@@ -1,0 +1,125 @@
+<?php require_once('../Connections/connDellavalle.php'); ?>
+<?php
+function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDefinedValue = "") 
+{
+  $theValue = (!get_magic_quotes_gpc()) ? addslashes($theValue) : $theValue;
+
+  switch ($theType) {
+    case "text":
+      $theValue = ($theValue != "") ? "'" . $theValue . "'" : "NULL";
+      break;    
+    case "long":
+    case "int":
+      $theValue = ($theValue != "") ? intval($theValue) : "NULL";
+      break;
+    case "double":
+      $theValue = ($theValue != "") ? "'" . doubleval($theValue) . "'" : "NULL";
+      break;
+    case "date":
+      $theValue = ($theValue != "") ? "'" . $theValue . "'" : "NULL";
+      break;
+    case "defined":
+      $theValue = ($theValue != "") ? $theDefinedValue : $theNotDefinedValue;
+      break;
+  }
+  return $theValue;
+}
+
+$editFormAction = $_SERVER['PHP_SELF'];
+if (isset($_SERVER['QUERY_STRING'])) {
+  $editFormAction .= "?" . htmlentities($_SERVER['QUERY_STRING']);
+}
+
+if ((isset($_POST["MM_insert"])) && ($_POST["MM_insert"] == "form1")) {
+  $insertSQL = sprintf("INSERT INTO tbl_employment (position_title, position_description, position_available) VALUES (%s, %s, %s)",
+                       GetSQLValueString($_POST['position_title'], "text"),
+                       GetSQLValueString($_POST['position_description'], "text"),
+                       GetSQLValueString($_POST['position_available'], "int"));
+
+  mysql_select_db($database_connDellavalle, $connDellavalle);
+  $Result1 = mysql_query($insertSQL, $connDellavalle) or die(mysql_error());
+
+  $insertGoTo = "addjobposition.html";
+  if (isset($_SERVER['QUERY_STRING'])) {
+    $insertGoTo .= (strpos($insertGoTo, '?')) ? "&" : "?";
+    $insertGoTo .= $_SERVER['QUERY_STRING'];
+  }
+  header(sprintf("Location: %s", $insertGoTo));
+}
+
+mysql_select_db($database_connDellavalle, $connDellavalle);
+$query_rsJobPositions = "SELECT * FROM tbl_employment";
+$rsJobPositions = mysql_query($query_rsJobPositions, $connDellavalle) or die(mysql_error());
+$row_rsJobPositions = mysql_fetch_assoc($rsJobPositions);
+$totalRows_rsJobPositions = mysql_num_rows($rsJobPositions);
+?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Admin: Add Job Position</title>
+<link rel="stylesheet" href="admin.css" type="text/css" media="screen">
+</head>
+
+<body>
+<div id="add_content">
+<div id="form_add">
+<table border="0" align="center" cellpadding="3" cellspacing="0" id="position_list">
+  <tr>
+    <th scope="col">Position Title </th>
+    <th scope="col">Position Description </th>
+    <th scope="col">Position Available </th>
+    <th scope="col">&nbsp;</th>
+  </tr>
+  <?php do { ?>
+  <tr>
+    <td><?php echo $row_rsJobPositions['position_title']; ?></td>
+    <td><?php echo nl2br($row_rsJobPositions['position_description']); ?></td>
+    <td><?php echo $row_rsJobPositions['position_available'] ? 'Yes' : 'No'; ?></td>
+    <td><a href="editjobposition.html?position_id=<?php echo $row_rsJobPositions['position_id']; ?>">edit</a></td>
+  </tr>
+  <?php } while ($row_rsJobPositions = mysql_fetch_assoc($rsJobPositions)); ?>
+</table>
+<h1>Add Position</h1>
+<form method="post" name="form1" action="<?php echo $editFormAction; ?>">
+  <table align="center">
+    <tr valign="baseline">
+      <td nowrap align="right">Position Title:</td>
+      <td><input type="text" name="position_title" value="" size="32"></td>
+    </tr>
+    <tr valign="baseline">
+      <td nowrap align="right" valign="top">Position Description:</td>
+      <td><textarea name="position_description" cols="50" rows="5"></textarea>
+      </td>
+    </tr>
+    <tr valign="baseline">
+      <td nowrap align="right">Position Available:</td>
+      <td valign="baseline"><table>
+          <tr>
+            <td><input name="position_available" type="radio" value="1" checked >
+              Display</td>
+            <td>
+          </tr>
+          <tr>
+            <td><input type="radio" name="position_available" value="0" >
+              Don't Display</td>
+            <td>
+          </tr>
+        </table>
+    </tr>
+    <tr valign="baseline">
+      <td nowrap align="right">&nbsp;</td>
+      <td><input type="submit" value="Add Position"></td>
+    </tr>
+  </table>
+  <input type="hidden" name="MM_insert" value="form1">
+</form>
+<p>&nbsp;</p>
+</div>
+</div>
+</body>
+</html>
+<?php
+mysql_free_result($rsJobPositions);
+?>
+

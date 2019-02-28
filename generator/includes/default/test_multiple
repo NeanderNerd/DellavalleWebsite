@@ -1,0 +1,23 @@
+<p><strong>Multiple seed test</strong></p>
+<p>This page is to demonstrate how to call multiple "seeds" into a single page.</p>
+<p>Look at the source view in your local folders. The location is generator/test/multiple.php. You'll find some HTML comments and see the code that calls the content blocks to the page.</p>
+<p><strong>In this page there are two "seeds"</strong></p>
+<ul>
+	<li>
+		Main seed (which is containing this content). 
+		<ul>
+			<li>The content that gets injected here is based on the name of the page it's placed on. </li>
+		</ul>
+	</li>
+	<li>
+		The seed to the left contains the menu. 
+		<ul>
+			<li>
+				I just copied the code for the menu into a content block named side.htm. <br />
+				You can find it in your page list when logged into the on-line editor.
+			</li>
+		</ul>
+	</li>
+</ul>
+<div id="note">
+<p>By using this method it's very easy to call multiple segments of content into a page. it works well for file lists, news boxes, and other page elements you want to repeat consistently throughout a site while allowing users to edit it as well.</p></div>

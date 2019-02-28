@@ -1,0 +1,220 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<!-- #BeginTemplate "Templates/layout6.dwt" -->
+
+<head>
+<meta charset="UTF-8">
+<!-- #BeginEditable "doctitle" -->
+<title>Our Photo Gallery</title>
+<!-- #EndEditable -->
+<!--[if lt IE 9]>
+   <script>
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('aside');
+      document.createElement('footer');
+      document.createElement('hgroup');
+   </script>
+<![endif]-->
+<!-- #BeginEditable "description" -->
+<meta name="description" content="Add your text here" />
+<!-- #EndEditable -->
+<meta name="viewport" content="width=1100px; initial-scale=.45;width=device-width; user-scalable=1;">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="designer" content="templatesintime.com" />
+<link href="http://fonts.googleapis.com/css?family=Simonetta" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="css/ie.css" />
+<![endif]-->
+<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+<script src="javascripts/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="javascripts/jquery.smooth-scroll.min.js"></script>
+<script src="javascripts/lightbox.js"></script>
+
+<script>
+  jQuery(document).ready(function($) {
+      $('a').smoothScroll({
+        speed: 1000,
+        easing: 'easeInOutCubic'
+      });
+
+      $('.showOlderChanges').on('click', function(e){
+        $('.changelog .old').slideDown('slow');
+        $(this).fadeOut();
+        e.preventDefault();
+      })
+  });
+</script>
+
+
+</head>
+
+<body>
+<div id="wrapper">
+<header>
+<nav id="global">
+<ul>
+<li><a href="index.html">Home</a> </li>
+<li><a href="faq.html">FAQ</a> </li>
+<li><a href="contactus.html">Contact Us</a></li> 
+<li><a href="map.html">Map</a></li>
+</ul>
+</nav>
+
+<div id="nameplate">
+	<h1>&nbsp;</h1>
+	</div>
+	
+<div id="infobox">
+	<p>Chemists &amp; Consultants</p>
+	</div>
+<div id="mainimage1block"></div>	
+<div id="mainimage2block"></div>
+<div id="mainimage3block"></div>	
+<div id="mainimage4block"></div>
+</header>
+
+<section id="contentFull">
+<!-- #BeginEditable "contentFull" --> 
+
+	<h3>New Orleans Trip</h3>
+	<p>To do the coding to move through a group of images, in your code add the 
+	group name. In my sample, the group name is New Orleans.<br>&lt;a href="images/gallery/neworleans4.jpg" 
+	rel="lightbox[New Orleans]" title="St. Louis Cathedral" &gt;</p>
+
+
+<fieldset><legend>Fun in New Orleans </legend>
+<table style="width: 100%" class="center">
+<tr>
+<td><a href="gallery/neworleans4.jpg" rel="lightbox[New Orleans]" title="St. Louis Cathedral" >
+<img alt="New Orleans" src="gallery/neworleans4small.jpg" width="150" height="100" class="image-gallery" /></a></td>
+<td><a href="gallery/neworleans3.jpg" rel="lightbox[New Orleans]" title="French Quarter Buggy Ride">
+<img alt="New Orleans" src="gallery/neworleans3small.jpg" width="150" height="100" class="image-gallery" /></a></td>
+<td><a href="gallery/neworleans2.jpg" rel="lightbox[New Orleans]" title="New Orleans Home">
+<img alt="New Orleans" src="gallery/neworleans2small.jpg" width="150" height="100" class="image-gallery" /></a></td>
+<td><a href="gallery/neworleans1.jpg" rel="lightbox[New Orleans]" title="View from the Riverwalk into the French Quarter">
+<img alt="New Orleans" src="gallery/neworleans1small.jpg" width="150" height="100" class="image-gallery" /></a></td>
+</tr>
+</table>
+</fieldset>
+	<h3>Deep Sea Fishing Trip</h3>
+	<p>This coding allows for viewing for one picture at a time.</p>
+<fieldset><legend>Deep Sea Fishing </legend>
+<table style="width: 100%" class="center">
+<tr>
+<td><a href="gallery/fishing4.jpg" rel="lightbox" title="Leaving the Dock" >
+<img alt="Leaving the Dock" src="gallery/fishing4small.jpg" width="150" height="100" class="image-gallery" /></a></td>
+<td><a href="gallery/fishing1.jpg" rel="lightbox" title="What a Catch">
+<img alt="What a Catch" src="gallery/fishing1small.jpg" width="150" height="100" class="image-gallery" /></a></td>
+<td><a href="gallery/fishing2.jpg" rel="lightbox" title="Our Ship Returns to the Dock">
+<img alt="Our Ship" src="gallery/fishing2small.jpg" width="150" height="100" class="image-gallery" /></a></td>
+<td><a href="gallery/fishing3.jpg" rel="lightbox" title="Beautiful Sunrise">
+<img alt="Beautiful Sunrise" src="gallery/fishing3small.jpg" width="150" height="100" class="image-gallery" /></a></td>
+</tr>
+</table>
+ </fieldset>
+ <h4>You can add as many lightboxes as you choose! It&#39;s easy to do. How to add the Lightbox</h4>
+	<p>1. Use the &quot;split&quot; view so you can see the code.<br />
+	<br />
+	2. Insert the small photo, then link it to the larger photo. (You should have a large image and a small image 
+	for each photo.)<br />
+	<br />
+	3. You will see something like this in the code view:&nbsp;&lt;a href=&quot;images/yourphotoname.jpg&quot;&gt;<br />
+	<br />
+	4. Add this code right after the .jpg&quot;&nbsp;AND right before the closing &gt;&nbsp;rel=&quot;lightbox&quot; 
+	title=&quot;My New Picture&quot; </p>
+	<p >
+	5. Your code will look like this: &lt;a href=&quot;images/yourphotoname.jpg&quot; rel=&quot;lightbox&quot; title=&quot;My New Picture&quot; 
+    &gt;&lt;img alt=&quot;New Orleans&quot; src=&quot;images/yourphotonamesmall.jpg&quot; width=&quot;150&quot; height=&quot;100&quot;/&gt;<br />
+	<br />
+	6. You can change the words &quot;My New Picture&quot; to anything you would like. Do not 
+	erase the quotation marks!</p>
+    <p >
+	7. Add the gray border class in your code: class=&quot;image-gallery"</p>
+    <p >
+	8. Your finished gallery photo code will look like this:<br />
+    &lt;a href=&quot;images/yourphotoname.jpg&quot; rel=&quot;lightbox&quot; title=&quot;My New Picture&quot; &gt;&lt;img alt=&quot;New Orleans&quot; src=&quot;images/yourphotonamesmall.jpg&quot; 
+    width=&quot;150&quot; height=&quot;100&quot; class="image-gallery" /&gt;</p>
+	<p >
+	If you want the grouping action, your photo code will look like this:<br>&lt;a href=&quot;images/yourphotoname.jpg&quot; rel=&quot;lightbox 
+	[New Orleans - or whatever your group is titled]&quot; title=&quot;My New Picture&quot; &gt;&lt;img alt=&quot;New Orleans&quot; src=&quot;images/yourphotonamesmall.jpg&quot; 
+    width=&quot;150&quot; height=&quot;100&quot; class="image-gallery" /&gt;</p>
+	<p >
+	9. See your new lightbox in action!<br />
+	</p>
+<!-- #EndEditable -->
+
+<article class="contentBox2 marginLeft">
+<!-- #BeginEditable "contentBottomL" --> 
+<p>&nbsp;</p>
+<!-- #EndEditable -->
+</article>
+
+<article class="contentBox2 marginRight">
+<!-- #BeginEditable "contentBottomR" --> 
+<!-- #EndEditable -->
+</article>
+<div class="clearsmall"></div>
+
+</section>
+
+<div class="push"></div>
+</div><!-- ends wrapper -->
+<div id="footer-outer">
+<footer>
+<!-- bottom 3 block area -->
+	<section class="contentBox3">
+<h3>Find us here:</h3>
+	<p class="center">
+	<img alt="social" height="42" src="images/twitter.png" width="42">&nbsp;
+	<img alt="social" height="42" src="images/facebook.png" width="42">
+	</p>
+		<p class="center">
+		&nbsp;</p>
+<p class="center"><a href="index.html">Home</a>&nbsp;&bull;	
+<a href="layout2.html">Contact Us</a>&nbsp;&bull; 
+<a href="aboutus.html">About Us</a></p>
+		<p class="center">&nbsp;</p>
+<p class="center">
+<img alt="" height="104" src="images/logo_small.png" width="280"></p>
+</section>
+
+<section class="contentBox3">
+<h3>Contact Us:</h3>
+	<p>	
+	<img alt="contact us" class="imageleft" height="99" src="images/contact.png" width="124" /></p>
+	<p>	Dellavalle Laboratory,&nbsp; Inc.<br />
+	1910 W. McKinley Ave,<br />
+	Fresno CA 93728<br />
+	1-800-228-9896</p>
+	<p>	&nbsp; (559) 233-6129</p>
+	<p>	&nbsp;</p>
+	<p>	&nbsp; Hours: Monday - Friday 7am - 5pm</p>
+	<p>&nbsp;</p>
+	<p class="center">Dellavalle Laboratory, Inc. © 	<script type="text/javascript">document.write(new Date().getFullYear());</script>
+	2012</p>
+	<p class="center">All Rights Reserved</p>
+
+</section>
+	
+<section class="contentBox3">
+<h3>Note the Date:</h3>
+<p class="center">
+<script type="text/javascript" src="javascripts/calendar.js">
+</script>
+</p>
+</section>
+<div class="clearsmall"></div>
+
+<p class="tiny">Designed by <a href="http://www.wattleweb.com" target="_blank">Wattleweb Global Solutions</a></p>
+</footer></div>
+
+</body>
+
+<!-- #EndTemplate -->
+
+</html>

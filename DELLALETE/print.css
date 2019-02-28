@@ -1,0 +1,23 @@
+/*Printer Friendly CSS */
+#top { display: none; }
+#header { display: none; }
+#sideMenu { display: none; }
+#branding { display: none; }
+#navwrapper { display: none; }
+#copyright { display: none; }
+h5 { font-family: Arial, Helvetica, sans-serif; font-size: 30px; text-align: left; color: #000; }
+h6 { font-family: Arial, Helvetica, sans-serif; font-size: 25px; text-align: left; color: #000; }
+ul { list-style-type: square; font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align: left; color: #000; }
+ol { font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align: left; }
+ol ol { list-style-type: lower-alpha; }
+p { font-family: Arial, Helvetica, sans-serif; font-size: 12px; text-align: left; }
+#nat { margin-left: 30px; }
+#hugh { margin-left: 30px; }
+#keith { margin-left: 30px; }
+#ben { margin-left: 30px; }
+#danyal { margin-left: 30px; }
+#bill { margin-left: 30px; }
+#hitoshi { margin-left: 30px; }
+#employment ul { list-style-type: none; }
+table { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000; text-align: left; }
+table th { font-size: 14px; }

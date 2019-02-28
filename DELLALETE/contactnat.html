@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta name="author" content="CyberCarrot" />
+<meta name="keywords" content="" />
+<meta name="description" content="Dellavalle Laboratory Inc" />
+<meta name="robots" content="all" />
+<title>Dellavalle Laboratory, Inc. Chemists and Consultants - Contact Nat</title>
+<link href="smqb_nav.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="print.css" rel="stylesheet" type="text/css" media="print"/>
+<script type="text/javascript" src="eventLoader.js"></script>
+</head>
+
+<body>
+<div id="top"><?php include("includes/top_div.html"); ?></div>
+<div id="bottom">
+<div id="leftbottom">
+<div id="navwrapper">
+<div id="navbox"></div>
+<div id="nav"><?php include("includes/dellavalle_navigation.php"); ?></div>
+<img src="images/watermark.gif" alt="Dellavalle Laboratory Inc."/> 
+</div>
+</div>
+<div id="contactconsultantwrapper">
+<div id="contactconsultantbox"></div>
+<div id="contactconsultant">
+<h5 id="contactnat">Contacting Nat</h5>
+<p>Please fill out this form and submit your request.</p>
+<FORM method="POST" action="contactnat.php">
+<p class="contacttitle">Name:</p>
+<INPUT name="name" type="text" size="45" class="contact_form">
+<p class="contacttitle">Company Name:</p>
+<INPUT name="coname" type="text" size="45" class="contact_form">
+<p class="contacttitle">Address:</p>
+<INPUT name="address1" type="text" size="45" class="contact_form" id="address">
+<INPUT name="address2" type="text" size="45" class="contact_form">
+<p class="contacttitle">City | State/Province | Zip Code:</p>
+<INPUT name="city" type="text" size="28" class="contact_form">
+<INPUT name="state" type="text" size="5" class="contact_form">
+<INPUT name="zipcode" type="text" size="6" class="contact_form">
+<p class="contacttitle">Country:</p>
+<INPUT name="country" type="text" size="45" class="contact_form" />
+<p class="contacttitle">Telephone/Fax Numbers:* <span>(xxx) xxx-xxxx</span></p>
+<INPUT name="telephone" type="text" size="21" class="contact_form">
+<INPUT name="fax" type="text" size="21" class="contact_form">
+<p class="contacttitle">Email Address:</p>
+<INPUT name="email" type="text" size="45" class="contact_form">
+<p class="contacttitle">Message:</p>
+<textarea name="comments" cols="60" rows="8" class="contact_form"></textarea>
+<input name="Submit" type="Submit" value="Submit" class="btn" />
+<input name="Reset" type="Reset" value="Reset" class="btn" />
+</form>
+</div>
+</div>
+</div>
+<?php include("includes/copyright.html"); ?>
+</body>
+</html>
+

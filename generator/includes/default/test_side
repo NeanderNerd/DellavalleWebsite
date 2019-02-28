@@ -1,0 +1,9 @@
+	<ul class="menu">
+		<li><a href="default.php">Home</a> </li>
+		<li><a href="author.php">Author Permissions</a> </li>
+		<li><a href="qstring.php">Query String</a> </li>
+		<li><a href="multiple.php">Multiple Seeds</a> </li>
+		<li><a href="PHP-AS-HTM.htm">PHP as HTM</a> </li>
+		<li><a href="PHP-AS-HTML.html">PHP as HTML</a> </li>
+		<li><a href="PHPInfo.php">PHP Info</a> </li>
+	</ul>

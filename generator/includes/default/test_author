@@ -1,0 +1,9 @@
+<p><strong>This is the "Author" permission test page.</strong></p>
+<p>Author permissions allow you to give a user name and password to <strong>each page</strong> you "seed".</p>
+<p>You can log into this page as admin/admin or deployer/deployer to open it live in the editor with full "admin" permissions or you can come in as "author/author" to see what it's like with author permissions.</p>
+<p>&nbsp;</p>
+<div id="note">
+	<p>Author permission gives a restricted interface. The only tab buttons to the left are the "View" and "Help". All other buttons are removed for the author level view.</p>
+	<p>Because author permissions are applied on a page by page basis, you can have a different author for each page you "seed".</p>
+	<p>*note, if you're already logged in as an "admin" or "deployer" you must close your browser to "log out" then re-visit this page with a browser to test the author permissions.</p>
+</div>

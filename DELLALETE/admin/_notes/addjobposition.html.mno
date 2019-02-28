@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsJobPositions" value="name:position_id;datatype:int,name:position_title;datatype:string,name:position_description;datatype:blob,name:position_available;datatype:int" />
+</info>
