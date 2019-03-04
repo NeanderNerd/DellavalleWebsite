@@ -46,6 +46,8 @@
 
 </body>
 
+<?php include 'footer.php'; ?> 
+
 <!-- #EndTemplate -->
 
 </html>
