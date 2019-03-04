@@ -3,17 +3,22 @@
 <article class="contentBox2 marginLeft">
 <!-- #BeginEditable "contentBottomL" --> 
 <p>
-&nbsp;</p>
+<a href="shipping-instructions.html">
+<img alt="Read the Shipping Instuctions!" title="Read the Shipping Instuctions!" class="imageleft-border" height="91" src="images/shipping.png" width="286"></a></p> 
 <!-- #EndEditable -->
 </article>
 
 <article class="contentBox2 marginRight">
 <!-- #BeginEditable "contentBottomR" --> 
 <p>
-&nbsp;</p>
+	<a href="forms.html">
+	<img alt="Worksheet Forms" title="Worksheet Forms" class="imageright-border" height="91" src="images/forms.png" width="286"></a></p>
+
 <!-- #EndEditable -->
 </article>
+
 <div class="clearsmall"></div>
+
 </section>
 
 <div class="push"></div>
