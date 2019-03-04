@@ -63,8 +63,7 @@
 	<p>
 	3850 Ramada Drive, Suite. A1
 	<br>Paso Robles, CA</p>
-	<p>Drop off Hours: Mon - Fri 7:30 AM - 4:30 PM<br><br>Water Sampling by Appointment only<br>Call Pamela 
-	(559) 647-8895<br>No Consultation Available at This Location<br>Please call 
+	<p>Drop off Hours: Mon - Fri 7:30 AM - 4:30 PM<br><br>Water Sampling by Appointment only<br>For Consultation, Please call 
 	(800) 228-9896 for assistance.</p>
 </section>
 <div class="clearsmall"></div>
