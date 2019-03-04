@@ -64,33 +64,6 @@
 <div id="wrapper">
 <?php include 'header.php'; ?> 
 
-<article class="contentBox3">
-<!-- #BeginEditable "bannerBox left" --> 
-<p>
-<a href="samplingguide.html">
-<img alt="Sampling Guide" title="Sampling Guide" class="imageleft" height="100" src="images/image3.png" width="94"></a><strong>Sampling 
-Guide</strong><br>Sampling Techniques for Soil and Plant Tissue<br>
-<a href="samplingguide.html">READ MORE</a></p>
-
-<!-- #EndEditable -->
-</article>
-
-<article class="contentBox3">
-<!-- #BeginEditable "bannerBox middle" --> 
-	<p><strong>
-	<img alt="" class="imageleft" height="75" src="images/gears.png" width="80">Analytical Catalog</strong><br>
-	Please call if you do not see what you need.<br>
-	<a href="analyticalcatalog.html">READ MORE</a></p>
-<!-- #EndEditable -->
-</article>
-
-<article class="contentBox3">
-<!-- #BeginEditable "bannerBox right" --> 
-	<p>
-	<img alt="" class="imageleft" height="91" src="images/dellavallee_logo.png" width="286">&nbsp;</p>
-<!-- #EndEditable -->
-</article>
-
 <div class="clearsmall"></div>
 
 <aside id="sidebarLeft">
