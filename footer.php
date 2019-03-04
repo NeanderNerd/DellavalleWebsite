@@ -46,7 +46,7 @@
 	<h6 class="auto-style1"><strong>Davis</strong></h6>
 	<p>502 Mace Boulevard, #2-B
     <br>Davis, CA 95618<br>
-    For Water Samples Call Carlos (831) 776-1811</p>
+    For Water Samples Call<br />Carlos (831) 776-1811</p>
 	<p>&nbsp;</p>
 	<div class="fb-page" data-href="https://www.facebook.com/dellavallelab" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/dellavallelab"><a href="https://www.facebook.com/dellavallelab">Dellavalle Laboratory, Inc.</a></blockquote></div>
 	</div>
