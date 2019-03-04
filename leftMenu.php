@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="en">
 <aside id="sidebarLeft">
 <h3>Browse Our Site</h3>
 <!-- Start css3menu.com BODY section -->

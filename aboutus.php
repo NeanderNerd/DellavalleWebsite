@@ -1,30 +1,12 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-
 <!-- #BeginTemplate "Templates/layout1.dwt" -->
-
 <head>
-<meta charset="UTF-8">
-<!-- #BeginEditable "doctitle" -->
+<!-- #BeginEditable -->
 <title>About Us</title>
-<!-- #EndEditable -->
-<!--[if lt IE 9]>
-   <script>
-      document.createElement('header');
-      document.createElement('nav');
-      document.createElement('section');
-      document.createElement('article');
-      document.createElement('aside');
-      document.createElement('footer');
-      document.createElement('hgroup');
-   </script>
-<![endif]-->
 <!-- #BeginEditable "description" -->
 <meta name="description" content="" />
 <!-- #EndEditable -->
-<meta name="viewport" content="width=1100px; initial-scale=.45;width=device-width; user-scalable=1;">
-<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta name="designer" content="templatesintime.com" />
 </head>
 
 <body>

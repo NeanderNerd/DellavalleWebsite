@@ -1,5 +1,23 @@
 <!DOCTYPE html>
+<html lang="en">
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1100px; initial-scale=.45;width=device-width; user-scalable=1;">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="designer" content="templatesintime.com" />
+
+<!--[if lt IE 9]>
+   <script>
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('aside');
+      document.createElement('footer');
+      document.createElement('hgroup');
+   </script>
+<![endif]-->
+
 <link href="http://fonts.googleapis.com/css?family=Simonetta" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="css/style.css" />
 <!--[if lt IE 9]>

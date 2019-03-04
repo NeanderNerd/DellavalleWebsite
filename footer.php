@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="en">
 <article class="contentBox2 marginLeft">
 <!-- #BeginEditable "contentBottomL" --> 
 <p>
@@ -27,9 +28,10 @@
 	Fresno, CA 93728<br />
 	1-800-228-9896</p>
 	<p>(559) 233-6129</p>
-	<p>	&nbsp;</p>
-	<p>Hours: Mon - Fri 7am - 5pm</p>
-	<br />
+	<p>Hours: Mon - Fri 7:30am - 5pm</p>
+    <br />
+    <p>Water Samples by Appointment only<br />
+    Call Martin (559) 940-2024</p>
 		<p class="center">	
 		<a href="https://twitter.com/calisoils" target="_blank">
 		<img height="100" src="images/twitter-footer.png" width="275"></a></p>
@@ -38,11 +40,13 @@
 <section class="contentBox3">
 <h3>Consulting Offices:</h3>
 	<h6 class="auto-style1"><strong>Hanford:</strong></h6>
-	<p>1216 N Douty Street<br>Hanford, CA 93230</p>
+    <p>1216 N Douty Street<br />Hanford, CA 93230<br />
+    For Water Samples Call Susan (559) 530-1346</p>
 	<p>	&nbsp;</p>
 	<h6 class="auto-style1"><strong>Davis</strong></h6>
 	<p>502 Mace Boulevard, #2-B
-	<br>Davis, CA 95618<br></p>
+    <br>Davis, CA 95618<br>
+    For Water Samples Call Carlos (831) 776-1811</p>
 	<p>&nbsp;</p>
 	<div class="fb-page" data-href="https://www.facebook.com/dellavallelab" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/dellavallelab"><a href="https://www.facebook.com/dellavallelab">Dellavalle Laboratory, Inc.</a></blockquote></div>
 	</div>
