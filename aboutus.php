@@ -11,11 +11,11 @@
 
 <body>
 
-<?php include 'header.php'; ?> 
+<?php include 'PageWrappers/header.php'; ?> 
 
 <div class="clearsmall"></div>
 
-<?php include 'leftMenu.php'; ?>
+<?php include 'PageWrappers/leftMenu.php'; ?>
 
 <section id="contentRight">
 <!-- #BeginEditable "contentRight" --> 
@@ -28,7 +28,7 @@
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'PageWrappers/footer.php'; ?> 
 
 <!-- #EndTemplate -->
 
