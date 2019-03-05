@@ -316,6 +316,7 @@ overflow: hidden;}
 /* ======== SECTION BLOCKS ======== */
 
 .contentBox2 {
+font-style: normal !important;
 float: left;
 width: 48%;
 text-align: left;
@@ -347,7 +348,7 @@ clear: both;}
 #footer-outer {
 width: 100%;
 height: 500px;
-text-align: center;
+text-align: left;
 background: #000000 url('../images/footer.jpg') repeat-x;}
 
 footer {
@@ -404,7 +405,8 @@ color: #ffffff;
 margin: .3em 0; 
 letter-spacing: 1px; 
 border-bottom: 1px solid;
-text-align: left;}
+text-align: left;
+}
 
 /*misc. classes */
 .center {

@@ -76,6 +76,7 @@
 	<img alt="Sam Daud" title="Sam Daud" class="imageleft-border" height="143" src="images/consultants/sam-daud.jpg" width="100"><br>Sam Daud - 1 Year Experience</strong><br><em>Agronomist</em><br>Mobile: (559) 940-1294<br>Area: Fresno and Madera Regions<br>
 	<a href="mailto:sam.daud@dellavallelab.com">Email Sam</a>
 </p>
+<div class="clearsmall"></div>
 <!-- #EndEditable -->
 
 </body>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=1100px; initial-scale=.45;width=device-width; user-scalable=1;">
+<meta name="viewport" content="width=device-width, initial-scale=.45, maximum-scale=1.0, user-scalable=1">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 <meta name="designer" content="templatesintime.com" />
 

@@ -23,15 +23,12 @@
 	<ul>
 		<li>&nbsp;<a href="downloads/analytical_catalog/Plant_Tissue_Analysis.pdf" target="_blank" title="Plant Tissue Analysis">Plant Tissue Analysis</a></li>
 		<li>&nbsp;<a href="downloads/analytical_catalog/Soil_Analysis.pdf" target="_blank" title="Soil Analysis">Soil Analysis</a></li>
-		<li>&nbsp;<a href="downloads/analytical_catalog/Potting_Mixes.pdf" target="_blank" title="Potting Mixes">Potting 
-		Mixes</a></li>
+		<li>&nbsp;<a href="downloads/analytical_catalog/Potting_Mixes.pdf" target="_blank" title="Potting Mixes">Potting Mixes</a></li>
 		<li>&nbsp;<a href="downloads/analytical_catalog/Organic_Soil_Amendment.pdf" target="_blank" title="Organic Soil Amendment (Manure, Compost)">Organic Soil Amendment (Manure, Compost)</a></li>
 		<li>&nbsp;<a href="downloads/analytical_catalog/SOIL-AMENDMENT-ANALYSIS.pdf" target="_blank" title="Soil Amendment (Gypsum, Lime, Ash)">Soil Amendment (Gypsum, Lime, Ash)</a></li>
 		<li>&nbsp;<a href="downloads/analytical_catalog/Fertilizer_Analysis.pdf" target="_blank" title="Fertilizer">Fertilizer</a></li>
 		<li>&nbsp;<a href="downloads/analytical_catalog/FORAGE-AND-FEED-ANALYSIS.pdf" target="_blank" title="Forage and Feed">Forage and Feed</a></li>
-		<li>&nbsp; 
-		<a href="downloads/analytical_catalog/WATER-ANALYSIS.pdf" target="_blank" title="Water Analysis">Water Analysis 
-		(Domestic &amp; Individual)</a></li>
+		<li>&nbsp;<a href="downloads/analytical_catalog/WATER-ANALYSIS.pdf" target="_blank" title="Water Analysis">Water Analysis (Domestic &amp; Individual)</a></li>
 	</ul>
 	<h4>Services</h4>
 	<p>Consultation in irrigation management, soil science, plant nutrition, soil fertility, salinity management and soil reclamation is provided. Crop loss claims and crop production problems are investigated. The laboratory provides analyses of soil, water, plant tissue, fertilizer and soil amendments for agricultural, domestic and environmental applications.</p>
