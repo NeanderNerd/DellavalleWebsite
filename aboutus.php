@@ -12,7 +12,7 @@
 <body>
 
 <?php include 'PageWrappers/header.php'; ?> 
-
+ 
 <div class="clearsmall"></div>
 
 <?php include 'PageWrappers/leftMenu.php'; ?>
