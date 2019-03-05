@@ -4,7 +4,7 @@
 <article class="contentBox2 marginLeft">
 <!-- #BeginEditable "contentBottomL" --> 
 <p>
-<a href="shipping-instructions.html">
+<a href="shipping-instructions.php">
 <img alt="Read the Shipping Instuctions!" title="Read the Shipping Instuctions!" class="imageleft-border" height="91" src="images/shipping.png" width="286"></a></p> 
 <!-- #EndEditable -->
 </article>
@@ -12,7 +12,7 @@
 <article class="contentBox2 marginRight">
 <!-- #BeginEditable "contentBottomR" --> 
 <p>
-	<a href="forms.html">
+	<a href="forms.php">
 	<img alt="Worksheet Forms" title="Worksheet Forms" class="imageright-border" height="91" src="images/forms.png" width="286"></a></p>
 
 <!-- #EndEditable -->

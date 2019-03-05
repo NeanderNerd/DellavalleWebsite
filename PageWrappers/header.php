@@ -56,9 +56,9 @@
 <header>
 <nav id="global">
 <ul>
-<li><a href="index.html">Home</a> </li>
-<li><a href="contactus.html">Contact Us</a></li> 
-<li><a href="map.html">Map</a></li>
+<li><a href="index.php">Home</a> </li>
+<li><a href="contactus.php">Contact Us</a></li> 
+<li><a href="map.php">Map</a></li>
 </ul>
 </nav>
 
@@ -91,10 +91,10 @@
 <article class="contentBox3">
 <!-- #BeginEditable "bannerBox left" --> 
 <p>
-<a href="samplingguide.html">
+<a href="samplingguide.php">
 <img alt="Sampling Guide" title="Sampling Guide" class="imageleft" height="100" src="images/image3.png" width="94"></a><strong>Sampling 
 Guide</strong><br>Sampling Techniques for Soil and Plant Tissue<br>
-<a href="samplingguide.html">READ MORE</a></p>
+<a href="samplingguide.php">READ MORE</a></p>
 
 <!-- #EndEditable -->
 </article>
@@ -104,7 +104,7 @@ Guide</strong><br>Sampling Techniques for Soil and Plant Tissue<br>
 	<p><strong>
 	<img alt="" class="imageleft" height="75" src="images/gears.png" width="80">Analytical Catalog</strong><br>
 	Please call if you do not see what you need.<br>
-	<a href="analyticalcatalog.html">READ MORE</a></p>
+	<a href="analyticalcatalog.php">READ MORE</a></p>
 <!-- #EndEditable -->
 </article>
 
