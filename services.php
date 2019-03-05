@@ -20,12 +20,12 @@
 <section id="contentRight">
 <!-- #BeginEditable "contentRight" --> 
 <h1>Services</h1>
-	<p>Dellavalle specializes in analyses for agricultural, <a href="dairy.html">dairy/environmental</a> and horticultural purposes: primarily soil, plant tissue, water, compost, manure, fertilizer and other related materials. Take a look at what we offer.</p>
+	<p>Dellavalle specializes in analyses for agricultural, <a href="dairy.php">dairy/environmental</a> and horticultural purposes: primarily soil, plant tissue, water, compost, manure, fertilizer and other related materials. Take a look at what we offer.</p>
 <ul>
-<li><a href="laboratory.html">Laboratory</a></li>
-<li><a href="consulting.html">Consulting</a></li>
-<li><a href="expertise.html">Other Expertise</a></li>
-<li><a href="dairy.html">Dairy/Environmental</a></li>
+<li><a href="laboratory.php">Laboratory</a></li>
+<li><a href="consulting.php">Consulting</a></li>
+<li><a href="expertise.php">Other Expertise</a></li>
+<li><a href="dairy.php">Dairy/Environmental</a></li>
 </ul>
 
 	<p>&nbsp;</p>

@@ -49,9 +49,9 @@
         <li>Collect one quart ziplock bag of material, double bag it.</li>
         <li>Chill immediately to preserve moisture.</li>
         <li>Using an <strong>indelible</strong> marker or ballpoint pen clearly print on each bag your name/company, site and sample description or location. </li>
-        <li>Complete and return a <a href="forms.html" class="links">Work Request Form</a>.</li>
+        <li>Complete and return a <a href="forms.php" class="links">Work Request Form</a>.</li>
         <li>Deliver to Dellavalle: see
-		<a class="links" href="shipping-instructions.html">Shipping Instructions</a></li>
+		<a class="links" href="shipping-instructions.php">Shipping Instructions</a></li>
 </ul>
 <!-- #EndEditable -->
 

@@ -40,7 +40,7 @@ mso-fareast-language:EN-US;mso-bidi-language:AR-SA">;</span> call for hours. Our
 	<h3>Soil and Plant Tissue Samples:</h3>
 	<ul>
 		<li>Place soil/plant tissue sample bags in cardboard box and seal. Do not pack tissues samples tightly as they may mold, and never package in plastic. 
-		<strong>Remember to include a completed <a href="forms.html">Work Request Form</a> and return with sample.</strong></li>
+		<strong>Remember to include a completed <a href="forms.php">Work Request Form</a> and return with sample.</strong></li>
 	</ul>
 	<p>If samples originate outside Fresno County, label your package near your return address with the following information: </p>
 	<ul>

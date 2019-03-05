@@ -32,8 +32,8 @@
 		<li>Good areas vs. poor areas</li>
 	</ol>
 	<p>Non-uniform fields should be sampled by taking a composite sample from areas with the same characteristics.</p>
-	<ul><li><a href="sampling_soil.html">Soil Sampling Guide</a></li>
-<li><a href="sampling_tissue.html">Tissue Sampling Guide</a></li>
+	<ul><li><a href="sampling_soil.php">Soil Sampling Guide</a></li>
+<li><a href="sampling_tissue.php">Tissue Sampling Guide</a></li>
 </ul>
 <!-- #EndEditable -->
 

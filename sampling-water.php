@@ -27,7 +27,7 @@
         <li>Use appropriate bottles and preservatives.</li>
         <li>Read specific sampling procedures if given to you. </li>
         <li>Using an <strong>indelible</strong> marker, write date and time sampled on the label and Work Request form.  It is very important!</li>
-        <li>Complete <a href="forms.html">Work Request Form</a> and include with sample. </li>
+        <li>Complete <a href="forms.php">Work Request Form</a> and include with sample. </li>
         <li>Deliver sample to Dellavalle as soon after sampling as possible Monday through Thursday.  </li>
 </ul>
 <p>ELAP regulations:  We must receive water samples at specific temperatures. </p>
@@ -43,8 +43,8 @@
 </table>
 <p>A grace period for temperature is allowed if samples are delivered to laboratory within two hours of collection. </p>
 <ul>
-        <li><a href="sampling-water-irrigation-water-collection.html">Irrigation</a></li>
-        <li><a href="sampling-water-drinking-and-wastewater.html">Drinking and Wastewater</a></li>
+        <li><a href="sampling-water-irrigation-water-collection.php">Irrigation</a></li>
+        <li><a href="sampling-water-drinking-and-wastewater.php">Drinking and Wastewater</a></li>
 </ul>
 <!-- #EndEditable -->
 

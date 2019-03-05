@@ -44,8 +44,8 @@
 </table>
 
 <ul>
-<li class="links"><a href="forms.html" class="links">Work Request Form</a> 
-or <a href="shipping-instructions.html">Shipping Instructions</a></li>
+<li class="links"><a href="forms.php" class="links">Work Request Form</a> 
+or <a href="shipping-instructions.php">Shipping Instructions</a></li>
 </ul>
 
 	<p>&nbsp;</p>

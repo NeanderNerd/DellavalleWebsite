@@ -32,7 +32,7 @@
 </ul>
 <h4 id="resources">Other Resources</h4>
 <ul class="main">
-<li>Experienced and <a href="certifiedsamplers.html">Certified Samplers</a></li>
+<li>Experienced and <a href="certifiedsamplers.php">Certified Samplers</a></li>
 <li>Soil Probes for Resale</li>
 <li>Importation Permits for Soil/Plant Tissue</li>
 <li>Sample Collection Containers</li>

@@ -29,7 +29,7 @@
 <ul>
         <li>Completely fill bottles unless procedures state otherwise.  Do <strong>NOT</strong> overfill or partially fill bottles because it will affect the results of the test.</li>
         <li>It is often easiest to complete the information on the bottles before filling them.  Be sure to use an indelible pen.</li>
-        <li>Print a <a href="forms.html" class="links">Work Request Form</a>, complete and return it with your sample.</li>
+        <li>Print a <a href="forms.php" class="links">Work Request Form</a>, complete and return it with your sample.</li>
         <li>Place samples in cooler with plenty of ice.</li>
         <li>Deliver samples promptly to Dellavalle .</li>
 </ul>

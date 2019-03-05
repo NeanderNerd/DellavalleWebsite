@@ -35,17 +35,17 @@
         <li>Collect one quart of soil and put in a clean quart-size bag.</li>
         <li>If collecting soils from multiple sites, composite by mixing in clean plastic bucket and taking one quart per sample.</li>
         <li>Clearly print on each bag using an indelible marker or ballpoint pen your name/company, site and sample description.
-                <ul><li>Complete <a class="links" href="forms.html">Work Request Form</a>.  Print clearly and return it with your sample.</li>
+                <ul><li>Complete <a class="links" href="forms.php">Work Request Form</a>.  Print clearly and return it with your sample.</li>
                         <li>Deliver to Dellavalle; see 
-						<a class="links" href="shipping-instructions.html">Shipping Instructions.</a></li>
+						<a class="links" href="shipping-instructions.php">Shipping Instructions.</a></li>
                 </ul></li>
-<!-- additional links -->                <li>For additional information regarding soil sampling depth, see Soil: <a href="sampling-soil-field-and-row-crops.html" class="links">Field 
-		&amp; Row Crops</a>, <a href="sampling-soil-permanent-crops.html" class="links">Permanent Crops </a>
-		&amp; <a href="sampling-soil-ornamentals.html" class="links">Ornamental</a>.<br />
+<!-- additional links -->                <li>For additional information regarding soil sampling depth, see Soil: <a href="sampling-soil-field-and-row-crops.php" class="links">Field 
+		&amp; Row Crops</a>, <a href="sampling-soil-permanent-crops.php" class="links">Permanent Crops </a>
+		&amp; <a href="sampling-soil-ornamentals.php" class="links">Ornamental</a>.<br />
         <ul class="tools">
-                        <ul><li>Complete <a href="forms.html" class="links">Work Request Form</a>.  Print clearly and return it with your sample.</li>
+                        <ul><li>Complete <a href="forms.php" class="links">Work Request Form</a>.  Print clearly and return it with your sample.</li>
                         <li>Deliver to Dellavalle; see 
-						<a class="links" href="shipping-instructions.html">Shipping Instructions.</a></li>
+						<a class="links" href="shipping-instructions.php">Shipping Instructions.</a></li>
                </ul>
         </ul>
         </li>

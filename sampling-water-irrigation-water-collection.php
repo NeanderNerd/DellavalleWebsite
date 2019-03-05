@@ -36,7 +36,7 @@
         <li>Do not include water treatments (i.e. sulfuric acid, chlorine, fertilizers, etc.) in your sample when collecting from valves and pipelines.</li>
         <li>If you have an acidified bottle, do not let it overflow (you do not want acid on your hands).  Rubber gloves are suggested to protect from mild acid.</li>
         <li>Print on the bottle using an <strong>indelible</strong> marker, the date and time sampled as well as client name and sample description.  Chill sample immediately.  </li>
-        <li>Complete <a href="forms.html" class="links">Work Request Form</a> and <a href="shipping-instructions.html" class="links">deliver sample to Dellavalle</a>.</li>
+        <li>Complete <a href="forms.php" class="links">Work Request Form</a> and <a href="shipping-instructions.php" class="links">deliver sample to Dellavalle</a>.</li>
 </ul>
 <!-- #EndEditable -->
 

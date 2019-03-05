@@ -32,7 +32,7 @@
 	<p>When submitting Soil, Plant Tissue, Waters or other material, be very clear about analyses needed. As an example, listing nitrogen is not enough information; specify TN, TKN, NH4-N, NO3 or NO3-N.</p>
 	<p>On Work Request Form complete as much as applies:</p>
 	<p><strong>Date and Time Sampled</strong> – For waters date and time sampled is very important.<br>
-	<strong>Analysis Requested </strong>– Indicate appropriate analytical package; see “<a href="analyticalcatalog.html">Analytical Catalog</a>”<br>
+	<strong>Analysis Requested </strong>– Indicate appropriate analytical package; see “<a href="analyticalcatalog.php">Analytical Catalog</a>”<br>
 	<strong>Present Crop</strong> – Helps consultant offer correct comments and recommendations; varieties are important to growing crop.<br>
 	<strong>Intended Crop</strong> – Important for evaluation.
 Crop Stage of Growth – Plant age is very helpful.

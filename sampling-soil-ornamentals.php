@@ -31,7 +31,7 @@
 	<li>In a mixed landscape with problems, notice whether the affected plants are shallow, medium or deep rooted. This information will give you an idea of what depth to sample.</li></ul>  	
 		
 <ul>
-<li class="links"><a href="forms.html" class="links">Work Request Form</a> or <a href="shipping-instructions.html" class="links">Shipping Instructions</a></li>
+<li class="links"><a href="forms.php" class="links">Work Request Form</a> or <a href="shipping-instructions.php" class="links">Shipping Instructions</a></li>
 </ul>
 <!-- #EndEditable -->
 
