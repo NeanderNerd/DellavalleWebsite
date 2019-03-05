@@ -1,15 +1,15 @@
-<!-- To install: -->
-<!-- Save this as "calendar.js" -->
-<!-- DO NOT TAKE THE FOLLOWING OUT OF THE CODE:		-->
+// <!-- To install: -->
+// <!-- Save this as "calendar.js" -->
+// <!-- DO NOT TAKE THE FOLLOWING OUT OF THE CODE:		-->
 
-<!-------------------------------------------->
-<!--   AUTHOR: Bryan Gamble	-->
-<!--  PROGRAM: Calendar		-->
-<!--      URL: www.bmgamble.com 	-->
-<!--  UPDATED: 06.21.2004		-->
-<!-- Update includes more modification to fonts and colors--> 
-<!------------------------------------------------>
-<!--
+// <!-------------------------------------------->
+// <!--   AUTHOR: Bryan Gamble	-->
+// <!--  PROGRAM: Calendar		-->
+// <!--      URL: www.bmgamble.com 	-->
+// <!--  UPDATED: 06.21.2004		-->
+// <!-- Update includes more modification to fonts and colors--> 
+// <!------------------------------------------------>
+// <!--
 /***************************************************
 GLOBAL VARIABLES FOR FORMATTING FONTS AND TEXT
 *****************************************************/
