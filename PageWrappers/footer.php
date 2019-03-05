@@ -1,5 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+
+<!--[if lt IE 9]>
+   <script>
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('aside');
+      document.createElement('footer');
+      document.createElement('hgroup');
+   </script>
+<![endif]-->
+
+<link href="http://fonts.googleapis.com/css?family=Simonetta" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="css/ie.css" />
+<![endif]-->
+<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+<script src="javascripts/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="javascripts/jquery.smooth-scroll.min.js"></script>
+<script src="javascripts/lightbox.js"></script>
+
+</head>
 <article class="contentBox2 marginLeft">
 <!-- #BeginEditable "contentBottomL" --> 
 <p>
