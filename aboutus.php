@@ -2,6 +2,7 @@
 <html lang="en">
 <!-- #BeginTemplate "Templates/layout1.dwt" -->
 <head>
+<?php include 'PageWrappers/Head.php'; ?>
 <!-- #BeginEditable -->
 <title>About Us</title>
 <!-- #BeginEditable "description" -->
