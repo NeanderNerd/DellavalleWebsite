@@ -24,24 +24,10 @@
 <link rel="stylesheet" type="text/css" href="css/ie.css" />
 <![endif]-->
 <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
-<script src="javascripts/jquery-1.7.2.min.js" type="text/javascript"></script>
-<script src="javascripts/jquery.smooth-scroll.min.js"></script>
+<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css" />
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script src="javascripts/lightbox.js"></script>
-
-<script>
-  jQuery(document).ready(function($) {
-      $('a').smoothScroll({
-        speed: 1000,
-        easing: 'easeInOutCubic'
-      });
-
-      $('.showOlderChanges').on('click', function(e){
-        $('.changelog .old').slideDown('slow');
-        $(this).fadeOut();
-        e.preventDefault();
-      })
-  });
-</script>
+<script src="Bootstrap/js/bootstrap.min.js"></script>
 </head>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -87,6 +73,7 @@
 	<!-- End css3menu.com HEAD section -->
 
 </header>
+</div>
 
 <article class="contentBox3">
 <!-- #BeginEditable "bannerBox left" --> 
