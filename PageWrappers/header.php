@@ -18,59 +18,60 @@
    </script>
 <![endif]-->
 
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
 <link href="http://fonts.googleapis.com/css?family=Simonetta" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="css/style.css" />
 <!--[if lt IE 9]>
 <link rel="stylesheet" type="text/css" href="css/ie.css" />
 <![endif]-->
+<link rel="stylesheet" type="text/css" href="css/style.css" />
 <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
-<link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css" />
-<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script src="javascripts/lightbox.js"></script>
-<script src="Bootstrap/js/bootstrap.min.js"></script>
 </head>
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=136262453114493";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+<script>
+(function(d, s, id) {
+    	var js, fjs = d.getElementsByTagName(s)[0];
+    	if (d.getElementById(id)) return;
+    	js = d.createElement(s); js.id = id;
+    	js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=136262453114493";
+    	fjs.parentNode.insertBefore(js, fjs);
+	}
+(document, 'script', 'facebook-jssdk'));</script>
 <div id="wrapper">
 
 <header>
 <nav id="global">
 <ul>
-<li><a href="index.php">Home</a> </li>
-<li><a href="contactus.php">Contact Us</a></li> 
-<li><a href="map.php">Map</a></li>
+	<li><a href="index.php">Home</a> </li>
+	<li><a href="contactus.php">Contact Us</a></li> 
+	<li><a href="map.php">Map</a></li>
 </ul>
 </nav>
 
 <div id="nameplate">
 	<h1>&nbsp;</h1>
-	</div>
+</div>
 	
 <div id="infobox">
 	<p>Chemists &amp; Consultants</p>
-	</div>
+</div>
 <div id="mainimage1block"></div>	
 <div id="mainimage2block"></div>
 <div id="mainimage3block"></div>	
 <div id="mainimage4block"></div>
-	<!-- Start css3menu.com HEAD section -->
-	<link rel="stylesheet" href="menu_web.css3prj_files/css3menu1/style.css" type="text/css" /><style>
-._css3m{display:none}
-																							   .auto-style1 {
-																								   color: #FFFFFF;
-																							   }
-																							   		  .auto-style2 {
-																											 text-align: center;
-																											 color: #FFFFFF;
-																										 }
-																							   </style>
-	<!-- End css3menu.com HEAD section -->
+
+<!-- Start css3menu.com HEAD section -->
+<link rel="stylesheet" href="menu_web.css3prj_files/css3menu1/style.css" type="text/css" />
+<style>._css3m{display:none} .auto-style1 {color: #FFFFFF;} .auto-style2 {text-align: center; color: #FFFFFF;}</style>
+<!-- End css3menu.com HEAD section -->
 
 </header>
 </div>
