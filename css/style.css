@@ -85,7 +85,7 @@ margin: 0 auto -325px;}
 
 header {
 background: #ffffff url('../images/header.jpg'); 
-position: relative; width: 980px; height: 270px;}
+position: relative; width: 980px; height: 222px;}
 
 /*This sets the code for the logo image area */
 #nameplate {
@@ -121,7 +121,7 @@ display: inline;
 padding: 0;
 margin: 0;}
 
-#global ul li a {
+/* #global ul li a {
 color: #ffffff; 
 text-decoration: none; 
 font-weight: bold; 
@@ -142,7 +142,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7eb403', endC
 background: -webkit-gradient(linear, left top, left bottom, from(#7eb403), to(#648e02));
 background: -moz-linear-gradient(top,  #7eb403,  #648e02);
 box-shadow: 1px 4px 4px #000;
-text-decoration: none;}
+text-decoration: none;} */
 
 #infobox {
 position: absolute;
