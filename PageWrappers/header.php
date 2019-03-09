@@ -1,19 +1,31 @@
-		<div class="container-fluid">
-			<header>
-				<div class="page-header" id="nameplate">
-					<h1>&nbsp;</h1>
+		<div id="headerCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+			<ol class="carousel-indicators">
+				<li data-target="#headerCarousel" data-slide-to="0" class="active"></li>
+				<li data-target="#headerCarousel" data-slide-to="1"></li>
+				<li data-target="#headerCarousel" data-slide-to="2"></li>
+			</ol>
+			<div class="carousel-inner">
+				<div class="carousel-item active">
+					<img src="images/Header.PNG" class="d-block w-100" alt="Header Image">
 				</div>
-				<div id="infobox">
-					<p>Chemists &amp; Consultants</p>
+				<div class="carousel-item">
+					<img src="images/tractor.jpg" class="d-block w-100" alt="Tractor on Field">
 				</div>
-				<div id="mainimage1block"></div>	
-				<div id="mainimage2block"></div>
-				<div id="mainimage3block"></div>	
-				<div id="mainimage4block"></div>
-			</header>
+				<div class="carousel-item">
+					<img src="images/food-and-farming.jpg" class="d-block w-100" alt="Food and Farming">
+				</div>
+			</div>
+			<a class="carousel-control-prev" href="#headerCarousel" role="button" data-slide="prev">
+				<i class="fas fa-arrow-alt-circle-left" style="color: #00844b;" aria-hidden="true"></i>
+				<span class="sr-only">Previous</span>
+			</a>
+			<a class="carousel-control-next" href="#headerCarousel" role="button" data-slide="next">
+				<i class="fas fa-arrow-alt-circle-right" style="color: #00844b;" aria-hidden="true"></i>
+				<span class="sr-only">Next</span>
+			</a>
 		</div>
 		<div class="container-fluid" style="background-color: #564a34;">
-			<nav class="navbar navbar-dark flex-column flex-md-row" style="background-color: #564a34;">
+			<nav class="navbar navbar-dark" style="background-color: #564a34;">
 				<a class="navbar-brand" href="#" style="color: #aba59a;" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 					<img src="favicon.ico" width="30" height="30" alt="">
 					Menu

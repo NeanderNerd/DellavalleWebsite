@@ -1,20 +1,20 @@
-			<div class="container clearfix">
-				<div class="row justify-content-around">
-					<div class="col-md-5">
+			<div class="container-fluid clearfix">
+				<div class="row center">
+					<div class="col-md-6">
 						<!-- #BeginEditable "contentBottomL" --> 
 						<p>
 							<a href="shipping-instructions.php">
-								<img alt="Read the Shipping Instuctions!" title="Read the Shipping Instuctions!" class="imageleft-border" height="91" src="images/shipping.png" width="286">
+								<img alt="Read the Shipping Instuctions!" title="Read the Shipping Instuctions!" height="91" src="images/shipping.png" width="286">
 							</a>
 						</p>
 						<!-- #EndEditable -->
 					</div>
 
-					<div class="col-md-5">
+					<div class="col-md-6">
 						<!-- #BeginEditable "contentBottomR" --> 
 						<p>
 							<a href="forms.php">
-								<img alt="Worksheet Forms" title="Worksheet Forms" class="imageright-border" height="91" src="images/forms.png" width="286">
+								<img alt="Worksheet Forms" title="Worksheet Forms" height="91" src="images/forms.png" width="286">
 							</a>
 						</p>
 						<!-- #EndEditable -->
@@ -29,9 +29,9 @@
 		<div class="container-fluid" id="footer-outer">
 			<footer class="row">
 				<!-- bottom 3 block area -->
-				<section class="col-md-4">
-					<h3>Laboratory:</h3>
-					<h6>
+				<section class="col-md-4 text-md-left">
+					<h3 class="text-md-left">Laboratory:</h3>
+					<h6 class="text-md-left">
 						<strong>Fresno:</strong>
 					</h6>
 					<p>
@@ -48,9 +48,9 @@
 					</p>
 				</section>
 
-				<section class="col-md-4">
-					<h3>Consulting Offices:</h3>
-					<h6>
+				<section class="col-md-4 text-md-left">
+					<h3 class="text-md-left">Consulting Offices:</h3>
+					<h6 class="text-md-left">
 						<strong>Hanford:</strong>
 					</h6>
     				<p>
@@ -59,7 +59,7 @@
 						<br />For Water Samples Call Susan (559) 530-1346
 					</p>
 					<p>	&nbsp;</p>
-					<h6>
+					<h6 class="text-md-left">
 						<strong>Davis</strong>
 					</h6>
 					<p>
@@ -70,9 +70,9 @@
 					</p>
 				</section>
 	
-				<section class="col-md-4">
-					<h3>Drop Off Location:</h3>
-					<h6>
+				<section class="col-md-4 text-md-left">
+					<h3 class="text-md-left">Drop Off Location:</h3>
+					<h6 class="text-md-left">
 						<strong>Paso Robles:</strong>
 					</h6>
 					<p>
@@ -86,17 +86,13 @@
 					</p>
 				</section>
 
-				<div class="clearsmall"></div>
-
 				<div class="container-fluid">
-					<div class= "row">
-						<div class="col-md-12 center">
-							<a class="fab fa-facebook-f col-md-1" href="https://www.facebook.com/dellavallelab"></a>
-							<a class="fab fa-twitter col-md-1" href="https://www.twitter.com/calisoils"></a>
-						</div>
+					<div class= "row justify-content-center">
+							<a class="fab fa-facebook-f col-1" href="https://www.facebook.com/dellavallelab"></a>
+							<a class="fab fa-twitter col-1" href="https://www.twitter.com/calisoils"></a>
 					</div>
 					<div class="row">
-						<div class="col-md-12 center">
+						<div class="col-md-12 text-center">
 							<p class="tiny">
 								Dellavalle Laboratory, Inc. © 	
 								<script type="text/javascript">document.write(new Date().getFullYear());</script>
