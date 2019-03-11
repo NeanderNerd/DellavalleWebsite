@@ -26,13 +26,13 @@
 		</section>
 
 		<div class="push"></div>
-		<div class="container-fluid" id="footer-outer">
+		<div class="container-fluid mb-5" id="footer-outer">
 			<footer class="row">
 				<!-- bottom 3 block area -->
 				<section class="col-md-4 text-md-left">
-					<h3 class="text-md-left">Laboratory:</h3>
+					<h3 class="text-md-left">Laboratory Location:</h3>
 					<h6 class="text-md-left">
-						<strong>Fresno:</strong>
+						Fresno:
 					</h6>
 					<p>
 						1910 W. McKinley Avenue, Suite 110,
@@ -49,9 +49,9 @@
 				</section>
 
 				<section class="col-md-4 text-md-left">
-					<h3 class="text-md-left">Consulting Offices:</h3>
+					<h3 class="text-md-left">Consulting&#8194;&#8194;Offices:</h3>
 					<h6 class="text-md-left">
-						<strong>Hanford:</strong>
+						Hanford:
 					</h6>
     				<p>
 						1216 N Douty Street
@@ -60,7 +60,7 @@
 					</p>
 					<p>	&nbsp;</p>
 					<h6 class="text-md-left">
-						<strong>Davis</strong>
+						Davis:
 					</h6>
 					<p>
 						502 Mace Boulevard, #2-B
@@ -71,9 +71,9 @@
 				</section>
 	
 				<section class="col-md-4 text-md-left">
-					<h3 class="text-md-left">Drop Off Location:</h3>
+					<h3 class="text-md-left">Drop&#8194; Off&#8194; Location:</h3>
 					<h6 class="text-md-left">
-						<strong>Paso Robles:</strong>
+						Paso Robles:
 					</h6>
 					<p>
 						3850 Ramada Drive, Suite. A1
@@ -86,16 +86,16 @@
 					</p>
 				</section>
 
-				<div class="container-fluid">
+				<div class="container-fluid mt-5">
 					<div class= "row justify-content-center">
-							<a class="fab fa-facebook-f col-1" href="https://www.facebook.com/dellavallelab"></a>
-							<a class="fab fa-twitter col-1" href="https://www.twitter.com/calisoils"></a>
+						<a class="fab fa-facebook-f col-1" href="https://www.facebook.com/dellavallelab"></a>
+						<a class="fab fa-twitter col-1" href="https://www.twitter.com/calisoils"></a>
 					</div>
-					<div class="row">
-						<div class="col-md-12 text-center">
+					<div class="row justify-content-center">
+						<div class="col-md-12">
 							<p class="tiny">
 								Dellavalle Laboratory, Inc. © 	
-								<script type="text/javascript">document.write(new Date().getFullYear());</script>
+								<?php echo $y ?>
 							</p>
 							<p class="tiny">All Rights Reserved</p>
 						</div>
