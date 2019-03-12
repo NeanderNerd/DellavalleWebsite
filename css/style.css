@@ -86,7 +86,7 @@ a:hover {
 }
 
 h1 {
-    font: 36px 'Simonetta', cursive, "Century Gothic", Verdana, Helvetica, sans-serif;
+    font: 65px 'Simonetta', cursive, "Century Gothic", Verdana, Helvetica, sans-serif;
     color: #334801;
     margin: .3em 0 .3em 0;
     letter-spacing: 1px;
@@ -437,9 +437,16 @@ text-decoration: none;} */
 
 #footer-outer {
     width: 100%;
-    height: 900px;
+    height: auto;
     text-align: left;
-    background: #000000 url('../images/footer.jpg') repeat-x;
+    background: #7aab04;
+    background: -moz-linear-gradient(top, #7aab04 0%, #000000 55%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #7aab04), color-stop(55%, #000000));
+    background: -webkit-linear-gradient(top, #7aab04 0%, #000000 55%);
+    background: -o-linear-gradient(top, #7aab04 0%, #000000 55%);
+    background: -ms-linear-gradient(top, #7aab04 0%, #000000 55%);
+    background: linear-gradient(to bottom, #7aab04 0%, #000000 55%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7aab04', endColorstr='#000000', GradientType=0);
 }
 
 footer {
@@ -450,7 +457,7 @@ footer {
     letter-spacing: 2px;
     font-size: 75%;
     line-height: 1.5em;
-    padding: 20px 0 0 0;
+    padding: 20px 0 25px 0;
     margin: 0 auto;
 }
 
@@ -499,7 +506,7 @@ footer li a:hover {
 }
 
 footer h3 {
-    font: 30px 'Homemade Apple',cursive;
+    font: 30px 'Homemade Apple', cursive;
     color: #ffffff;
     margin: .3em 0;
     letter-spacing: 1px;
@@ -653,7 +660,7 @@ legend {
 
 #accordionLinks {
     color: #334801;
-    font: 24px 'Homemade Apple',cursive;
+    font: 34px 'Mr Dafoe', cursive;
     letter-spacing: 1px;
     text-decoration: none;
     padding: 5px;
@@ -668,25 +675,59 @@ legend {
 
 td strong {
     color: #334801;
-    font: 18px 'Homemade Apple',cursive;
+    font: 18px 'Homemade Apple', cursive;
 }
 
-td a {
+h4 strong {
+    color: #334801;
+    font: 18px 'Homemade Apple', cursive;
+}
+
+a {
     color: #334801;
 }
 
-td a:hover {
+a:hover {
     color: #00844b;
     text-decoration: none;
     font-weight: bold;
 }
 
-nav a {
-    color: #334801;
+.rotate {
+    -webkit-animation: spin 2s infinite linear;
+    -moz-animation: spin 2s infinite linear;
+    -ms-animation: spin 2s infinite linear;
+    -o-animation: spin 2s infinite linear;
+    animation: spin 2s infinite linear;
+
+    -webkit-transform-origin: 50% 50%;
+    -moz-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    -o-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
 }
 
-nav a:hover {
-    color: #00844b;
-    text-decoration: none;
-    font-weight: bold;
+@-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+}
+
+@-moz-keyframes spin {
+    0% { -moz-transform: rotate(0deg); }
+    100% { -moz-transform: rotate(360deg); }
+}
+
+@-ms-keyframes spin {
+    0% { -ms-transform: rotate(0deg); }
+    100% { -ms-transform: rotate(360deg); }
+}
+
+@-o-keyframes spin {
+    0% { -o-transform: rotate(0deg); }
+    100% { -o-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }

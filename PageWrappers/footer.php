@@ -26,8 +26,8 @@
 		</section>
 
 		<div class="push"></div>
-		<div class="container-fluid mb-5" id="footer-outer">
-			<footer class="row">
+		<footer class="container-fluid" id="footer-outer">
+			<div class="row">
 				<!-- bottom 3 block area -->
 				<section class="col-md-4 text-md-left">
 					<h3 class="text-md-left">Laboratory Location:</h3>
@@ -85,24 +85,21 @@
 						<br>For Consultation, Please call (800) 228-9896 for assistance.
 					</p>
 				</section>
-
-				<div class="container-fluid mt-5">
-					<div class= "row justify-content-center">
-						<a class="fab fa-facebook-f col-1" href="https://www.facebook.com/dellavallelab"></a>
-						<a class="fab fa-twitter col-1" href="https://www.twitter.com/calisoils"></a>
-					</div>
-					<div class="row justify-content-center">
-						<div class="col-md-12">
-							<p class="tiny">
-								Dellavalle Laboratory, Inc. © 	
-								<?php echo $y ?>
-							</p>
-							<p class="tiny">All Rights Reserved</p>
-						</div>
-					</div>
+			</div>	
+			<div class= "row justify-content-center center" style="padding-top: 25px">
+				<a class="fab fa-facebook-f col-1" href="https://www.facebook.com/dellavallelab"></a>
+				<a class="fab fa-twitter col-1" href="https://www.twitter.com/calisoils"></a>
+			</div>
+			<div class="row justify-content-center center">
+				<div class="col-12">
+					<p class="tiny">
+						Dellavalle Laboratory, Inc. ©
+						<?php echo $y ?>
+					</p>
+					<p class="tiny">All Rights Reserved</p>
 				</div>
-			</footer>
-		</div>
+			</div>
+		</footer>
 
 		<!-- jQuery library -->
 		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
