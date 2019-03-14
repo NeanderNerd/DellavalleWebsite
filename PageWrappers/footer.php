@@ -1,31 +1,25 @@
+			<!-- Boxes Above Footer -->
 			<div class="container-fluid clearfix">
 				<div class="row center">
 					<div class="col-md-6">
-						<!-- #BeginEditable "contentBottomL" --> 
 						<p>
 							<a href="shipping-instructions.php">
 								<img alt="Read the Shipping Instuctions!" title="Read the Shipping Instuctions!" height="91" src="images/shipping.png" width="286">
 							</a>
 						</p>
-						<!-- #EndEditable -->
 					</div>
 
 					<div class="col-md-6">
-						<!-- #BeginEditable "contentBottomR" --> 
 						<p>
 							<a href="forms.php">
 								<img alt="Worksheet Forms" title="Worksheet Forms" height="91" src="images/forms.png" width="286">
 							</a>
 						</p>
-						<!-- #EndEditable -->
 					</div>
 				</div>
 			</div>
-
-			<div class="clearsmall"></div>
 		</section>
-
-		<div class="push"></div>
+		
 		<footer class="container-fluid" id="footer-outer">
 			<div class="row">
 				<!-- bottom 3 block area -->
@@ -35,7 +29,7 @@
 						Fresno:
 					</h6>
 					<p>
-						1910 W. McKinley Avenue, Suite 110,
+						1910 W. McKinley Avenue, Suite 110
 						<br />Fresno, CA 93728
 						<br />1-800-228-9896
 					</p>
@@ -76,7 +70,7 @@
 						Paso Robles:
 					</h6>
 					<p>
-						3850 Ramada Drive, Suite. A1
+						3850 Ramada Drive, Suite A1
 						<br>Paso Robles, CA
 					</p>
 					<p>
@@ -87,8 +81,8 @@
 				</section>
 			</div>	
 			<div class= "row justify-content-center center" style="padding-top: 25px">
-				<a class="fab fa-facebook-f col-1" href="https://www.facebook.com/dellavallelab"></a>
-				<a class="fab fa-twitter col-1" href="https://www.twitter.com/calisoils"></a>
+				<a class="fab fa-facebook-f fa-3x col-1" href="https://www.facebook.com/dellavallelab"></a>
+				<a class="fab fa-twitter fa-3x col-1" href="https://www.twitter.com/calisoils"></a>
 			</div>
 			<div class="row justify-content-center center">
 				<div class="col-12">

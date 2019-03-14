@@ -9,29 +9,37 @@
 	</head>
 	<body>
 		<!-- Header php attachment -->
-		<?php include 'PageWrappers/header.php'; ?> 
- 
-		<div class="clearsmall"></div>
+		<?php include 'PageWrappers/header.php'; ?>
 
 		<!-- Content for main section start --> 
 		<section>
-			<div class="container-fluid" style="padding-bottom: 25px;">
-				<h1 style="font-family: 'Mr Dafoe', cursive;">What We Do&nbsp;&nbsp;&nbsp;</h1>
+			<div class="container-fluid">
+				<h1>What We Do</h1>
 				<div class="row">
 					<div class="col-2">
 						<div class="list-group" id="list-tab" role="tablist">
-							<a class="list-group-item list-group-item-action active center" id="list-Dec-list" data-toggle="list" href="#list-Dec" role=tab aria-controls="Dec">
-								<i class="fas fa-info"></i>
+							<a class="list-group-item list-group-item-action active text-center" id="list-Dec-list" data-toggle="list" href="#list-Dec" role=tab aria-controls="Dec">
+								<i class="fas fa-info fa-2x fa-spin"></i>
+								<i class="fas fa-info fa-2x nospin"></i>
 							</a>
-							<a class="list-group-item list-group-item-action center" id="list-Cons-list" data-toggle="list" href="#list-Cons" role=tab aria-controls="Cons"></a>
-							<a class="list-group-item list-group-item-action center" id="list-Save-list" data-toggle="list" href="#list-Save" role=tab aria-controls="Save"></a>
-							<a class="list-group-item list-group-item-action center" id="list-Regs-list" data-toggle="list" href="#list-Regs" role=tab aria-controls="Regs"></a>
+							<a class="list-group-item list-group-item-action text-center" id="list-Cons-list" data-toggle="list" href="#list-Cons" role=tab aria-controls="Cons">
+								<i class="fas fa-clipboard-list fa-2x fa-spin"></i>
+								<i class="fas fa-clipboard-list fa-2x nospin"></i>
+							</a>
+							<a class="list-group-item list-group-item-action text-center" id="list-Save-list" data-toggle="list" href="#list-Save" role=tab aria-controls="Save">
+								<i class="fas fa-file-invoice-dollar fs-2x fa-spin"></i>
+								<i class="fas fa-file-invoice-dollar fa-2x nospin"></i>
+							</a>
+							<a class="list-group-item list-group-item-action text-center" id="list-Regs-list" data-toggle="list" href="#list-Regs" role=tab aria-controls="Regs">
+								<i class="fas fa-balance-scale fa-2x fa-spin"></i>
+								<i class="fas fa-balance-scale fa-2x nospin"></i>
+							</a>
 						</div>
 					</div>
 					<div class="col-10">
 						<div class="tab-content" id="nav-tabContent">
 							<div class="tab-pane fade show active" id="list-Dec" role="tabpanel" aria-labelledby="list-dec-list">
-								<h3 style="font-family: 'Mr Dafoe', cursive;">Provide Quality Information for Making Decisions</h3>
+								<h3>Provide Quality Information for Making Decisions</h3>
 								<ul>
 									<li>
 										Our accurate laboratory results are assured by internal quality controls
@@ -49,7 +57,7 @@
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="list-Cons" role="tabpanel" aria-labelledby="list-Cons-list">
-							<h3 style="font-family: 'Mr Dafoe', cursive;">Provide Experienced Consultants</h3>
+							<h3>Provide Experienced Consultants</h3>
 								<ul>
 									<li>
 										Our Certified Professional Agronomists and Soil/Plant Scientists are
@@ -66,7 +74,7 @@
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="list-Save" role="tabpanel" aria-labelledby="list-Save-list">
-							<h3 style="font-family: 'Mr Dafoe', cursive;">Save You Time (Time is Money!)</h3>
+							<h3>Save You Time (Time is Money!)</h3>
 								<ul>
 									<li>
 										Information is provided expeditiously so you can respond quickly.
@@ -85,7 +93,7 @@
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="list-Regs" role="tabpanel" aria-labelledby="list-Regs-list">
-							<h3 style="font-family: 'Mr Dafoe', cursive;">Assist With Litigation and Regulations</h3>
+							<h3>Assist With Litigation and Regulations</h3>
 								<ul>
 									<li>
 										Expert witness investigation and testimony can be provided.
@@ -113,12 +121,5 @@
 
 			<!-- Footer php attachment -->
 			<?php include 'PageWrappers/footer.php'; ?>
-			<script>
-				$('a.list-group-item').click(function(){
-					While($(this).hasClass("active")){
-						$('i.fa-info').addClass("rotate");
-					};
-				});
-			</script>
 	</body>
 </html>
