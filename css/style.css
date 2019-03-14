@@ -9,17 +9,11 @@ body {
     margin: 0 auto;
 }
 
-.container-fluid{
+.container-fluid {
     padding-bottom: 25px;
 }
 
-header,
-footer,
-nav,
-article,
-section,
-aside,
-hgroup {
+header, footer, nav, article, section, aside, hgroup {
     display: block;
 }
 
@@ -47,13 +41,12 @@ li {
     padding-left: 1.3em;
 }
 
-li:before{
+li:before {
     content: "\f06c";
     font-family: FontAwesome;
     display: inline-block;
     margin-left: -1.3em;
-    width:1.3em;
-
+    width: 1.3em;
 }
 
 table {
@@ -104,13 +97,13 @@ h3 {
 }
 
 h4 {
-    font: bold 16px 'Mr Dafoe', cursive;
-    color: #505050;
+    font: bold 35px 'Mr Dafoe', cursive;
+    color: #334801;
     margin: .3em 0;
 }
 
 h5 {
-    font: bold 14px 'Mr Dafoe', cursive;
+    font: 18px 'Homemade Apple', cursive;
     color: #334801;
     margin: .3em 0;
 }
@@ -314,12 +307,12 @@ a.list-group-item.active {
     border-color: #00844B;
 }
 
-a.list-group-item > .fa-spin {
+a.list-group-item>.fa-spin {
     display: none;
     color: #79A904;
 }
 
-a.list-group-item > .nospin {
+a.list-group-item>.nospin {
     color: #79A904;
 }
 
@@ -328,33 +321,48 @@ a.list-group-item:hover {
     background-color: #00844B
 }
 
-a.list-group-item.active > .fa-spin {
+a.list-group-item.active>.fa-spin {
     display: block;
     color: #79A904;
 }
 
-a.list-group-item.active > .nospin {
+a.list-group-item.active>.nospin {
     display: none;
     color: #79A904;
 }
 
-@media only screen and (max-width: 768px){
-    a.list-group-item{
-        padding: 10px 5px 10px 5px;
-    }
-    a#list-Regs-list{
-        padding: 10px 5px 10px 1px;
-    }
-    a.list-group-item >.fa-spin {
+a.list-group-item>.small.nospin {
+    display: none;
+    color: #79A904;
+}
+
+a.list-group-item.active>.small.nospin {
+    display: none;
+    color: #79A904;
+}
+
+a.nav-item.nav-link.active {
+    background-color: #564a34;
+    color: #00844B;
+}
+
+@media only screen and (max-width: 768px) {
+    a.list-group-item>.fa-spin {
         display: none;
     }
-    a.list-group-item.active > .fa-spin {
+    a.list-group-item.active>.fa-spin {
         display: none;
     }
-    a.list-group-item > .nospin {
+    a.list-group-item>.nospin {
+        display: none;
+    }
+    a.list-group-item.active>.nospin {
+        display: none;
+    }
+    a.list-group-item>.small.nospin {
         display: block;
     }
-    a.list-group-item.active > .nospin {
+    a.list-group-item.active>.small.nospin {
         display: block;
     }
     img.img-thumbnail {
@@ -364,5 +372,5 @@ a.list-group-item.active > .nospin {
     div#consultantsBody table.table-hover th {
         height: 112.5px;
         width: 70px;
-    } 
+    }
 }

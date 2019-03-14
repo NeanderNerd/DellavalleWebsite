@@ -10,9 +10,7 @@
 	<body>
 		<!-- Header php attachment -->
 		<?php include 'PageWrappers/header.php'; ?>
-
- 		<div class="clearsmall"></div>
-
+		
 		 <!-- Content for main section start -->
 		<section>
 			<div  class="container-fluid">
@@ -269,9 +267,9 @@
 									laboratories, coordinating sample collection and answering inquiries;
 									you can depend on her. Bids and quotations are available upon request.
 								</p>
-								<h4>
-									<strong>Peggy Miller</strong> - Client Service Specialist
-								</h4>
+								<h5>
+									Peggy Miller - Client Service Specialist
+								</h5>
 								<ul>
 									<li>&nbsp;Soil and plant tissue inquiries</li>
 									<li>&nbsp;Agricultural inquiries (water, manure, etc.)</li>
