@@ -3,10 +3,24 @@
     <?php $x = 0; ?>
 
     <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136360584-1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-136360584-1');
+        </script>
+
         <!-- Head attachment -->
         <?php include 'PageWrappers/Head.php'; ?>
         <title>Services - Dellavalle Laboratory Inc.</title>
-        <meta name="description" content="An environmental/agricultural laboratory and consulting firm located in the San Joaquin Valley with clientele worldwide." />
+        <meta name="description"
+            content="An environmental/agricultural laboratory and consulting firm located in the San Joaquin Valley with clientele worldwide." />
     </head>
 
     <body>
@@ -201,4 +215,5 @@
             <!-- Footer php attachment -->
             <?php include 'PageWrappers/footer.php'; ?>
     </body>
+
 </html>
