@@ -1,36 +1,58 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- #BeginTemplate "Templates/layout1.dwt" -->
-<head>
-<!-- #BeginEditable "doctitle" -->
-<title>Dellavalle Laboratory Inc - Chemists and Consultants</title>
-<!-- #BeginEditable "description" -->
-<meta name="description" content="An environmental/agricultural laboratory and consulting firm located in the San Joaquin Valley with clientele worldwide." />
-<!-- #EndEditable -->
-</head>
+    <!-- #BeginTemplate "Templates/layout1.dwt" -->
 
-<body>
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136360584-1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
 
-<?php include 'PageWrappers/header.php'; ?> 
- 
-<div class="clearsmall"></div>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-<?php include 'PageWrappers/leftMenu.php'; ?>
+        gtag('config', 'UA-136360584-1');
+        </script>
+        <!-- #BeginEditable "doctitle" -->
+        <title>Dellavalle Laboratory Inc - Chemists and Consultants</title>
+        <!-- #BeginEditable "description" -->
+        <meta name="description"
+            content="An environmental/agricultural laboratory and consulting firm located in the San Joaquin Valley with clientele worldwide." />
+        <!-- #EndEditable -->
+    </head>
 
-<section id="contentRight">
-<!-- #BeginEditable "contentRight" --> 
-<h1>Dellavalle Laboratory, Inc.</h1>
-	<p>An environmental/agricultural laboratory and consulting firm located in the San Joaquin Valley with clientele worldwide. Our clients include dairies, growers, homeowners, engineering firms, food processors, water systems, rural schools, fertilizer and compost producers.</p>
-	<p>Agriculturally, our analytical methods are for arid and semi-arid growing conditions. The laboratory specializes in analyzing: soils; plant tissues; irrigation, influent/effluent waters; composts and fertilizers. Our professionals provide fertilizer recommendations, nutrient management plans, troubleshooting expertise, irrigation and fertility/salinity management.</p>
-	<p>The laboratory is ELAP certified and also approved by California Department of Food 
-	&amp; Agriculture and California Water Quality Control Board. We participate in numerous performance evaluations. Our quality assurance and quality control assures that you will receive quality results.</p>
-	<p>Although most of our work is from the 11 Western states, we have extensive experience with soil and tissue from Japan, Mexico, Chile, Canada, Spain, Jordan and Uzbekistan, to name a few.</p>
-<!-- #EndEditable -->
+    <body>
 
-</body>
+        <?php include 'PageWrappers/header.php'; ?>
 
-<?php include 'PageWrappers/footer.php'; ?> 
+        <div class="clearsmall"></div>
 
-<!-- #EndTemplate -->
+        <?php include 'PageWrappers/leftMenu.php'; ?>
+
+        <section id="contentRight">
+            <!-- #BeginEditable "contentRight" -->
+            <h1>Dellavalle Laboratory, Inc.</h1>
+            <p>An environmental/agricultural laboratory and consulting firm located in the San Joaquin Valley with
+                clientele worldwide. Our clients include dairies, growers, homeowners, engineering firms, food
+                processors, water systems, rural schools, fertilizer and compost producers.</p>
+            <p>Agriculturally, our analytical methods are for arid and semi-arid growing conditions. The laboratory
+                specializes in analyzing: soils; plant tissues; irrigation, influent/effluent waters; composts and
+                fertilizers. Our professionals provide fertilizer recommendations, nutrient management plans,
+                troubleshooting expertise, irrigation and fertility/salinity management.</p>
+            <p>The laboratory is ELAP certified and also approved by California Department of Food
+                &amp; Agriculture and California Water Quality Control Board. We participate in numerous performance
+                evaluations. Our quality assurance and quality control assures that you will receive quality results.
+            </p>
+            <p>Although most of our work is from the 11 Western states, we have extensive experience with soil and
+                tissue from Japan, Mexico, Chile, Canada, Spain, Jordan and Uzbekistan, to name a few.</p>
+            <!-- #EndEditable -->
+
+    </body>
+
+    <?php include 'PageWrappers/footer.php'; ?>
+
+    <!-- #EndTemplate -->
 
 </html>
