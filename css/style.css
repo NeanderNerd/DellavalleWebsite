@@ -13,6 +13,10 @@ body {
     padding-bottom: 25px;
 }
 
+.noPad {
+    padding-bottom: 0px;
+}
+
 header, footer, nav, article, section, aside, hgroup {
     display: block;
 }
@@ -344,6 +348,10 @@ a.list-group-item.active>.small.nospin {
 a.nav-item.nav-link.active {
     background-color: #564a34;
     color: #00844B;
+}
+
+.noBold {
+    font-weight: normal;
 }
 
 @media only screen and (max-width: 768px) {

@@ -79,7 +79,7 @@
                         </a>
                     </li>
                 </ul>
-                <h4>Services</h4>
+                <h4 class="noBold">Services</h4>
                 <p>
                     &emsp;Consultation in irrigation management, soil science, plant nutrition, soil fertility, salinity
                     management
@@ -89,7 +89,7 @@
                     agricultural,
                     domestic and environmental applications.
                 </p>
-                <h4>Turnaround Time</h4>
+                <h4 class="noBold">Turnaround Time</h4>
                 <p>
                     &emsp;<strong>Work Days:</strong> Depending on backlog, actual working days may vary. The number
                     indicated is
@@ -97,27 +97,27 @@
                     received
                     at the Fresno laboratory. Allow extra time for sample shipment, report preparation and delivery.
                 </p>
-                <h4>Terms</h4>
+                <h4 class="noBold">Terms</h4>
                 <p>
                     &emsp;30 days. New customers without established credit will be required to pay in advance.
                 </p>
-                <h4>Prices</h4>
+                <h4 class="noBold">Prices</h4>
                 <p>
                     &emsp;Contact one of our Client Service Specialists for pricing, volume discounts, terms, sample
                     size or
                     containers. QC Documents are available upon request.
                 </p>
-                <h4>Sampling</h4>
+                <h4 class="noBold">Sampling</h4>
                 <p>
                     &emsp;Sampling services are available upon request. Sample containers are available at no charge.
                 </p>
-                <h4>Sample Storage</h4>
+                <h4 class="noBold">Sample Storage</h4>
                 <p>
                     &emsp;After analyses soil/tissue samples stored for 30 days; water stored for 21 days. If needed,
                     samples can
                     be held longer for a monthly fee.
                 </p>
-                <h4>Rush Samples</h4>
+                <h4 class="noBold">Rush Samples</h4>
                 <p>
                     &emsp;Results in less than normal turnaround time are "Rush". Rush must be authorized by Laboratory
                     Supervisor.
@@ -125,13 +125,13 @@
                     Weekend/holiday
                     work requires individual quotes.
                 </p>
-                <h4>Foreign Samples</h4>
+                <h4 class="noBold">Foreign Samples</h4>
                 <p>
                     &emsp;We are authorized to receive imported soil and plant tissue for analytical purposes. These
                     samples
                     require special handling.
                 </p>
-                <h4>References</h4>
+                <h4 class="noBold">References</h4>
                 <ul>
                     <li>
                         <strong>S or B </strong>- Soil, Plant and Water Reference Methods for the Western Region, 3rd

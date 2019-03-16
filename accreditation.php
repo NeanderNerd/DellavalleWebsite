@@ -40,32 +40,32 @@
                     Program for water and wastewater and the North American Proficiency Testing program for manure,
                     compost, soil, plant tissue and ag water.
                 </p>
-                <h4>Accreditation Program for Water &amp; Wastewater</h4>
+                <h4 class="noBold">Accreditation Program for Water &amp; Wastewater</h4>
                 <ul>
                     <li>
                         California State Water Resources Control Board<br>
                         &emsp;Environmental Laboratory Accreditation Program, Certificate #1595
                     </li>
                 </ul>
-                <h4>Accreditation Program for Manure</h4>
+                <h4 class="noBold">Accreditation Program for Manure</h4>
                 <ul>
                     <li>
                         Minnesota Department of Agriculture<br>
                         &emsp;Manure Testing Laboratory Certification
                     </li>
                 </ul>
-                <h4>Approved Laboratory</h4>
+                <h4 class="noBold">Approved Laboratory</h4>
                 <ul>
                     <li>CDFA Approved Laboratory Agreement and Permit #10-02</li>
                     <li>California Regional Water Quality Control Board</li>
                 </ul>
-                <h4>Proficiency Programs</h4>
+                <h4 class="noBold">Proficiency Programs</h4>
                 <p>
                     &emsp;Soil, plant tissue, agricultural water and manure (MAP): North American Proficiency Testing
                     Program (NAPT)
                     organized by the Soil Science Society of America
                 </p>
-                <h4>Method Reference</h4>
+                <h4 class="noBold">Method Reference</h4>
                 <ul>
                     <li>Soil, Plant and Water Reference Methods for the Western Region, 2005, 3rd Edition</li>
                     <li>Recommended Methods of Manure Analysis (RMMA)</li>
