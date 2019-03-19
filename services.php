@@ -54,7 +54,7 @@
                         </div>
                     </div>
                     <div class="tab-content col-12" id="pills-tabContent">
-                        <div class="tab-pane fade show active" id="pills-lab" role=tabPanel
+                        <div class="tab-pane fade show active" id="pills-lab" role="tabPanel"
                             aria-labelledby="pills-lab-tab">
                             <h1>Laboratory</h1>
                             <ul>
