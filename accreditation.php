@@ -56,8 +56,12 @@
                 </ul>
                 <h4 class="noBold">Approved Laboratory</h4>
                 <ul>
-                    <li>CDFA Approved Laboratory Agreement and Permit #10-02</li>
-                    <li>California Regional Water Quality Control Board</li>
+                    <li>
+                        CDFA Approved Laboratory Agreement and Permit #10-02
+                    </li>
+                    <li>
+                        California Regional Water Quality Control Board
+                    </li>
                 </ul>
                 <h4 class="noBold">Proficiency Programs</h4>
                 <p>
@@ -67,16 +71,32 @@
                 </p>
                 <h4 class="noBold">Method Reference</h4>
                 <ul>
-                    <li>Soil, Plant and Water Reference Methods for the Western Region, 2005, 3rd Edition</li>
-                    <li>Recommended Methods of Manure Analysis (RMMA)</li>
-                    <li>Test Methods for the Examination of Composting and Compost (TMECC)</li>
-                    <li>Diagnosis and Improvement of Saline and Alkali Soils, Handbook 60, L.A. Richards, 1954, State of
-                        California Department of Food and Agriculture</li>
-                    <li>California Department of Food &amp; Agriculture, Feed &amp; Fertilizer, July 1988, 3D: Gypsum,
-                        Method</li>
-                    <li>Standard Methods for the Examination of Water and Wastewater, 19th Edition</li>
-                    <li>Soil Science Society of America Book Series, No. 5, 1996</li>
-                    <li>Association of Official Analytical Chemists</li>
+                    <li>
+                        Soil, Plant and Water Reference Methods for the Western Region, 2005, 3rd Edition
+                    </li>
+                    <li>
+                        Recommended Methods of Manure Analysis (RMMA)
+                    </li>
+                    <li>
+                        Test Methods for the Examination of Composting and Compost (TMECC)
+                    </li>
+                    <li>
+                        Diagnosis and Improvement of Saline and Alkali Soils, Handbook 60, L.A. Richards, 1954, State of
+                        California Department of Food and Agriculture
+                    </li>
+                    <li>
+                        California Department of Food &amp; Agriculture, Feed &amp; Fertilizer, July 1988, 3D: Gypsum,
+                        Method
+                    </li>
+                    <li>
+                        Standard Methods for the Examination of Water and Wastewater, 19th Edition
+                    </li>
+                    <li>
+                        Soil Science Society of America Book Series, No. 5, 1996
+                    </li>
+                    <li>
+                        Association of Official Analytical Chemists
+                    </li>
                 </ul>
             </div>
             <!-- Content for main section end -->

@@ -45,12 +45,22 @@
                             from the entire field. Divide the area into 10 or 40 acre lots (or any appropriate
                             size) based upon the following:
                             <ul>
-                                <li>Soil type, texture or color</li>
-                                <li>Topography, slope, changes in slope, cuts and fills</li>
-                                <li>Variation in crop history</li>
-                                <li>Plant variety, rootstock, age, harvest quality, irrigation source or
-                                    leafcoloration</li>
-                                <li>Good areas vs. poor areas</li>
+                                <li>
+                                    Soil type, texture or color
+                                </li>
+                                <li>
+                                    Topography, slope, changes in slope, cuts and fills
+                                </li>
+                                <li>
+                                    Variation in crop history
+                                </li>
+                                <li>
+                                    Plant variety, rootstock, age, harvest quality, irrigation source or
+                                    leafcoloration
+                                </li>
+                                <li>
+                                    Good areas vs. poor areas
+                                </li>
                             </ul>
                         </li>
                         <li>
@@ -78,17 +88,20 @@
                                         <div class="col-12">
                                             <h4 class="noBold">Equipment:</h4>
                                             <ul>
-                                                <li>Soil probe or shovel; however, backhoe, soil auger or posthole
-                                                    digger
-                                                    may be used.</li>
-                                                <li>Clean moisture-proof quart-size bags. Use paper bags only if
-                                                    soil is
-                                                    very dry.</li>
-                                                <li>Clean plastic bucket to mix samples, optional.</li>
+                                                <li>
+                                                    Soil probe or shovel; however, backhoe, soil auger or posthole
+                                                    digger may be used.
+                                                </li>
+                                                <li>
+                                                    Clean moisture-proof quart-size bags. Use paper bags only if
+                                                    soil is very dry.
+                                                </li>
+                                                <li>
+                                                    Clean plastic bucket to mix samples, optional.
+                                                </li>
                                                 <li>
                                                     Samples collected for microbiology, nematode and pesticide
-                                                    residue
-                                                    analysis generally need
+                                                    residue analysis generally need
                                                     refrigeration so have a cooler and coolant available.
                                                 </li>
                                             </ul>
@@ -96,8 +109,7 @@
                                             <ul>
                                                 <li>
                                                     Walk a zigzag course around or through the sampling area taking
-                                                    20 to 30
-                                                    cores, enough to make a
+                                                    20 to 30 cores, enough to make a
                                                     quart of soil. Stay away from field edges.
                                                     <ul>
                                                         <li>
@@ -107,43 +119,38 @@
                                                         </li>
                                                         <li>
                                                             For tree and vine crops, soil samples should be taken
-                                                            one-foot
-                                                            increments to the depth of
-                                                            rooting which may require three to five samples from the
-                                                            same
-                                                            area.
+                                                            one-foot increments to the depth of
+                                                            rooting which may require three to five samples from the same area.
                                                         </li>
                                                     </ul>
                                                 </li>
-                                                <li>Collect one quart of soil and put in a clean quart-size bag.
+                                                <li>
+                                                    Collect one quart of soil and put in a clean quart-size bag.
                                                 </li>
                                                 <li>
                                                     If collecting soils from multiple sites, composite by mixing in
-                                                    clean
-                                                    plastic bucket and taking one
-                                                    quart per sample.
+                                                    clean plastic bucket and taking one quart per sample.
                                                 </li>
                                                 <li>
                                                     Clearly print on each bag using an indelible marker or ballpoint
-                                                    pen
-                                                    your name/company, site and
-                                                    sample description.
+                                                    pen your name/company, site and sample description.
                                                 </li>
                                                 <li>
-                                                    Complete a <a class=link href="forms.php" target="_blank">Work
-                                                        Request</a> form.
-                                                    Please be sure to print clearly and return it with your sample.
+                                                    Complete a <a class=link href="forms.php" target="_blank">Work Request</a>
+                                                    form. Please be sure to print clearly and return it with your sample.
                                                 </li>
                                                 <li>
                                                     Deliver to Dellavalle by:
                                                     <ul>
                                                         <li>
-                                                            <a class="link" href="map.php" target="_blank">In person
-                                                                Drop
-                                                                off</a>
+                                                            <a class="link" href="map.php" target="_blank">
+                                                                In person drop off
+                                                            </a>
                                                         </li>
                                                         <li>
-                                                            <a class="link" href="shipping-instructions.php" target="_blank">Shipping</a>
+                                                            <a class="link" href="shipping-instructions.php" target="_blank">
+                                                                Shipping
+                                                            </a>
                                                         </li>
                                                     </ul>
                                                 </li>
@@ -230,13 +237,20 @@
                                             </div>
                                             <div class="tab-pane fade" id="pills-soilOrn" role="tabPanel" aria-labelledby="pills-soilOrn-tab">
                                                 <ul>
-                                                    <li>Sampling depths vary depending on the plant selection.
+                                                    <li>
+                                                        Sampling depths vary depending on the plant selection.
                                                         <ul>
-                                                            <li>For turf: the critical depth for preplant
+                                                            <li>
+                                                                For turf: the critical depth for preplant
                                                                 consideration is 0
-                                                                to 6 inches</li>
-                                                            <li>Shrubs: 0 to 18 inches</li>
-                                                            <li>Trees: 0 to 24 or 36 inches</li>
+                                                                to 6 inches
+                                                            </li>
+                                                            <li>
+                                                                Shrubs: 0 to 18 inches
+                                                            </li>
+                                                            <li>
+                                                                Trees: 0 to 24 or 36 inches
+                                                            </li>
                                                             <li>
                                                                 For deep-rooted plants with salt intolerances,
                                                                 sample
@@ -312,17 +326,21 @@
                                                     more information on timing and
                                                     proper plant parts see specific Tissue Sampling below.
                                                 </li>
-                                                <li>Collect 50-80 petioles or leaves per sample.</li>
-                                                <ul>
-                                                    <li>Leaves: Collect only fully-expanded mature leaves.</li>
-                                                    <li>
-                                                        Petioles: Take only petioles, removing the leaf blade in the
-                                                        field.
-                                                        (It only takes a few minutes for blades to absorb nutrients
-                                                        from
-                                                        petioles.)
-                                                    </li>
-                                                </ul>
+                                                <li>
+                                                    Collect 50-80 petioles or leaves per sample.
+                                                    <ul>
+                                                        <li>
+                                                            Leaves: Collect only fully-expanded mature leaves.
+                                                        </li>
+                                                        <li>
+                                                            Petioles: Take only petioles, removing the leaf blade in the
+                                                            field.
+                                                            (It only takes a few minutes for blades to absorb nutrients
+                                                            from
+                                                            petioles.)
+                                                        </li>
+                                                    </ul>
+                                                </li>
                                                 <li>
                                                     Clearly print on each bag using an indelible marker or ballpoint
                                                     pen
@@ -347,16 +365,18 @@
                                                         </li>
                                                     </ul>
                                                 </li>
-                                                <li>Tissue samples are rinsed upon arrival so ship promptly as dry
+                                                <li>
+                                                    Tissue samples are rinsed upon arrival so ship promptly as dry
                                                     samples
-                                                    cannot be rinsed.</li>
+                                                    cannot be rinsed.
+                                                </li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-12">
                                             <h4 class="noBold">Specific Tissue Sampling:</h4>
-                                            <div class="nav nav-pills mb-3" id="soilTabs" role="tabList">
+                                            <div class="nav nav-pills mb-3" id="tisTabs" role="tabList">
                                                 <a class="nav-item nav-link" id="pills-tisFar-tab" data-toggle="pill" href="#pills-tisFar" role="tab" aria-controls="pills-tisFar" aria-selected="false">
                                                     Field &amp; Row Crops
                                                 </a>
@@ -369,7 +389,7 @@
                                             </div>
                                         </div>
                                         <div class="tab-content col-12" id="pills-tabContent">
-                                            <div class="tab-pane fade" id="pills-soilFar" role="tabPanel" aria-labelledby="pills-soilFar-tab">
+                                            <div class="tab-pane fade" id="pills-tisFar" role="tabPanel" aria-labelledby="pills-tisFar-tab">
                                                 <table class="table table-hover">
                                                     <thead>
                                                         <tr>
@@ -451,9 +471,101 @@
                                                     </tbody>
                                                 </table>
                                             </div>
-                                            <div class="tab-pane fade" id="pills-soilPerm" role="tabPanel" aria-labelledby="pills-soilPerm-tab">
+                                            <div class="tab-pane fade" id="pills-tisPerm" role="tabPanel" aria-labelledby="pills-tisPerm-tab">
+                                                <table class="table table-hover">
+                                                    <thead>
+                                                        <tr>
+                                                            <th scope="col">Crop</th>
+                                                            <th scope="col">Plant Part to Sample</th>
+                                                            <th scope="col">Time of Sampling</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <th scope="row">Blueberries</th>
+                                                            <td>Leaves &#8211; mid-shoot</td>
+                                                            <td>April thru September</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scop="row">Citrus</th>
+                                                            <td>Mature leaves from non-fruiting terminals (avoid recent flush)</td>
+                                                            <td>July 15 to May 15</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">Deciduous Fruit/Nut Trees (except those noted below)</th>
+                                                            <td>Mature Leaves &#8211; from spurs</td>
+                                                            <td>May thru September</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">Grapes</th>
+                                                            <td>
+                                                                Petiole - opposite cluster
+                                                                <br />Petiole
+                                                                <br />Leaf blade &#8211; opposite cluster
+                                                                <br />Leaf blade &#8211; young mature
+                                                                <br /><img class="img-thumbnail rounded" src="images/figure1.gif" />
+                                                            </td>
+                                                            <td>
+                                                                Bloom
+                                                                <br />Veraison
+                                                                <br />April &amp; June
+                                                                <br />July thru Sept 15
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">Peaches &amp; Nectarines</th>
+                                                            <td>
+                                                                Leaves &#8211; mid-shoot from current
+                                                                <br />season&#8217;s growth
+                                                            </td>
+                                                            <td>April 15 thru Sept 15</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">Pistachios</th>
+                                                            <td>
+                                                                Young, mature leaves from
+                                                                <br />non-fruiting terminals
+                                                            </td>
+                                                            <td>May thru August</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">Walnuts &amp; Pecans</th>
+                                                            <td>Terminal leaflet of compound leaf</td>
+                                                            <td>Terminal leaflet of compound leaf</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
                                             </div>
-                                            <div class="tab-pane fade" id="pills-soilOrn" role="tabPanel" aria-labelledby="pills-soilOrn-tab">
+                                            <div class="tab-pane fade" id="pills-tisOrn" role="tabPanel" aria-labelledby="pills-tisOrn-tab">
+                                                <table class="table table-hover">
+                                                    <thead>
+                                                        <tr>
+                                                            <th scope="col">Crop</th>
+                                                            <th scope="col">Plant Part to Sample</th>
+                                                            <th scope="col">Time of Sampling</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>Flowers &amp; Shrubs</td>
+                                                            <td>Leaves &#8211; young mature</td>
+                                                            <td>Anytime</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>Turf</td>
+                                                            <td>Any clippings</td>
+                                                            <td>Anytime</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                Woody Ornamentals
+                                                                <br />(Deciduous &amp; Evergreen)
+                                                            </td>
+                                                            <td>Leaf or needle &#8211; young mature</td>
+                                                            <td>April thru September</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
                                             </div>
                                         </div>
                                     </div>
@@ -470,7 +582,70 @@
                             </div>
                             <div id="collapseCrop" class="collapse" aria-labeledby="cropHeader" data-parent="#samplingAccordion">
                                 <div class="card-body">
-                                    <p>Hello World!</p><!-- to be filled later -->
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <p>
+                                                The harvested crop is analyzed to determine levels of nutrients and salts removed from the
+                                                field.
+                                            </p>
+                                            <table class="table table-hover">
+                                                <tbody>
+                                                    <tr>
+                                                        <th scope="row">Fruit </th>
+                                                        <td>Submit 5-10 whole fruit (3 to 5 lbs).</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Silage</th>
+                                                        <td>Collect removed crop or hand-cut field samples just prior to harvest.</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Grain </th>
+                                                        <td>Submit grain. If baled, sample straw.</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Alfalfa</th>
+                                                        <td>Collect samples in field or soon after baled.</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Green-chop</th>
+                                                        <td>Collect harvested material.</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            <h4 class="noBold">Procedure:</h4>
+                                            <ul>
+                                                <li>
+                                                    Collect one quart ziplock bag of material, double bag it.
+                                                </li>
+                                                <li>
+                                                    Chill immediately to preserve moisture.
+                                                </li>
+                                                <li>
+                                                    Using an <strong>indelible</strong> marker or ballpoint pen clearly print on each bag your
+                                                    name/company, site and sample description or location.
+                                                </li>
+                                                <li>
+                                                    Complete a <a class=link href="forms.php" target="_blank">Work Request</a> form.
+                                                    Please be sure to print clearly and return it with your sample.
+                                                </li>
+                                                <li>
+                                                    Deliver to Dellavalle by:
+                                                    <ul>
+                                                        <li>
+                                                            <a class="link" href="map.php" target="_blank">
+                                                                In person Drop off
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a class="link" href="shipping-instructions.php" target="_blank">
+                                                                Shipping
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>

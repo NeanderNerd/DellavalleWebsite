@@ -64,9 +64,15 @@
                                         Soil Analyses
                                     </a>
                                     <ul>
-                                        <li>Fertility Assay</li>
-                                        <li>Sodium and Salinity</li>
-                                        <li>Minor Nutrients</li>
+                                        <li>
+                                            Fertility Assay
+                                        </li>
+                                        <li>
+                                            Sodium and Salinity
+                                        </li>
+                                        <li>
+                                            Minor Nutrients
+                                        </li>
                                     </ul>
                                 <li>
                                     <a href="downloads/analytical_catalog/Plant_Tissue_Analysis.pdf" target="_blank"
@@ -117,42 +123,88 @@
                         <div class="tab-pane fade" id="pills-cons" role="tabPanel" aria-labelledby="pills-cons-tab">
                             <h1>Consulting</h1>
                             <ul>
-                                <li>Crop Specific Interpretation of Results</li>
-                                <li>Irrigation Management</li>
-                                <li>Dairy Nutrient Management</li>
-                                <li>Crop Management</li>
-                                <li>Fertilizer Programs</li>
-                                <li>Land Management Programs</li>
-                                <li>Greenhouse Studies</li>
-                                <li>Soil Reclamation Programs</li>
-                                <li>Crop Production Problems</li>
-                                <li>Wastewater Management</li>
+                                <li>
+                                    Crop Specific Interpretation of Results
+                                </li>
+                                <li>
+                                    Irrigation Management
+                                </li>
+                                <li>
+                                    Dairy Nutrient Management
+                                </li>
+                                <li>
+                                    Crop Management
+                                </li>
+                                <li>
+                                    Fertilizer Programs
+                                </li>
+                                <li>
+                                    Land Management Programs
+                                </li>
+                                <li>
+                                    Greenhouse 
+                                </li>
+                                <li>
+                                     Reclamation Programs
+                                    </li>
+                                <li>
+                                    Crop Production Problems
+                                </li>
+                                <li>
+                                    Wastewater Management
+                                </li>
                             </ul>
                         </div>
                         <div class="tab-pane fade" id="pills-exp" role="tabPanel" aria-labelledby="pills-exp-tab">
                             <h1>Other Expertise</h1>
                             <ul>
-                                <li>Dairy/Environmental Monitoring</li>
-                                <li>Liaison between Client and Regulatory Agencies</li>
+                                <li>
+                                    Dairy/Environmental Monitoring
+                                </li>
+                                <li>
+                                    Liaison between Client and Regulatory Agencies
+                                </li>
                                 <li>
                                     Crop Loss Investigations
                                     <ul>
-                                        <li>Expert Witness Testimony</li>
-                                        <li>Field Observations</li>
+                                        <li>
+                                            Expert Witness Testimony
+                                        </li>
+                                        <li>
+                                            Field Observations
+                                        </li>
                                     </ul>
                                 </li>
-                                <li>Pathogen Identification</li>
-                                <li>Pesticide Residues</li>
-                                <li>Regulatory Compliance</li>
-                                <li>Network of Laboratories for Special Analytical Requests</li>
+                                <li>
+                                    Pathogen Identification
+                                </li>
+                                <li>
+                                    Pesticide Residues
+                                </li>
+                                <li>
+                                    Regulatory Compliance
+                                </li>
+                                <li>
+                                    Network of Laboratories for Special Analytical Requests
+                                </li>
                             </ul>
                             <h4>Other Resources</h4>
                             <ul>
-                                <li>Experienced and Certified Samplers</a></li>
-                                <li>Soil Probes for Resale</li>
-                                <li>Importation Permits for Soil/Plant Tissue</li>
-                                <li>Sample Collection Containers</li>
-                                <li>Courier Service Available From Many Locations in California</li>
+                                <li>
+                                    Experienced and Certified Samplers
+                                </li>
+                                <li>
+                                    Soil Probes for Resale
+                                </li>
+                                <li>
+                                    Importation Permits for Soil/Plant Tissue
+                                </li>
+                                <li>
+                                    Sample Collection Containers
+                                </li>
+                                <li>
+                                    Courier Service Available From Many Locations in California
+                                </li>
                             </ul>
                             <p>
                                 For more information, please call or email requests. Our access to a large network of

@@ -373,10 +373,6 @@ a.nav-item.nav-link.active {
     a.list-group-item.active>.small.nospin {
         display: block;
     }
-    img.img-thumbnail {
-        height: 112.5px;
-        width: 70px;
-    }
     div#consultantsBody table.table-hover th {
         height: 112.5px;
         width: 70px;

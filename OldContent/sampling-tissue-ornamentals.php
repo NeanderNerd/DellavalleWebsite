@@ -35,28 +35,7 @@
         <section id="contentRight">
             <!-- #BeginEditable "contentRight" -->
             <h1>Tissue: Ornamentals</h1>
-            <table>
-                <tr>
-                    <th scope="col" class="left">Crop</th>
-                    <th scope="col" class="left">Plant Part to Sample</th>
-                    <th scope="col" class="left">Time of Sampling</th>
-                </tr>
-                <tr>
-                    <td>Flowers &amp; Shrubs</td>
-                    <td>Leaves &#8211; young mature</td>
-                    <td>Anytime</td>
-                </tr>
-                <tr>
-                    <td>Turf</td>
-                    <td>Any clippings</td>
-                    <td>Anytime</td>
-                </tr>
-                <tr>
-                    <td>Woody Ornamentals<br />(Deciduous &amp; Evergreen)</td>
-                    <td>Leaf or needle &#8211; young mature</td>
-                    <td>April thru September</td>
-                </tr>
-            </table>
+            
 
             <ul>
                 <li class="links"><a href="forms.php" class="links">Work Request Form</a>

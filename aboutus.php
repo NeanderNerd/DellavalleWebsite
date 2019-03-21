@@ -78,7 +78,7 @@
                                     compliance issues as dictated by the Department of Health Services and the
                                     California Regional Water Quality Control Board.
                                 </p>
-                                <table class="table-hover">
+                                <table class="table table-hover">
                                     <tbody>
                                         <tr>
                                             <th scope="row">
@@ -106,7 +106,7 @@
                                         </tr>
                                         <tr>
                                             <th scope="row">
-                                                <img alt="Keith M. Backman" title="Keith M. Backman"
+                                                <img alt="Keith M. Backman" title="Keith M. Backman" id="cons"
                                                     class="img-thumbnail" src="images/consultants/keith.jpg">
                                             </th>
                                             <td>
@@ -131,7 +131,7 @@
                                         <tr>
                                             <th scope="row">
                                                 <img alt="Ben Nydam" title="Ben Nydam" class="img-thumbnail"
-                                                    src="images/consultants/ben.jpg">
+                                                    id="cons" src="images/consultants/ben.jpg">
                                             </th>
                                             <td>
                                                 <strong>Ben Nydam</strong>
@@ -152,7 +152,7 @@
                                         </tr>
                                         <tr>
                                             <th scope="row">
-                                                <img alt="Danyal Kasapligil" title="Danyal Kasapligil"
+                                                <img alt="Danyal Kasapligil" title="Danyal Kasapligil" id="cons"
                                                     class="img-thumbnail" src="images/consultants/danyal.jpg">
                                             </th>
                                             <td>
@@ -177,7 +177,7 @@
                                         <tr>
                                             <th scope="row">
                                                 <img alt="Bill Blanken " title="Bill Blanken" class="img-thumbnail"
-                                                    src="images/consultants/bill.jpg">
+                                                    id="cons" src="images/consultants/bill.jpg">
                                             </th>
                                             <td>
                                                 <strong>Bill Blanken</strong>
@@ -197,7 +197,7 @@
                                         <tr>
                                             <th scope="row">
                                                 <img alt="Anne Collins Burkholder" title="Anne Collins Burkholder"
-                                                    class="img-thumbnail" src="images/consultants/anne-sm.jpg">
+                                                    id="cons" class="img-thumbnail" src="images/consultants/anne-sm.jpg">
                                             </th>
                                             <td>
                                                 <strong>Anne Collins Burkholder</strong>
@@ -218,7 +218,7 @@
                                         <tr>
                                             <th scope="row">
                                                 <img alt="Lacey Mount" title="Lacey Mount" class="img-thumbnail"
-                                                    src="images/consultants/Lacey_Mount.jpg">
+                                                    id="cons" src="images/consultants/Lacey_Mount.jpg">
                                             </th>
                                             <td>
                                                 <strong>Lacey Mount</strong>
@@ -239,7 +239,7 @@
                                         <tr>
                                             <th scope="row">
                                                 <img alt="Cynthia Tiemersma" title="Cynthia Tiemersma"
-                                                    class="img-thumbnail" src="images/consultants/cynthia.jpg">
+                                                    id="cons" class="img-thumbnail" src="images/consultants/cynthia.jpg">
                                             </th>
                                             <td>
                                                 <strong>Cynthia Tiemersma</strong>
@@ -259,7 +259,7 @@
                                         <tr>
                                             <th scope="row">
                                                 <img alt="Sam Daud" title="Sam Daud" class="img-thumbnail"
-                                                    src="images/consultants/sam-daud.jpg">
+                                                    id="cons" src="images/consultants/sam-daud.jpg">
                                             </th>
                                             <td>
                                                 <strong>Sam Daud</strong>
@@ -304,14 +304,30 @@
                                     Peggy Miller - Client Service Specialist
                                 </h5>
                                 <ul>
-                                    <li>&nbsp;Soil and plant tissue inquiries</li>
-                                    <li>&nbsp;Agricultural inquiries (water, manure, etc.)</li>
-                                    <li>&nbsp;Irrigation water inquiries</li>
-                                    <li>&nbsp;Pesticide residue questions</li>
-                                    <li>&nbsp;Domestic water questions</li>
-                                    <li>&nbsp;Assistance with sample collection</li>
-                                    <li>&nbsp;Analytical inquiries</li>
-                                    <li>&nbsp;Resource research</li>
+                                    <li>
+                                        Soil and plant tissue inquiries
+                                    </li>
+                                    <li>
+                                        Agricultural inquiries (water, manure, etc.)
+                                    </li>
+                                    <li>
+                                        Irrigation water inquiries
+                                    </li>
+                                    <li>
+                                        Pesticide residue 
+                                    </li>
+                                    <li>
+                                        Domestic water questions
+                                    </li>
+                                    <li>
+                                        Assistance with sample collection
+                                    </li>
+                                    <li>
+                                        Analytical inquiries
+                                    </li>
+                                    <li>
+                                        Resource research
+                                    </li>
                                 </ul>
                                 <p>
                                     We invite your inquiries. Call 1-800-228-9896 or
