@@ -17,7 +17,13 @@ body {
     padding-bottom: 0px;
 }
 
-header, footer, nav, article, section, aside, hgroup {
+header,
+footer,
+nav,
+article,
+section,
+aside,
+hgroup {
     display: block;
 }
 
@@ -352,6 +358,17 @@ a.nav-item.nav-link.active {
 
 .noBold {
     font-weight: normal;
+}
+
+a[href$=".pdf"]::after {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialised;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f1c1";
 }
 
 @media only screen and (max-width: 768px) {
