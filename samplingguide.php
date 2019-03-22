@@ -342,7 +342,7 @@
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    Clearly print on each bag using an indelible marker or ballpoint
+                                                    Clearly print on each bag using an <strong>indelible</strong> marker or ballpoint
                                                     pen
                                                     your name/company, location
                                                     (site) and sample description.
@@ -356,9 +356,9 @@
                                                     Deliver to Dellavalle by:
                                                     <ul>
                                                         <li>
-                                                            <a class="link" href="map.php" target="_blank">In person
-                                                                Drop
-                                                                off</a>
+                                                            <a class="link" href="map.php" target="_blank">
+                                                                In person drop off
+                                                            </a>
                                                         </li>
                                                         <li>
                                                             <a class="link" href="shipping-instructions.php" target="_blank">Shipping</a>
@@ -633,7 +633,7 @@
                                                     <ul>
                                                         <li>
                                                             <a class="link" href="map.php" target="_blank">
-                                                                In person Drop off
+                                                                In person drop off
                                                             </a>
                                                         </li>
                                                         <li>
@@ -659,7 +659,215 @@
                             </div>
                             <div id="collapseWater" class="collapse" aria-labeledby="waterHeader" data-parent="#samplingAccordion">
                                 <div class="card-body">
-                                    <p>Hello World!</p><!-- to be filled later -->
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <h4 class="noBold">General Information:</h4>
+                                            <ul>
+                                                <li>
+                                                    Water samples must be kept cold!
+                                                </li>
+                                                <li>
+                                                    Take a cooler with plenty of ice to the sample location.
+                                                </li>
+                                                <li>
+                                                    Use appropriate bottles and preservatives.
+                                                </li>
+                                                <li>
+                                                    Read specific sampling procedures if given to you.
+                                                </li>
+                                                <li>
+                                                    Using an <strong>indelible</strong> marker, write date and time sampled on the label and Work
+                                                    Request form. It is very important!
+                                                </li>
+                                                <li>
+                                                    Complete a <a class=link href="forms.php" target="_blank">Work
+                                                        Request</a> form.
+                                                    Please be sure to print clearly and return it with your sample.
+                                                </li>
+                                                <li>
+                                                    Deliver to Dellavalle by:
+                                                    <ul>
+                                                        <li>
+                                                            <a class="link" href="map.php" target="_blank">
+                                                                In person drop off
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a class="link" href="shipping-instructions.php" target="_blank">Shipping</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                            <p>
+                                                ELAP regulations: We must receive water samples at specific temperatures.
+                                            </p>
+                                            <table class="table table-hover">
+                                                <tr>
+                                                    <th scope="row">Bacteriological Samples </th>
+                                                    <td>Less than or equal to 10°C (50°F)</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">All Other Waters</th>
+                                                    <td>Less than or equal to 6°C (42.8°F) </td>
+                                                </tr>
+                                            </table>
+                                            <p>
+                                                A grace period for temperature is allowed if samples are delivered to laboratory within two hours of
+                                                collection.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12">
+                                            <h4 class="noBold">Specific Water Sampling:</h4>
+                                            <div class="nav nav-pills mb-3" id="waterTabs" role="tabList">
+                                                <a class="nav-item nav-link" id="pills-waterIrr-tab" data-toggle="pill" href="#pills-waterIrr" role="tab" aria-controls="pills-waterIrr" aria-selected="false">
+                                                    Irrigation
+                                                </a>
+                                                <a class="nav-item nav-link" id="pills-waterDw-tab" data-toggle="pill" href="#pills-waterDw" role="tab" aria-controls="pills-waterDw" aria-selected="false">
+                                                    Drinking &amp; Wastewater
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="tab-content col-12" id="pills-tabContent">
+                                            <div class="tab-pane fade" id="pills-waterIrr" role="tabPanel" aria-labelledby="pills-waterIrr-tab">
+                                                <h4 class="noBold">Equipment:</h4>
+                                                <ul>
+                                                    <li>
+                                                        One clean plastic container (about one pint).
+                                                    </li>
+                                                    <li>
+                                                        For drip irrigation if you suspect high Mn or Fe concentrations:
+                                                        <ul>
+                                                            <li>
+                                                                Obtain an acidified bottle to keep Mn and Fe in solution
+                                                            </li>
+                                                            <h6 class="noBold">&emsp;~~OR~~</h6>
+                                                            <li>
+                                                                Indicate your concern on the Work Request form and a portion will be acidified upon receipt.
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        If possible, run well for a few hours to purge uncharacteristic surface waters from shallow
+                                                        aquifers.
+                                                    </li>
+                                                </ul>
+                                                <h4 class="noBold">Procedure:</h4>
+                                                <ul>
+                                                    <li>
+                                                        Fill container leaving no air space. Carbonates, bicarbonates and nitrate are affected by the
+                                                        presence of air.
+                                                    </li>
+                                                    <li>
+                                                        Do not include water treatments (i.e. sulfuric acid, chlorine, fertilizers, etc.) in your sample
+                                                        when collecting from valves and pipelines.
+                                                    </li>
+                                                    <li>
+                                                        If you have an acidified bottle, do not let it overflow (you do not want acid on your hands). Rubber
+                                                        gloves are suggested to protect from mild acid.
+                                                    </li>
+                                                    <li>
+                                                        Print on the bottle using an <strong>indelible</strong> marker, the date and time sampled as well as
+                                                        client name and sample description. Chill sample immediately.
+                                                    </li>
+                                                    <li>
+                                                        Complete a <a class=link href="forms.php" target="_blank">Work
+                                                            Request</a> form.
+                                                        Please be sure to print clearly and return it with your sample.
+                                                    </li>
+                                                    <li>
+                                                        Deliver to Dellavalle by:
+                                                        <ul>
+                                                            <li>
+                                                                <a class="link" href="map.php" target="_blank">
+                                                                    In person drop off
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="link" href="shipping-instructions.php" target="_blank">
+                                                                    Shipping
+                                                                </a>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="tab-pane fade" id="pills-waterDw" role="tabPanel" aria-labelledby="pills-waterDw-tab">
+                                                <h4 class="noBold">Preparation:</h4>
+                                                <ul>
+                                                    <li>
+                                                        Drinking Water: Run tap for several minutes to collect fresh water. Use clean containers.
+                                                    </li>
+                                                    <li>
+                                                        Bacteriological (Coliform): Remove the aerator from the spigot, sanitize spigot, run tap for several
+                                                        minutes, fill sterilized container to the 100 ml line and chill.
+                                                    </li>
+                                                    <li>
+                                                        Wastewater: Use clean containers.
+                                                    </li>
+                                                </ul>
+                                                <ul>
+                                                    <li>
+                                                        Completely fill bottles unless procedures state otherwise. Do <strong>NOT</strong> overfill or
+                                                        partially fill bottles because it will affect the results of the test.
+                                                    </li>
+                                                    <li>
+                                                        It is often easiest to complete the information on the bottles before filling them. Be sure to use
+                                                        an indelible pen.
+                                                    </li>
+                                                    <li>
+                                                        Complete a <a class=link href="forms.php" target="_blank">Work
+                                                            Request</a> form.
+                                                        Please be sure to print clearly and return it with your sample.
+                                                    </li>
+                                                    <li>
+                                                        Deliver to Dellavalle by:
+                                                        <ul>
+                                                            <li>
+                                                                <a class="link" href="map.php" target="_blank">
+                                                                    In person drop off
+                                                                </a>
+                                                            </li>
+                                                            <li>
+                                                                <a class="link" href="shipping-instructions.php" target="_blank">Shipping</a>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>
+                                                        Place samples in cooler with plenty of ice.
+                                                    </li>
+                                                    <li>
+                                                        Deliver samples promptly to Dellavalle.
+                                                    </li>
+                                                </ul>
+                                                <h4 class="noBold">Hold times to remember:</h4>
+                                                <table class="table table-hover">
+                                                    <tr>
+                                                        <th scope="row">BOD, NO3-N, NO2-N </th>
+                                                        <td>48 hrs </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">Total Coliform, Fecal Coliform &amp; E. coli, MPN</td>
+                                                        <td>6 hrs</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <th scope="row">pH</th>
+                                                        <td>
+                                                            15 min
+                                                            <br />(impossible, unless done in field); lab within 24 hrs of receipt
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <p>
+                                                    If you are unsure of collection procedures, please
+                                                    <a class="link" href="contactus.php" target="_blank">
+                                                        call Dellavalle.
+                                                    </a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
