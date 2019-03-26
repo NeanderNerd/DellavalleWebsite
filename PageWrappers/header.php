@@ -22,7 +22,8 @@
 		            <div class="navbar-nav mr-auto">
 		                <a class="nav-item nav-link" href="index.php">Home</a>
 		                <a class="nav-item nav-link" href="aboutus.php">About Us</a>
-		                <a class="nav-item nav-link" href="whatwedo.php">What We Do</a>
+						<a class="nav-item nav-link" href="whatwedo.php">What We Do</a>
+						<a class="nav-item nav-link" href="howWeHelp.php">How We Help</a>
 		                <a class="nav-item nav-link" href="services.php">Services</a>
 		                <a class="nav-item nav-link" href="analyticalcatalog.php">Analytical Catalog</a>
 		                <a class="nav-item nav-link" href="accreditation.php">Accreditation</a>

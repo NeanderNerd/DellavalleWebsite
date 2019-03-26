@@ -64,64 +64,88 @@
                             <i class="fas fa-tint small nospin"></i>
                         </a>
                         <a class="list-group-item list-group-item-action text-center" id="list-eval-list" data-toggle="list" href="#list-eval" role="tab" aria-controls="eval">
-                            <i class="fas fa-tint fa-2x fa-spin"></i>
+                            <i class="fab fa-connectdevelop fa-2x fa-spin"></i>
+                            <i class="fab fa-connectdevelop fa-2x nospin"></i>
+                            <i class="fab fa-connectdevelop small nospin"></i>
                         </a>
                     </div>
                 </div>
                 <div class="col-10">
                     <div class="tab-content" id="nav-tabContent">
                         <div class="tab-pane fade show active" id="list-prob" role="tabpanel" aria-labelledby="list-prob-list">
+                            <h4 class="noBold">We Can Solve Problems</h4>
+                            <ul>
+                                <li>
+                                    Soil and plant tissue analyses can provide information for correcting nutrient deficiencies or
+                                    excesses, or confirming that everything is satisfactory.
+                                </li>
+                                <li>
+                                    Our consultants can often determine the probable cause of problems with field inspection.
+                                </li>
+                                <li>
+                                    We can analyze your irrigation water to assure nutrient and salinity levels are suitable for your
+                                    crops.
+                                </li>
+                            </ul>
                         </div>
                         <div class="tab-pane fade" id="list-imp" role="tabpanel" aria-labelledby="list-imp-list">
+                            <h4 class="noBold">Improve (Increase) Yields</h4>
+                            <ul>
+                                <li>
+                                    Overcome production limitations caused by nutrient deficiencies, soil salinity, mineral
+                                    toxicity or water use.
+                                </li>
+                                <li>
+                                    Use consultants’ recommendations to optimize fertilizer, soil amendment and irrigation management.
+                                </li>
+                            </ul>
                         </div>
                         <div class="tab-pane fade" id="list-cost" role="tabpanel" aria-labelledby="list-cost-list">
+                            <h4 class="noBold">Reduce Costs</h4>
+                            <ul>
+                                <li>
+                                    Analyze your soil, tissue and water to establish the current nutrient needs for your crop.
+                                </li>
+                                <li>
+                                    Take a look at our Sampling Guide. Know your crop's needs to eliminate unnecessary fertilizer purchases.
+                                </li>
+                                <li>
+                                    Monitor your crop's water use to possibly reduce your use of water and power.
+                                </li>
+                            </ul>
                         </div>
                         <div class="tab-pane fade" id="list-max" role="tabpanel" aria-labelledby="list-max-list">
+                            <h4 class="noBold">Maximize Water Efficiency</h4>
+                            <ul>
+                                <li>
+                                    Monitor soil moisture with a neutron probe to provide a basis for an irrigation plan - when and how
+                                    much water.
+                                </li>
+                            </ul>
                         </div>
                         <div class="tab-pane fade" id="list-eval" role="tabpanel" aria-labelledby="list-eval-list">
+                            <h4 class="noBold">Evaluate Land Prior to Acquisition</h4>
+                            <ul>
+                                <li>
+                                    With analyses of property's soil and water, we can determine if it meets your objectives.
+                                </li>
+                                <li>
+                                    Appropriate rootstock/crops and fertilizer programs can be recommended, based on soil conditions.
+                                </li>
+                                <li>
+                                    Appropriate reclamation steps can be provided for various situations (alkalinity, hardpan or even
+                                    excavation).
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
-                <h4>We Can Solve Problems</h4>
-                <ul>
-                    <li>Soil and plant tissue analyses can provide information for correcting nutrient deficiencies or
-                        excesses, or confirming that everything is satisfactory.</li>
-                    <li>&nbsp;Our consultants can often determine the probable cause of problems with field inspection.</li>
-                    <li>We can analyze your irrigation water to assure nutrient and salinity levels are suitable for your
-                        crops.</li>
-                </ul>
-                <h4>Improve (Increase) Yields</h4>
-                <ul>
-                    <li>&nbsp;Overcome production limitations caused by nutrient deficiencies, soil salinity, mineral
-                        toxicity or water use.</li>
-                    <li>Use consultants’ recommendations to optimize fertilizer, soil amendment and irrigation management.
-                    </li>
-                </ul>
-                <h4>Reduce Costs</h4>
-                <ul>
-                    <li>Analyze your soil, tissue and water to establish the current nutrient needs for your crop.</li>
-                    <li>&nbsp;Take a look at our Sampling Guide.
-                        Know your crop's needs to eliminate unnecessary fertilizer purchases.</li>
-                    <li>&nbsp;Monitor your crop's water use to possibly reduce your use of water and power.</li>
-                </ul>
-                <h4>Maximize Water Efficiency</h4>
-                <ul>
-                    <li>Monitor soil moisture with a neutron probe to provide a basis for an irrigation plan - when and how
-                        much water.</li>
-                </ul>
-                <h4>Evaluate Land Prior to Acquisition</h4>
-                <ul>
-                    <li>With analyses of property's soil and water, we can determine if it meets your objectives.</li>
-                    <li>Appropriate rootstock/crops and fertilizer programs can be recommended, based on soil conditions.
-                    </li>
-                    <li>Appropriate reclamation steps can be provided for various situations (alkalinity, hardpan or even
-                        excavation).</li>
-                </ul>
             </div>
-            <!-- Content for main section End -->
+        </div>
+        <!-- Content for main section End -->
 
-            <!-- Footer php attachment -->
-            <?php include 'PageWrappers/footer.php'; ?>
+        <!-- Footer php attachment -->
+        <?php include 'PageWrappers/footer.php'; ?>
 </body>
 
 </html> 
