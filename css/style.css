@@ -391,8 +391,4 @@ a[href$=".pdf"]::after {
     a.list-group-item.active>.small.nospin {
         display: block;
     }
-    div#consultantsBody table.table-hover th {
-        height: 112.5px;
-        width: 70px;
-    }
 }
