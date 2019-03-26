@@ -333,6 +333,7 @@ a.list-group-item:hover {
 
 a.list-group-item.active>.fa-spin {
     display: block;
+    align-content: center;
     color: #79A904;
 }
 

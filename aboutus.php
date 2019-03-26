@@ -18,7 +18,7 @@
 
     <!-- Head php attachment -->
     <?php include 'PageWrappers/Head.php'; ?>
-    <title>About Us</title>
+    <title>About Us | Dellavalle Lab.</title>
     <meta name="description" content="An environmental/agricultural laboratory and consulting firm located in the San Joaquin Valley with clientele worldwide." />
 </head>
 
@@ -99,7 +99,7 @@
                                                     Mobile: (559) 647-5316<br>Area: Outside California, Foreign countries,
                                                     Southern California
                                                     <br>
-                                                    <a href="mailto:ndellavalle@dellavallelab.com">Email Nat</a>
+                                                    <a href="mailto:ndellavalle@dellavallelab.com">Email Nat: ndellavalle@dellavallelab.com</a>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -122,7 +122,7 @@
                                                     Mobile: (559) 647-5330<br>Area: Eastern Fresno, Kings, Northern Tulare,
                                                     San Luis Obispo and Santa Barbara Regions
                                                     <br>
-                                                    <a href="mailto:kbackman@dellavallelab.com">Email Keith</a>
+                                                    <a href="mailto:kbackman@dellavallelab.com">Email Keith: kbackman@dellavallelab.com</a>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -143,7 +143,7 @@
                                                     <br>
                                                     Mobile: (559) 647-5331<br>Area: Kern, Tulare, Kings Regions
                                                     <br>
-                                                    <a href="mailto:bnydam@dellavallelab.com">Email Ben</a>
+                                                    <a href="mailto:bnydam@dellavallelab.com">Email Ben: bnydam@dellalvallelab.com</a>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -166,7 +166,7 @@
                                                     Mobile: (831) 750-4509<br>Area: Napa, Sacramento, Salinas, Special
                                                     Projects
                                                     <br>
-                                                    <a href="mailto:danyal@dellavallelab.com">Email Danyal</a>
+                                                    <a href="mailto:danyal@dellavallelab.com">Email Danyal: danyal@dellavallelab.com</a>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -185,7 +185,7 @@
                                                     <br>
                                                     Mobile: (559) 469-2832<br>Area: Kern, Kings and Tulare Regions
                                                     <br>
-                                                    <a href="mailto:bblanken@dellavallelab.com">Email Bill</a>
+                                                    <a href="mailto:bblanken@dellavallelab.com">Email Bill: bblanken@dellavallelab.com</a>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -205,7 +205,7 @@
                                                     Mobile: (530) 400-1346<br>Area: Lodi, Modesto, North Sacramento,
                                                     Special Projects
                                                     <br>
-                                                    <a href="mailto:acollins@dellavallelab.com">Email Anne</a>
+                                                    <a href="mailto:acollins@dellavallelab.com">Email Anne: acollins@dellavallelab.com</a>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -225,7 +225,7 @@
                                                     Mobile: (559) 351-2741<br>Area: Fresno, Madera and Merced regions,
                                                     Special Projects
                                                     <br>
-                                                    <a href="mailto:lmount@dellavallelab.com">Email Lacey</a>
+                                                    <a href="mailto:lmount@dellavallelab.com">Email Lacey: lmount@dellavallelab.com</a>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -244,7 +244,7 @@
                                                     <br>
                                                     Mobile: (559) 471-6140<br>Area: Kern, Kings, Fresno Regions
                                                     <br>
-                                                    <a href="mailto:ctiemersma@dellavallelab.com">Email Cynthia</a>
+                                                    <a href="mailto:ctiemersma@dellavallelab.com">Email Cynthia: ctiemersma@dellavallelab.com</a>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -263,7 +263,7 @@
                                                     <br>
                                                     Mobile: (559) 940-1294<br>Area: Fresno and Madera Regions
                                                     <br>
-                                                    <a href="mailto:sam.daud@dellavallelab.com">Email Sam</a>
+                                                    <a href="mailto:sam.daud@dellavallelab.com">Email Sam: sam.daud@dellavallelab.com</a>
                                                 </td>
                                             </tr>
                                         </tbody>

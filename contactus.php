@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php $x = 0; ?>
+<?php
+$x = 0;
+?>
 
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -48,34 +50,46 @@
                     <p>We want to be responsive to your questions or issues. Please help us by filling out the necessary
                         information in the areas below.</p>
                     <h4 class="noBold">Contact Form</h4>
-                    <form action="https://www.SnapHost.com/captcha/send.aspx" method="post" id="myform" target="_top">
-                        <input type="hidden" id="skip_WhereToSend" name="skip_WhereToSend" value="c.garrick@dellavallelab.com" />
-                        <input type="hidden" id="skip_Subject" name="skip_Subject" value="WebsiteFormEmail" />
-                        <input type="hidden" id="skip_WhereToReturn" name="skip_WhereToReturn" value="/thankyou.php" />
-                        <input type="hidden" id="skip_SnapHostID" name="skip_SnapHostID" value="JTCETPXSHYN3" />
-                        <input name="skip_ShowUsersIp" type="hidden" value="1" />
-                        <div class="form-group row">
-                            <label for="inputName" class="col-sm-2 col-form-label">Name</label>
+                    <form class="needs-validation" novalidate action="https://www.SnapHost.com/captcha/send.aspx" method="post" id="myform" target="_top">
+                        <input type="hidden" id="skip_WhereToSend" name="skip_WhereToSend" value='c.garrick@dellavallelab.com'>
+                        <input type="hidden" id="skip_Subject" name="skip_Subject" value="WebsiteFormEmail">
+                        <input type="hidden" id="skip_WhereToReturn" name="skip_WhereToReturn" value="/thankyou.php">
+                        <input type="hidden" id="skip_SnapHostID" name="skip_SnapHostID" value="JTCETPXSHYN3">
+                        <input name="skip_ShowUsersIp" type="hidden" value="1">
+                        <div class="form-group row" id="name">
+                            <label for="inputName" class="col-sm-2 col-form-label">*Name</label>
                             <div class="col-sm-10">
-                                <input name="name" type="text" class="form-control" id="inputName" placeholder="John Doe" />
+                                <input name="name" type="text" class="form-control" id="inputName" placeholder="John Doe" required>
+                                <div class="invalid-tooltip">
+                                    Please provide your first and last name so that we know who we are communicating with.
+                                </div>
+                                <div class="valid-tooltip">
+                                    This looks perfect; Thank You!
+                                </div>
                             </div>
                         </div>
-                        <div class="form-group row">
+                        <div class="form-group row" id="phone">
                             <label for="inputPhone" class="col-sm-2 col-form-label">Phone Number</label>
                             <div class="col-sm-10">
-                                <input name="Phone" type="text" class="form-control" id="inputPhone" placeholder="(123) 456 - 7890" />
+                                <input name="phone" type="text" class="form-control" id="inputPhone" placeholder="(123) 456 - 7890">
                             </div>
                         </div>
-                        <div class="form-group row">
-                            <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
+                        <div class="form-group row" id="email">
+                            <label for="inputEmail" class="col-sm-2 col-form-label">*Email</label>
                             <div class="col-sm-10">
-                                <input name="Email" type="text" class="form-control" id="inputEmail" placeholder="Example@Dellavallelab.com" />
+                                <input name="email" type="text" class="form-control" id="inputEmail" placeholder="Example@Dellavallelab.com" required>
+                                <div class="invalid-tooltip">
+                                    Please provide your email address so we know how to contact you
+                                </div>
+                                <div class="valid-tooltip">
+                                    This looks perfect; Thank You!
+                                </div>
                             </div>
                         </div>
-                        <div class="form-group row">
+                        <div class="form-group row" id="comque">
                             <label for="textQuestion" class="col-sm-2 col-form-label">Comments <br />&amp; Questions</label>
                             <div class="col-sm-10">
-                                <textarea name="Comments/Questions" class="form-control" id="inputText" placeholder="How do I sample soil for a strawberry patch?"></textarea>
+                                <textarea name="comments/questions" class="form-control" id="inputText" placeholder="How do I sample soil for a strawberry patch?"></textarea>
                             </div>
                         </div>
                         <div class="form-group row center">
@@ -114,10 +128,33 @@
                                         var pos = src.indexOf('&rad=');
                                         if (pos >= 0) {
                                             src = src.substr(0, pos);
-                                            };
+                                        };
                                         obj.src = src + '&rad=' + date.getTime();
                                         return false;
-                                        }
+                                    };
+
+                                    (function() {
+                                        'use strict';
+                                        window.addEventListener('load', function() {
+                                            var forms = document.getElementsByClassName('needs-validation');
+                                            var texts = document.getElementsByClassName('form-group row');
+                                            var validation = Array.prototype.filter.call(forms, function(form) {
+                                                form.addEventListener('submit', function(event) {
+                                                    if (form.checkValidity() === false) {
+                                                        event.preventDefault();
+                                                        event.stopPropagation();
+                                                    }
+                                                    form.classList.add('was-validated');
+                                                    Array.prototype.filter.call(texts, function(text) {
+                                                        var x = text.getAttribute('id');
+                                                        if (x == 'name' || x == 'email') {
+                                                            text.classList.add('pb-4');
+                                                        };
+                                                    });
+                                                }, false);
+                                            });
+                                        }, false);
+                                    })();
                                 </script>
                             </div>
                             <div class="col-sm-6">
@@ -134,4 +171,4 @@
         <?php include 'PageWrappers/footer.php'; ?>
 </body>
 
-</html> 
+ </h tml>
