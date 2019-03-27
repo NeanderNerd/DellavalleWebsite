@@ -31,6 +31,10 @@ p {
     font-family: 'Montserrat', sans-serif;
 }
 
+i {
+    color: #008043;
+}
+
 img {
     border: none;
 }
@@ -140,7 +144,7 @@ h6 {
     background: -o-linear-gradient(top, #7aab04 0%, #000000 55%);
     background: -ms-linear-gradient(top, #7aab04 0%, #000000 55%);
     background: linear-gradient(to bottom, #7aab04 0%, #000000 55%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7aab04', endColorstr='#000000', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7aab04', endColorstr='#000000', GradientType=0);
 }
 
 footer {
@@ -246,12 +250,8 @@ footer section {
     font-weight: normal;
 }
 
-.calendar {
-    text-align: center;
-}
-
-.highlight {
-    background-color: #FFFF00;
+tr>td.cons {
+    min-width: 124px;
 }
 
 /* ======== FIELDSET & LEGEND ======== */
@@ -376,18 +376,23 @@ a[href$=".pdf"]::after {
     a.list-group-item>.fa-spin {
         display: none;
     }
+
     a.list-group-item.active>.fa-spin {
         display: none;
     }
+
     a.list-group-item>.nospin {
         display: none;
     }
+
     a.list-group-item.active>.nospin {
         display: none;
     }
+
     a.list-group-item>.small.nospin {
         display: block;
     }
+
     a.list-group-item.active>.small.nospin {
         display: block;
     }

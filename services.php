@@ -188,7 +188,7 @@
                                     Network of Laboratories for Special Analytical Requests
                                 </li>
                             </ul>
-                            <h4>Other Resources</h4>
+                            <h4 class="noBold">Other Resources</h4>
                             <ul>
                                 <li>
                                     Experienced and Certified Samplers
