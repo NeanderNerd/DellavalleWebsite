@@ -36,24 +36,32 @@ $x = 0;
                 <div class="col-12">
                     <h3>Laboratory</h3>
                     <p>
-                        <strong>Dellavalle
-                            Laboratory, Inc.</strong><br />
-                        1910 W. McKinley Avenue,<br>Fresno CA 93728<br />
-                        <strong>Phone:</strong> (800) 228-9896 <strong>Local:</strong>
-                        (559) 233-6129</p>
+                        <strong>Dellavalle Laboratory, Inc.</strong>
+                        <br />1910 W. McKinley Avenue,<br>Fresno CA 93728
+                        <br /><strong>Phone:</strong> (800) 228-9896
+                        <strong>Local:</strong> (559) 233-6129
+                    </p>
                     <h3>Consulting Offices:</h3>
-                    <p> <strong>Dellavalle Laboratory, Inc.</strong><br />
-                        1216 N Douty Street<br>Hanford CA 93230</p>
-                    <p> <strong>Dellavalle Laboratory, Inc.</strong><br>502 Mace Blvd., #2-B
-                        <br>Davis CA 95618</p>
+                    <p>
+                        <strong>Dellavalle Laboratory, Inc.</strong>
+                        <br />1216 N Douty Street
+                        <br />Hanford CA 93230
+                    </p>
+                    <p>
+                        <strong>Dellavalle Laboratory, Inc.</strong>
+                        <br />502 Mace Boulevard, #2-B
+                        <br />Davis CA 95618
+                    </p>
                     <hr>
-                    <p>We want to be responsive to your questions or issues. Please help us by filling out the necessary
-                        information in the areas below.</p>
+                    <p>
+                        We want to be responsive to your questions or issues. Please help us by filling out the necessary
+                        information in the areas below.
+                    </p>
                     <h4 class="noBold">Contact Form</h4>
                     <form class="needs-validation" novalidate action="https://www.SnapHost.com/captcha/send.aspx" method="post" id="myform" target="_top">
                         <input type="hidden" id="skip_WhereToSend" name="skip_WhereToSend" value='c.garrick@dellavallelab.com'>
                         <input type="hidden" id="skip_Subject" name="skip_Subject" value="WebsiteFormEmail">
-                        <input type="hidden" id="skip_WhereToReturn" name="skip_WhereToReturn" value="/thankyou.php">
+                        <input type="hidden" id="skip_WhereToReturn" name="skip_WhereToReturn" value="http://www.dellavallelab.com/thankyou.php">
                         <input type="hidden" id="skip_SnapHostID" name="skip_SnapHostID" value="JTCETPXSHYN3">
                         <input name="skip_ShowUsersIp" type="hidden" value="1">
                         <div class="form-group row" id="name">
@@ -171,4 +179,4 @@ $x = 0;
         <?php include 'PageWrappers/footer.php'; ?>
 </body>
 
- </h tml>
+</html> 

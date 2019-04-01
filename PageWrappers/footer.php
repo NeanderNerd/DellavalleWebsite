@@ -81,8 +81,8 @@
 			        </section>
 			    </div>
 			    <div class="row justify-content-center center" style="padding-top: 25px">
-			        <a class="fab fa-facebook-f fa-3x col-1" href="https://www.facebook.com/dellavallelab"></a>
-			        <a class="fab fa-twitter fa-3x col-1" href="https://www.twitter.com/calisoils"></a>
+			        <a class="fab fa-facebook-f fa-3x col-1" title="Facebook" href="https://www.facebook.com/dellavallelab"></a>
+			        <a class="fab fa-twitter fa-3x col-1" title="Twitter" href="https://www.twitter.com/calisoils"></a>
 			    </div>
 			    <div class="row justify-content-center center">
 			        <div class="col-12">
@@ -105,18 +105,4 @@
 
 			<!-- Latest compiled JavaScript -->
 			<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
-			</script>
-
-			<script>
-			    if ('serviceWorker' in navigator) {
-			        window.addEventListener('load', function() {
-			            navigator.serviceWorker.register('/sw.js').then(function(registration) {
-			                // Registration was successful
-			                console.log('ServiceWorker registration successful with scope: ', registration.scope);
-			            }, function(err) {
-			                // registration failed :(
-			                console.log('ServiceWorker registration failed: ', err);
-			            });
-			        });
-				}
 			</script>

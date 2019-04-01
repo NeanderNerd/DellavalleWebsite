@@ -96,15 +96,62 @@
                                                             ?>
                                                             Years Experience
                                                         </li>
-                                                        <em>
-                                                            Certified Professional Agronomist/SoilScientist, Certified Crop
-                                                            Advisor
-                                                            <br>
-                                                        </em>
-                                                        Mobile: (559) 647-5316<br>Area: Outside California, Foreign countries,
-                                                        Southern California
-                                                        <br>
-                                                        <a href="mailto:ndellavalle@dellavallelab.com">ndellavalle@dellavallelab.com</a>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Agronomist | Soil Scientist</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            BS Soil Science - California Polytechnic State University, San Luis Obispo
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Certified Crop Advisor
+                                                                            <br />Professional Agronomist/Soil Scientist
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Mobile: (559) 647-5316
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Southern California, Outside California,
+                                                                            <br />&emsp;Foreign Countries
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:ndellavalle@dellavallelab.com">
+                                                                                ndellavalle@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -119,15 +166,65 @@
                                                             ?>
                                                             Years Experience
                                                         </li>
-                                                        <em>
-                                                            Certified Horticulturist/PomologistCertified, Crop Advisor
-                                                            California Water Distribution Operator
-                                                            <br>
-                                                        </em>
-                                                        Mobile: (559) 647-5330<br>Area: Eastern Fresno, Kings, Northern Tulare,
-                                                        San Luis Obispo and Santa Barbara Regions
-                                                        <br>
-                                                        <a href="mailto:kbackman@dellavallelab.com">kbackman@dellavallelab.com</a>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Agronomist</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            MS Horticulture with an Emphasis in Pomology -
+                                                                            <br />&emsp;University of California, Davis
+                                                                            <br />BS Plant Science - University of California, Davis
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Certified Crop Advisor
+                                                                            <br />Horticulturist/Pomologist
+                                                                            <br />California Water Distribution Operator
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Mobile: (559) 647-5330
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Eastern Fresno, Kings County, Northern Tulare,
+                                                                            <br />&emsp; San Luis Obispo &amp; Santa Barbara
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:bnydamkbackman@dellavallelab.com">
+                                                                                kbackman@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -142,13 +239,60 @@
                                                             ?>
                                                             Years Experience
                                                         </li>
-                                                        <em>
-                                                            Consultant, Irrigation Specialist, Certified Crop Advisor
-                                                        </em>
-                                                        <br>
-                                                        Mobile: (559) 647-5331<br>Area: Kern, Tulare, Kings Regions
-                                                        <br>
-                                                        <a href="mailto:bnydam@dellavallelab.com">bnydam@dellalvallelab.com</a>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Consultant | Irrigation Specialist</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            BS Ag Engineering - California Polytechnic State University, San Luis Obispo
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Certified Crop Advisor
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Mobile: (559) 647-5331
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Counties of Kern, Kings &amp; Tulare
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:bnydam@dellavallelab.com">
+                                                                                bnydam@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -163,20 +307,65 @@
                                                             ?>
                                                             Years Experience
                                                         </li>
-                                                        <em>
-                                                            Certified Professional Agronomist, Certified Crop Advisor,
-                                                            Agricultural Pest Control Advisor
-                                                            <br />
-                                                            BS Plant Science - University of California Davis
-                                                            <br />
-                                                            MS General Agriculture - California Polytechnic State University San Luis Obispo
-                                                        </em>
-                                                        <br>
-                                                        Mobile: (831) 750-4509
-                                                        <br>
-                                                        Areas: Nothern California Coast, North Central California Coast, California Bay Area
-                                                        <br>
-                                                        <a href="mailto:danyal@dellavallelab.com">danyal@dellavallelab.com</a>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Agronomist</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            BS Plant Science - University of California Davis
+                                                                            <br />
+                                                                            MS General Agriculture - California Polytechnic State University San Luis Obispo
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Certified Professional Agronomist
+                                                                            <br />Certified Crop Advisor
+                                                                            <br />Agricultural Pest Control Advisor
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Mobile: (831) 750-4509
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Northern California Coast,
+                                                                            <br />&emsp;North Central California Coast, California Bay Area
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:danyal@dellavallelab.com">
+                                                                                danyal@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -191,11 +380,59 @@
                                                             ?>
                                                             Years Experience
                                                         </li>
-                                                        <em>Agronomist</em>
-                                                        <br>
-                                                        Mobile: (559) 469-2832<br>Area: Kern, Kings and Tulare Regions
-                                                        <br>
-                                                        <a href="mailto:bblanken@dellavallelab.com">bblanken@dellavallelab.com</a>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Agronomist</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            BS Agronomy - California State University, Fresno
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Mobile: (559) 469-2832
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Counties of Kern, Kings &amp; Tulare
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:bblanken@dellavallelab.com">
+                                                                                bblanken@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -210,20 +447,63 @@
                                                             ?>
                                                             Years Experience
                                                         </li>
-                                                        <em>
-                                                            Soil Scientist
-                                                            <br />
-                                                            BS Biology - University of Dallas
-                                                            <br />
-                                                            MS Soils and Biogeochemestry - University of California Davis
-                                                            <br />
-                                                            Certified Crop Advisor | Certified Professional Soil Scientist
-                                                        </em>
-                                                        <br>
-                                                        Mobile: (530) 400-1346
-                                                        <br>Areas: The counties of Yolo, Solano, Colusa, and Sutter
-                                                        <br>
-                                                        <a href="mailto:anne@dellavallelab.com">anne@dellavallelab.com</a>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Soil Scientist</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            BS Biology - University of Dallas
+                                                                            <br />
+                                                                            MS Soils and Biogeochemestry - University of California, Davis
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Cerified Crop Advisor
+                                                                            <br />Certified Professional Soil Scientist
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>Mobile: (530) 400-1346</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Counties of Yolo, Solano, Colusa &amp; Sutter
+                                                                            <br />
+                                                                            &emsp;Cities of Los Ba&ograve;os &amp; Dos Palos
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:anne@dellavallelab.com">
+                                                                                anne@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -238,12 +518,59 @@
                                                             ?>
                                                             Years Experience
                                                         </li>
-                                                        <em>Agronomist, Certified Crop Advisor, Doctor of Plant Medicine</em>
-                                                        <br>
-                                                        Mobile: (559) 351-2741<br>Area: Fresno, Madera and Merced regions,
-                                                        Special Projects
-                                                        <br>
-                                                        <a href="mailto:lmount@dellavallelab.com">lmount@dellavallelab.com</a>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Agronomist</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Dr. Plant Medicine - University of Florida, Gainsville
+                                                                            <br />BS Botany - University of Florida, Gainsville
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Cerified Crop Advisor
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>Mobile: (559) 351-2741</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Counties of Fresno, Madera &amp; Merced
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:lmount@dellavallelab.com">
+                                                                                lmount@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -258,11 +585,56 @@
                                                             ?>
                                                             Years Experience
                                                         </li>
-                                                        <em>Dairy Technician</em>
-                                                        <br>
-                                                        Mobile: (559) 471-6140<br>Area: Kern, Kings, Fresno Regions
-                                                        <br>
-                                                        <a href="mailto:ctiemersma@dellavallelab.com">ctiemersma@dellavallelab.com</a>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Dairy Technician</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>Mobile: (559) 471-6140</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Counties of Fresno, Kern &amp; Kings
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:ctiemersma@dellavallelab.com">
+                                                                                ctiemersma@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -291,9 +663,10 @@
                                                                             <i class="fas fa-graduation-cap"></i>
                                                                         </th>
                                                                         <td>
-                                                                            BS Sustainable Agriculture and Food Systems
+                                                                            BS Sustainable Agriculture &amp; Food Systems
                                                                             <br />
-                                                                            &emsp;Emphasis in Agriculture &amp; Ecology
+                                                                            &emsp;Emphasis in Agriculture &amp; Ecology -
+                                                                            <br />University of California, Davis
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -345,26 +718,69 @@
                                                             ?>
                                                             Years Experience
                                                         </li>
-                                                        <em>
-                                                            Agricultural Consultant
-                                                            <br />
-                                                            AS Agriculture - Woodland Community College
-                                                            <br />
-                                                            BA Business - California State University Sacramento
-                                                            <br />
-                                                            Distribution Operator D1 | Treatment Operator T1
-                                                        </em>
-                                                        <br />
-                                                        Mobile: (831) 776.1811
-                                                        <br />
-                                                        Areas: Sacramento and San Joaquin County
-                                                        <br />
-                                                        <a href="mailto:colmedo@dellavallelab.com">colmedo@dellavallelab.com</a>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Agricultural Consultant
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            AS Agriculture - Woodland Community College
+                                                                            <br />
+                                                                            BA Business - California State University, Sacramento
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Distribution Operator D1 | Treatment Operator T1
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Mobile: (831) 776-1811
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Sacramento &amp; San Joaquin County
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:colmedo@dellavallelab.com">
+                                                                                colmedo@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="cons" scope="row">
-                                                        <img alt="Andrew Koetsier" title="Andrew Koetsier" class="img-fluid img-thumbnail" id="cons" src="">
+                                                        <img alt="Andrew Koetsier" title="Andrew Koetsier" class="img-fluid img-thumbnail" id="cons" src="images/consultants/AndrewKoetsier.png">
                                                     </td>
                                                     <td colspan="4">
                                                         <strong>Andrew Koetsier</strong>
@@ -374,17 +790,59 @@
                                                             ?>
                                                             Years Experience
                                                         </li>
-                                                        <em>
-                                                            Agronomist
-                                                            <br />
-                                                            BA Agriculture - Dordt College
-                                                        </em>
-                                                        <br />
-                                                        Mobile: (559) 656.9672
-                                                        <br />
-                                                        Areas: Hanford and Visalia South
-                                                        <br />
-                                                        <a href="mailto:a.koetsier@dellavallelab.com">a.koetsier@dellavallelab.com</a>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Agronomist</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            BA Agriculture - Dordt College
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Mobile: (559) 656-9672
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Hanford &amp; Visalia South
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:a.koetsier@dellavallelab.com">
+                                                                                a.koetsier@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -399,26 +857,68 @@
                                                             ?>
                                                             Years Experience
                                                         </li>
-                                                        <em>
-                                                            Certified Agronomist
-                                                            <br />
-                                                            BA Viticulture - Fresno State University California
-                                                            <br />
-                                                            California Almond Board (INSH) | Kern County CAPCA Board
-                                                            <br />
-                                                            Certified Crop Advisor | Pest Control Advisor | Qualified Applicator
-                                                        </em>
-                                                        <br />
-                                                        Mobile: (661) 742.2478
-                                                        <br />
-                                                        Areas: Kern County
-                                                        <br />
-                                                        <a href="mailto:javoth@Dellavallelab.com">javoth@Dellvallelab.com</a>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Agronomist</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            BS Viticulture - Fresno State University, California
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Certified Crop Advisor
+                                                                            <br />Certified Agronomist
+                                                                            <br />Pest Control Advisor (All categories)
+                                                                            <br />Qualified Applicator
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>Mobile: (661) 742-2478</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Central Valley
+                                                                            <br />
+                                                                            &emsp;(Sacramento to Kern County)
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:javoth@dellavallelab.com">
+                                                                                javoth@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="cons" scope="row">
-                                                        <img alt="Lisa Rubin" title="Lisa Rubin" class="img-fluid img-thumbnail" id="cons" src="">
+                                                        <img alt="Lisa Rubin" title="Lisa Rubin" class="img-fluid img-thumbnail" id="cons" src="images/consultants/LisaRubin.jpg">
                                                     </td>
                                                     <td colspan="4">
                                                         <strong>Lisa Rubin</strong>
@@ -428,56 +928,193 @@
                                                             ?>
                                                             Years Experience
                                                         </li>
-                                                        <em>
-                                                            Technical Consultant
-                                                            <br />
-                                                            BA Plant Scientce: Plant Health Option | AA Natural Science
-                                                            <br />
-                                                            CCA
-                                                            <br />
-                                                            Regulatory Compliance | Waste Discharge Requirement Reporting | Sediment
-                                                            and Erosion Control Planning | Comprehensive Nutrient Management Plans
-                                                            (daries) | Nutrient MAnagement Planning for Recycled Process Water |
-                                                            Crop Loss Investigations | Agronomic Assessment Reports for New Purchases
-                                                        </em>
-                                                        <br />
-                                                        Mobile: (408) 667.7661
-                                                        <br />
-                                                        Areas: Central California Valley
-                                                        <br />
-                                                        <a href="mailto:l.rubin@Dellavallelab.com">l.rubin@Dellvallelab.com</a>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Technocal Consultant</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            BS Plant Science: Plant Health Option - California State University, Fresno
+                                                                            <br />
+                                                                            AA Natural Science - Reedley College
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>Cerified Crop Advisor</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>Mobile: (408) 667-7661</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Central Valley
+                                                                            <br />
+                                                                            &emsp;(Sacramento to Kern County)
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:l.rubin@dellavallelab.com">
+                                                                                l.rubin@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="cons" scope="row">
-                                                        <img alt="Lisa Rubin" title="Lisa Rubin" class="img-fluid img-thumbnail" id="cons" src="">
+                                                        <img alt="Chad Reenders" title="Chad Reenders" class="img-fluid img-thumbnail" id="cons" src="images/Consultants/ChadReenders.png">
                                                     </td>
                                                     <td colspan="4">
-                                                        <strong>Lisa Rubin</strong>
+                                                        <strong>Chad Reenders</strong>
                                                         <li>
                                                             <?php
-                                                            echo yrsOfService(-2015, 2);
+                                                            echo yrsOfService(-2017, 4);
                                                             ?>
                                                             Years Experience
                                                         </li>
-                                                        <em>
-                                                            Technical Consultant
-                                                            <br />
-                                                            BA Plant Scientce: Plant Health Option | AA Natural Science
-                                                            <br />
-                                                            CCA
-                                                            <br />
-                                                            Regulatory Compliance | Waste Discharge Requirement Reporting | Sediment
-                                                            and Erosion Control Planning | Comprehensive Nutrient Management Plans
-                                                            (daries) | Nutrient MAnagement Planning for Recycled Process Water |
-                                                            Crop Loss Investigations | Agronomic Assessment Reports for New Purchases
-                                                        </em>
-                                                        <br />
-                                                        Mobile: (408) 667.7661
-                                                        <br />
-                                                        Areas: Central California Valley
-                                                        <br />
-                                                        <a href="mailto:l.rubin@Dellavallelab.com">l.rubin@Dellvallelab.com</a>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Agronomist</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            BS BioResource &amp; Agricultural Engeneering -
+                                                                            <br />
+                                                                            California Polytechnic State University San Luis Obispo
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>Cerified Crop Advisor</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>Mobile: (559) 922-9299</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Counties of San Los Obispo &amp; Kings
+                                                                            <br />
+                                                                            &emsp;Areas of South Fresno &amp; North Tulare
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:c.reenders@dellavallelab.com">
+                                                                                c.reenders@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="cons" scope="row">
+                                                        <img alt="Mike LeBarre" title="Mike LeBarre" id="cons" class="img-fluid img-thumbnail" src="images/consultants/mikelebarre.jpg">
+                                                    </td>
+                                                    <td colspan="4">
+                                                        <strong>Mike LeBarre</strong>
+                                                        <li>
+                                                            <?php 
+                                                            echo yrsOfService(-2008, 0);
+                                                            ?>
+                                                            Years Experience
+                                                        </li>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Agricultural Technician</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Cerified Crop Advisor
+                                                                            <br />Certified Professional Soil Scientist
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>Mobile: (831) 320-0129</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:mike.lebarre@att.net">
+                                                                                mike.lebarre@att.net
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                             </tbody>
