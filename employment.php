@@ -35,14 +35,11 @@
                 <div class="col-12">
                     <h3>Seasonal Part-Time</h3>
                     <p>
-                        &emsp;We are looking for hardworking and enthusiastic people to join our team. To inquire about these
+                        We are looking for hardworking and enthusiastic people to join our team. To inquire about these
                         opportunities, please contact the Fresno Office and ask for Monica Romero at: (559) 233-6129
-                    </p>
-                    <p>
-                        You may also submit a resume (format: Word.doc) to
-                        <a href="mailto:m.romero@dellavallelab.com?subject=Employment">
-                            m.romero@dellavallelab.com</a>;
-                        Or, submit your resume to the attention of Monica Romero at:
+                        <br />You may also submit a resume (format: Word.doc) to <a href="mailto:m.romero@dellavallelab.com?subject=Employment">
+                            m.romero@dellavallelab.com
+                        </a>; Or, submit your resume to the attention of Monica Romero at:
                     </p>
                     <p>
                         &emsp;Dellavalle Laboratory, Inc.
