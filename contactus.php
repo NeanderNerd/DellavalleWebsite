@@ -51,11 +51,11 @@
             <p>We want to be responsive to your questions or issues. Please help us by filling out the necessary
                 information in the areas below.</p>
             <h4>Contact Form</h4>
-            <form action="http://www.SnapHost.com/captcha/WebFormSubmit.aspx" id="ContactUsCaptchaWebForm" method="post" onsubmit="return ValidateForm(this);">
+            <form action="http://www.SnapHost.com/captcha/send.aspx" id="ContactUsCaptchaWebForm" method="post" onsubmit="return ValidateForm(this);">
                 <input type="hidden" id="skip_WhereToSend" name="skip_WhereToSend" value='c.garrick@dellavallelab.com'>
                 <input type="hidden" id="skip_Subject" name="skip_Subject" value="WebsiteFormEmail">
                 <input type="hidden" id="skip_WhereToReturn" name="skip_WhereToReturn" value="http://www.dellavallelab.com/thankyou.php">
-                <input id="SnapHostID" name="SnapHostID" type="hidden" value="W4AWDJNZYPUW" />
+                <input id="skip_SnapHostID" name="skip_SnapHostID" type="hidden" value="JTCETPXSHYN3" />
                 <script type="text/javascript">
                     function ValidateForm(frm) {
                         if (frm.Name.value == "") {
@@ -113,7 +113,7 @@
                                     </td>
                                     <td>
                                         <a href="http://www.SnapHost.com/captcha/ProCaptchaOverview.aspx">
-                                            <img alt="Web Form Code" style="margin-left:20px; border:1px solid #999999; float: left;" src="http://www.SnapHost.com/captcha/WebForm.aspx?id=W4AWDJNZYPUW&ImgType=2" /></a>
+                                            <img alt="Web Form Code" style="margin-left:20px; border:1px solid #999999; float: left;" src="http://www.SnapHost.com/captcha/CaptchaImage.aspx?id=JTCETPXSHYN3" /></a>
                                     </td>
                                 </tr>
                             </table> * - required fields. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
