@@ -51,11 +51,11 @@
             <p>We want to be responsive to your questions or issues. Please help us by filling out the necessary
                 information in the areas below.</p>
             <h4>Contact Form</h4>
-            <form action="http://www.SnapHost.com/captcha/send.aspx" id="ContactUsCaptchaWebForm" method="post" onsubmit="return ValidateForm(this);">
+            <form class="needs-validation" novalidate action="http://www.SnapHost.com/captcha/send.aspx" id="ContactUsCaptchaWebForm" method="post" target="_top">
                 <input type="hidden" id="skip_WhereToSend" name="skip_WhereToSend" value='c.garrick@dellavallelab.com'>
                 <input type="hidden" id="skip_Subject" name="skip_Subject" value="WebsiteFormEmail">
                 <input type="hidden" id="skip_WhereToReturn" name="skip_WhereToReturn" value="http://www.dellavallelab.com/thankyou.php">
-                <input id="skip_SnapHostID" name="skip_SnapHostID" type="hidden" value="JTCETPXSHYN3" />
+                <input type="hidden" id="skip_SnapHostID" name="skip_SnapHostID" value="JTCETPXSHYN3" />
                 <script type="text/javascript">
                     function ValidateForm(frm) {
                         if (frm.Name.value == "") {
@@ -104,22 +104,73 @@
                         <td valign="top" class="left">Comments and questions*:</td>
                         <td style="width: 418px"><textarea name="Comments" id="Comments" rows="7" cols="40" style="width:75%; border:1px solid #999999"></textarea></td>
                     </tr>
-                    <tr>
-                        <td colspan="2" align="center">
-                            <table border="0" cellpadding="0" cellspacing="0">
-                                <tr valign="top">
-                                    <td> <i>Enter web form code*:</i>
-                                        <input id="CaptchaCode" name="CaptchaCode" type="text" style="width:80px; border:1px solid #999999" maxlength="6" />
-                                    </td>
-                                    <td>
-                                        <a href="http://www.SnapHost.com/captcha/ProCaptchaOverview.aspx">
-                                            <img alt="Web Form Code" style="margin-left:20px; border:1px solid #999999; float: left;" src="http://www.SnapHost.com/captcha/CaptchaImage.aspx?id=JTCETPXSHYN3" /></a>
-                                    </td>
-                                </tr>
-                            </table> * - required fields. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                            <input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" />
-                        </td>
-                    </tr>
+                    <div class="col-sm-6">
+                        <table class="table table-dark">
+                            <tr>
+                                <th scope="row" colspan="2" style="padding-bottom:1px;">
+                                    <a href="http://www.snaphost.com/captcha" alt="feedback form email" title="feedback form email">
+                                        feedback form email
+                                    </a>
+                                </th>
+                            </tr>
+                            <tr valign="bottom">
+                                <th scope="row">
+                                    <a href="#" onclick="return ReloadCaptchaImage('CaptchaImage');">
+                                        <span style="font-size:12px;">
+                                            reload image
+                                        </span>
+                                    </a><br />
+                                    <a href="http://www.snaphost.com/captcha/ProCaptchaOverview.aspx">
+                                        <img id="CaptchaImage" alt="online forms html" style="border-width:0px;" title="online forms html" src="https://www.SnapHost.com/captcha/CaptchaImage.aspx?id=JTCETPXSHYN3" />
+                                    </a>
+                                </th>
+                                <td><br />
+                                    <i>Enter Captcha code</i><br />
+                                    <input id="skip_CaptchaCode" name="skip_CaptchaCode" type="text" style="width:130px; height:48px; font-size:38px;" maxlength="6" /><br />
+                                </td>
+                            </tr>
+                            <div class="col-sm-6">
+                                <button type="submit" class="btn btn-success">Send</button>
+                            </div>
+                        </table>
+                        <script type="text/javascript">
+                            function ReloadCaptchaImage(captchaImageId) {
+                                var obj = document.getElementById(captchaImageId);
+                                var src = '' + obj.src;
+                                obj.src = '';
+                                var date = new Date();
+                                var pos = src.indexOf('&rad=');
+                                if (pos >= 0) {
+                                    src = src.substr(0, pos);
+                                };
+                                obj.src = src + '&rad=' + date.getTime();
+                                return false;
+                            };
+
+                            (function() {
+                                'use strict';
+                                window.addEventListener('load', function() {
+                                    var forms = document.getElementsByClassName('needs-validation');
+                                    var texts = document.getElementsByClassName('form-group row');
+                                    var validation = Array.prototype.filter.call(forms, function(form) {
+                                        form.addEventListener('submit', function(event) {
+                                            if (form.checkValidity() === false) {
+                                                event.preventDefault();
+                                                event.stopPropagation();
+                                            }
+                                            form.classList.add('was-validated');
+                                            Array.prototype.filter.call(texts, function(text) {
+                                                var x = text.getAttribute('id');
+                                                if (x == 'name' || x == 'email') {
+                                                    text.classList.add('pb-4');
+                                                };
+                                            });
+                                        }, false);
+                                    });
+                                }, false);
+                            })();
+                        </script>
+                    </div>
                 </table>
             </form>
         </section>

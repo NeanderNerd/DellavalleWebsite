@@ -33,7 +33,7 @@
             <div class="row">
                 <div class="col-12">
                     <p>Dellavalle Laboratory Inc. appreciates our customers. We should receive your email shortly and will respond to you as soon as possible.</p>
-                    <a class="link" href="Index.php">Home</a>
+                    <!--  <a class="link" href="Index.php">Home</a>  -->
                 </div>
             </div>
         </div>
