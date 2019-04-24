@@ -376,7 +376,7 @@
                                                         <strong>Bill Blanken</strong>
                                                         <li>
                                                             <?php 
-                                                            echo yrsOfService(-1960, 0);
+                                                            echo yrsOfService(-2004, 44);
                                                             ?>
                                                             Years Experience
                                                         </li>
@@ -402,6 +402,9 @@
                                                                             <i class="fas fa-certificate"></i>
                                                                         </th>
                                                                         <td>
+                                                                            Pest Control Advisor
+                                                                            <br/>
+                                                                            Certified Crop Advisor
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
