@@ -35,8 +35,8 @@
             <!-- #BeginEditable "contentRight" -->
             <h1>Employment</h1>
             <p>
-                We are looking for hardworking and enthusiastic people to join our team. To inquire about the seasonal/temporary entry-level
-                opportunities, You may submit your resume (format: Word.doc) by Email to
+                We are looking for hardworking and enthusiastic people to join our team. We currently have seasonal/temporary Field Ag Tech/Sampler positions
+                available in the Hanford and Ceres-Modesto areas. You may submit your resume (format: Word.doc) by Email to
                 <a href="mailto:m.romero@dellavallelab.com?subject=Employment">m.romero@dellavallelab.com</a>, or by Fax to (559) 268-8174,
                 or by mail to:
             </p>
