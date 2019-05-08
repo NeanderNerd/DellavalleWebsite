@@ -390,182 +390,188 @@
                                         </div>
                                         <div class="tab-content col-12" id="pills-tabContent">
                                             <div class="tab-pane fade" id="pills-tisFar" role="tabPanel" aria-labelledby="pills-tisFar-tab">
-                                                <table class="table table-hover">
-                                                    <thead>
-                                                        <tr>
-                                                            <th scope="col">Crop</th>
-                                                            <th scope="col">Plant Part to Sample</th>
-                                                            <th scope="col">Time of Sampling</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr>
-                                                            <th scope="row">Alfalfa</th>
-                                                            <td>
-                                                                Midstems for NO3-N, PO4-P, K
-                                                                <br />Leaves for SO4-S
-                                                                <br />Tops for Mo, B
-                                                            </td>
-                                                            <td>1/10 Bloom</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Asparagus</th>
-                                                            <td>Fern needles 4" tip section</td>
-                                                            <td>September</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Cabbage/Lettuce</th>
-                                                            <td>Midrib of wrapper leaf</td>
-                                                            <td>Heading</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Cantaloupe/Cucumber</th>
-                                                            <td>
-                                                                Petioles of 6th leaf/ from growing tips 6-8 true leaves
-                                                            </td>
-                                                            <td>Early fruit set</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Corn</th>
-                                                            <td>
-                                                                Midrib from young mature leaf
-                                                                <br />Midrib from leaf opposite ear
-                                                                <br />Leaf - young mature
-                                                                <br />Leaf opposite ear
-                                                            </td>
-                                                            <td>
-                                                                Before ear formation
-                                                                <br />After ear formation
-                                                                <br />Before ear formation
-                                                                <br />After ear formation
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Cotton</th>
-                                                            <td>Young, mature petiole</td>
-                                                            <td>June thru Sept 15</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Onion/Garlic</th>
-                                                            <td>
-                                                                &#8220;Y&#8221; leaf from 6&#8221; plant
-                                                                <br />height to pre-harvest
-                                                            </td>
-                                                            <td>Pre-harvest</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Sorghum/Milo</th>
-                                                            <td>Young mature leaf</td>
-                                                            <td>Pre-harvest</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Tomato</th>
-                                                            <td>Petiole of recently matured leaf (4th leaf from growing tip)</td>
-                                                            <td>Early Bloom, 1" Fruit, lst Color</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Wheat/Barley</th>
-                                                            <td>2&#8221; of above-ground stem</td>
-                                                            <td>6&#8221; tall to pre-harvest</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
+                                                <div class="table-responsive">
+                                                    <table class="table table-hover">
+                                                        <thead>
+                                                            <tr>
+                                                                <th scope="col">Crop</th>
+                                                                <th scope="col">Plant Part to Sample</th>
+                                                                <th scope="col">Time of Sampling</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <th scope="row">Alfalfa</th>
+                                                                <td>
+                                                                    Midstems for NO3-N, PO4-P, K
+                                                                    <br />Leaves for SO4-S
+                                                                    <br />Tops for Mo, B
+                                                                </td>
+                                                                <td>1/10 Bloom</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Asparagus</th>
+                                                                <td>Fern needles 4" tip section</td>
+                                                                <td>September</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Cabbage/Lettuce</th>
+                                                                <td>Midrib of wrapper leaf</td>
+                                                                <td>Heading</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Cantaloupe/Cucumber</th>
+                                                                <td>
+                                                                    Petioles of 6th leaf/ from growing tips 6-8 true leaves
+                                                                </td>
+                                                                <td>Early fruit set</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Corn</th>
+                                                                <td>
+                                                                    Midrib from young mature leaf
+                                                                    <br />Midrib from leaf opposite ear
+                                                                    <br />Leaf - young mature
+                                                                    <br />Leaf opposite ear
+                                                                </td>
+                                                                <td>
+                                                                    Before ear formation
+                                                                    <br />After ear formation
+                                                                    <br />Before ear formation
+                                                                    <br />After ear formation
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Cotton</th>
+                                                                <td>Young, mature petiole</td>
+                                                                <td>June thru Sept 15</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Onion/Garlic</th>
+                                                                <td>
+                                                                    &#8220;Y&#8221; leaf from 6&#8221; plant
+                                                                    <br />height to pre-harvest
+                                                                </td>
+                                                                <td>Pre-harvest</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Sorghum/Milo</th>
+                                                                <td>Young mature leaf</td>
+                                                                <td>Pre-harvest</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Tomato</th>
+                                                                <td>Petiole of recently matured leaf (4th leaf from growing tip)</td>
+                                                                <td>Early Bloom, 1" Fruit, lst Color</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Wheat/Barley</th>
+                                                                <td>2&#8221; of above-ground stem</td>
+                                                                <td>6&#8221; tall to pre-harvest</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
                                             </div>
                                             <div class="tab-pane fade" id="pills-tisPerm" role="tabPanel" aria-labelledby="pills-tisPerm-tab">
-                                                <table class="table table-hover">
-                                                    <thead>
-                                                        <tr>
-                                                            <th scope="col">Crop</th>
-                                                            <th scope="col">Plant Part to Sample</th>
-                                                            <th scope="col">Time of Sampling</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr>
-                                                            <th scope="row">Blueberries</th>
-                                                            <td>Leaves &#8211; mid-shoot</td>
-                                                            <td>April thru September</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scop="row">Citrus</th>
-                                                            <td>Mature leaves from non-fruiting terminals (avoid recent flush)</td>
-                                                            <td>July 15 to May 15</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Deciduous Fruit/Nut Trees (except those noted below)</th>
-                                                            <td>Mature Leaves &#8211; from spurs</td>
-                                                            <td>May thru September</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Grapes</th>
-                                                            <td>
-                                                                Petiole - opposite cluster
-                                                                <br />Petiole
-                                                                <br />Leaf blade &#8211; opposite cluster
-                                                                <br />Leaf blade &#8211; young mature
-                                                                <br /><img class="img-thumbnail rounded" src="images/figure1.gif" />
-                                                            </td>
-                                                            <td>
-                                                                Bloom
-                                                                <br />Veraison
-                                                                <br />April &amp; June
-                                                                <br />July thru Sept 15
-                                                            </td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Peaches &amp; Nectarines</th>
-                                                            <td>
-                                                                Leaves &#8211; mid-shoot from current
-                                                                <br />season&#8217;s growth
-                                                            </td>
-                                                            <td>April 15 thru Sept 15</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Pistachios</th>
-                                                            <td>
-                                                                Young, mature leaves from
-                                                                <br />non-fruiting terminals
-                                                            </td>
-                                                            <td>May thru August</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <th scope="row">Walnuts &amp; Pecans</th>
-                                                            <td>Terminal leaflet of compound leaf</td>
-                                                            <td>Terminal leaflet of compound leaf</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
+                                                <div class="table-responsive">
+                                                    <table class="table table-hover">
+                                                        <thead>
+                                                            <tr>
+                                                                <th scope="col">Crop</th>
+                                                                <th scope="col">Plant Part to Sample</th>
+                                                                <th scope="col">Time of Sampling</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <th scope="row">Blueberries</th>
+                                                                <td>Leaves &#8211; mid-shoot</td>
+                                                                <td>April thru September</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scop="row">Citrus</th>
+                                                                <td>Mature leaves from non-fruiting terminals (avoid recent flush)</td>
+                                                                <td>July 15 to May 15</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Deciduous Fruit/Nut Trees (except those noted below)</th>
+                                                                <td>Mature Leaves &#8211; from spurs</td>
+                                                                <td>May thru September</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Grapes</th>
+                                                                <td>
+                                                                    Petiole - opposite cluster
+                                                                    <br />Petiole
+                                                                    <br />Leaf blade &#8211; opposite cluster
+                                                                    <br />Leaf blade &#8211; young mature
+                                                                    <br /><img class="img-thumbnail rounded" src="images/figure1.gif" />
+                                                                </td>
+                                                                <td>
+                                                                    Bloom
+                                                                    <br />Veraison
+                                                                    <br />April &amp; June
+                                                                    <br />July thru Sept 15
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Peaches &amp; Nectarines</th>
+                                                                <td>
+                                                                    Leaves &#8211; mid-shoot from current
+                                                                    <br />season&#8217;s growth
+                                                                </td>
+                                                                <td>April 15 thru Sept 15</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Pistachios</th>
+                                                                <td>
+                                                                    Young, mature leaves from
+                                                                    <br />non-fruiting terminals
+                                                                </td>
+                                                                <td>May thru August</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <th scope="row">Walnuts &amp; Pecans</th>
+                                                                <td>Terminal leaflet of compound leaf</td>
+                                                                <td>Terminal leaflet of compound leaf</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
                                             </div>
                                             <div class="tab-pane fade" id="pills-tisOrn" role="tabPanel" aria-labelledby="pills-tisOrn-tab">
-                                                <table class="table table-hover">
-                                                    <thead>
-                                                        <tr>
-                                                            <th scope="col">Crop</th>
-                                                            <th scope="col">Plant Part to Sample</th>
-                                                            <th scope="col">Time of Sampling</th>
-                                                        </tr>
-                                                    </thead>
-                                                    <tbody>
-                                                        <tr>
-                                                            <td>Flowers &amp; Shrubs</td>
-                                                            <td>Leaves &#8211; young mature</td>
-                                                            <td>Anytime</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>Turf</td>
-                                                            <td>Any clippings</td>
-                                                            <td>Anytime</td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td>
-                                                                Woody Ornamentals
-                                                                <br />(Deciduous &amp; Evergreen)
-                                                            </td>
-                                                            <td>Leaf or needle &#8211; young mature</td>
-                                                            <td>April thru September</td>
-                                                        </tr>
-                                                    </tbody>
-                                                </table>
+                                                <div class="table-responsive">
+                                                    <table class="table table-hover">
+                                                        <thead>
+                                                            <tr>
+                                                                <th scope="col">Crop</th>
+                                                                <th scope="col">Plant Part to Sample</th>
+                                                                <th scope="col">Time of Sampling</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>Flowers &amp; Shrubs</td>
+                                                                <td>Leaves &#8211; young mature</td>
+                                                                <td>Anytime</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Turf</td>
+                                                                <td>Any clippings</td>
+                                                                <td>Anytime</td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    Woody Ornamentals
+                                                                    <br />(Deciduous &amp; Evergreen)
+                                                                </td>
+                                                                <td>Leaf or needle &#8211; young mature</td>
+                                                                <td>April thru September</td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -588,30 +594,32 @@
                                                 The harvested crop is analyzed to determine levels of nutrients and salts removed from the
                                                 field.
                                             </p>
-                                            <table class="table table-hover">
-                                                <tbody>
-                                                    <tr>
-                                                        <th scope="row">Fruit </th>
-                                                        <td>Submit 5-10 whole fruit (3 to 5 lbs).</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th scope="row">Silage</th>
-                                                        <td>Collect removed crop or hand-cut field samples just prior to harvest.</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th scope="row">Grain </th>
-                                                        <td>Submit grain. If baled, sample straw.</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th scope="row">Alfalfa</th>
-                                                        <td>Collect samples in field or soon after baled.</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th scope="row">Green-chop</th>
-                                                        <td>Collect harvested material.</td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
+                                            <div class="table-responsive">
+                                                <table class="table table-hover">
+                                                    <tbody>
+                                                        <tr>
+                                                            <th scope="row">Fruit </th>
+                                                            <td>Submit 5-10 whole fruit (3 to 5 lbs).</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">Silage</th>
+                                                            <td>Collect removed crop or hand-cut field samples just prior to harvest.</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">Grain </th>
+                                                            <td>Submit grain. If baled, sample straw.</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">Alfalfa</th>
+                                                            <td>Collect samples in field or soon after baled.</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">Green-chop</th>
+                                                            <td>Collect harvested material.</td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
                                             <h4 class="noBold">Procedure:</h4>
                                             <ul>
                                                 <li>
@@ -842,23 +850,25 @@
                                                     </li>
                                                 </ul>
                                                 <h4 class="noBold">Hold times to remember:</h4>
-                                                <table class="table table-hover">
-                                                    <tr>
-                                                        <th scope="row">BOD, NO3-N, NO2-N </th>
-                                                        <td>48 hrs </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th scope="row">Total Coliform, Fecal Coliform &amp; E. coli, MPN</td>
-                                                        <td>6 hrs</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <th scope="row">pH</th>
-                                                        <td>
-                                                            15 min
-                                                            <br />(impossible, unless done in field); lab within 24 hrs of receipt
-                                                        </td>
-                                                    </tr>
-                                                </table>
+                                                <div class="table-responsive">
+                                                    <table class="table table-hover">
+                                                        <tr>
+                                                            <th scope="row">BOD, NO3-N, NO2-N </th>
+                                                            <td>48 hrs </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">Total Coliform, Fecal Coliform &amp; E. coli, MPN</td>
+                                                            <td>6 hrs</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <th scope="row">pH</th>
+                                                            <td>
+                                                                15 min
+                                                                <br />(impossible, unless done in field); lab within 24 hrs of receipt
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </div>
                                                 <p>
                                                     If you are unsure of collection procedures, please
                                                     <a class="link" href="contactus.php" target="_blank">
@@ -881,4 +891,4 @@
         <?php include 'PageWrappers/footer.php'; ?>
 </body>
 
-</html> 
+</html>

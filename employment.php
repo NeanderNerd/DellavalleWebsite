@@ -35,11 +35,10 @@
                 <div class="col-12">
                     <h3>Seasonal Part-Time</h3>
                     <p>
-                        We are looking for hardworking and enthusiastic people to join our team. To inquire about these
-                        opportunities, please contact the Fresno Office and ask for Monica Romero at: (559) 233-6129
-                        <br />You may also submit a resume (format: Word.doc) to <a href="mailto:m.romero@dellavallelab.com?subject=Employment">
-                            m.romero@dellavallelab.com
-                        </a>; Or, submit your resume to the attention of Monica Romero at:
+                        Our company is seeking hardworking and enthusiastic people to join our team! We currently have
+                        seasonal/temporary Field Ag Tech/Sampler positions available in the Hanford and Ceres-Modesto areas.
+                        You may submit a resume (format: Word.doc) by email to <a href="mailto:m.romero@dellavallelab.com?subject=Employment">m.romero@dellavallelab.com</a>,
+                        or by Fax to (559) 268-8174, or by mail to:
                     </p>
                     <p>
                         &emsp;Dellavalle Laboratory, Inc.

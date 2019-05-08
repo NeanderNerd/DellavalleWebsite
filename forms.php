@@ -62,7 +62,7 @@
                         <ul>
                             <li>
                                 <strong>Date and Time Sampled</strong>
-                                – For waters date and time sampled is very important.
+                                – For Waters, date and time sampled is very important.
                             </li>
                             <li>
                                 <strong>Analysis Requested </strong>

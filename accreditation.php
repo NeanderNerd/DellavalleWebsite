@@ -29,7 +29,7 @@
     <!-- Content for main section -->
     <section>
         <div class="container-fluid">
-            <h1>Accreditation | Dellavalle Lab.</h1>
+            <h1>Accreditation</h1>
             <div class="row">
                 <div class="col-12">
                     <p>

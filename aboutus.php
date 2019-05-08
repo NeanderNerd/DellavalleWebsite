@@ -1173,7 +1173,7 @@
                                     </ul>
                                     <p>
                                         We invite your inquiries. Call 1-800-228-9896 or
-                                        <a href="mailto:pmiller@dellavallelab.com" title="EMAIL PEGGY">EMAIL PEGGY</a>
+                                        <a href="mailto:pmiller@dellavallelab.com" title="EMAIL PEGGY">pmiller@dellavallelab.com</a>
                                     </p>
                                 </div>
                             </div>
