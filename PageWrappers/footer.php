@@ -71,5 +71,6 @@
 
 	<p class="tiny">Dellavalle Laboratory, Inc. © 	<script type="text/javascript">document.write(new Date().getFullYear());</script></p>
 	<p class="tiny">All Rights Reserved</p>
+	<a class="tiny" href="Legal-Security.php">Legal & Security Statements</a>
 <p class="tiny">Designed by <a href="http://www.wattleweb.com" target="_blank">Wattleweb Global Solutions</a></p>
 </footer></div>

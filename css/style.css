@@ -64,7 +64,7 @@ text-decoration: underline;
 font-weight: bold;
 outline: none;}
 
-h1 {font: 36px 'Simonetta', cursive, "Century Gothic", Verdana, Helvetica, sans-serif; color: #334801; margin: .3em 0 .3em 0; letter-spacing: 1px;}
+h1 {font: 36px 'Simonetta', cursive, "Century Gothic", Verdana, Helvetica, sans-serif; color: #334801; margin: .3em 0 .3em 0; letter-spacing: 1px; text-align: left}
 h2 {font: 30px 'Simonetta', cursive, "Century Gothic", Verdana, Helvetica, sans-serif; color: #7eb403; margin: .3em 0; letter-spacing: 1px; text-align: center; border-bottom : 1px solid;}
 h3 {font: 24px 'Simonetta', cursive, "Century Gothic", Verdana, Helvetica, sans-serif; color: #334801; margin: .3em 0; padding: 0;}
 h4 {font: bold 16px "Century Gothic", Verdana, Helvetica, sans-serif; color: #505050; margin: .3em 0;}
