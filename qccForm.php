@@ -45,7 +45,7 @@
             <input type="hidden" id="skip_SnapHostID" name="skip_SnapHostID" value="JTCETPXSHYN3" />
             <script type="text/javascript">
                 function ValidateForm(frm) {
-                    if (frm.anon.value == "no") {
+                    if (frm.contact.value == "yes" || frm.contact.value == "no") {
                         if (frm.Name.value == "") {
                             alert('If you wish to receive a response, Please provide your name.');
                             frm.Name.focus();
@@ -101,11 +101,8 @@
                     <td colspan="4" style="border: 1px solid #eaeaea">
                         <input type="radio" name="contact" value="yes" checked />Please contact me to follow up
                         <input type="radio" name="contact" value="no" /> I wish to not be contacted
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="4" style="border: 1px solid #eaeaea">
-                        <input type="checkbox" name="anon" value="nothing" />I would like to remain anonymous and wish to not be contacted
+                        <br />
+                        <input type="radio" name="contact" value="nothing" />I would like to remain anonymous and wish to not be contacted
                     </td>
                 </tr>
                 <tr>
