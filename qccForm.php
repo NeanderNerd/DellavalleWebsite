@@ -41,7 +41,7 @@
         <form onsubmit="return ValidateForm(this);" class="needs-validation" action="http://www.SnapHost.com/captcha/send.aspx" id="qccFormWebForm" method="post" target="_top">
             <input type="hidden" id="skip_WhereToSend" name="skip_WhereToSend" value='g.dunn[[]]dellavallelab.com'>
             <input type="hidden" id="skip_Subject" name="skip_Subject" value="QCCFormEmail">
-            <input type="hidden" id="skip_WhereToReturn" name="skip_WhereToReturn" value="thankyou.php">
+            <input type="hidden" id="skip_WhereToReturn" name="skip_WhereToReturn" value="http://www.Dellavallelab.com/thankyou.php">
             <input type="hidden" id="skip_SnapHostID" name="skip_SnapHostID" value="JTCETPXSHYN3" />
             <script type="text/javascript">
                 function ValidateForm(frm) {
