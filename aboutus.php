@@ -91,7 +91,7 @@
                                                     <td colspan="4">
                                                         <strong>Nat B. Dellavalle</strong>
                                                         <li>
-                                                            <?php 
+                                                            <?php
                                                             echo yrsOfService(-1950, 0);
                                                             ?>
                                                             Years Experience
@@ -103,7 +103,7 @@
                                                                         <th scope="row">
                                                                             <i class="fas fa-briefcase"></i>
                                                                         </th>
-                                                                        <td>Agronomist | Soil Scientist</td>
+                                                                        <td>Agronomist | Soil Scientist | Founder</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <th scope="row">
@@ -120,6 +120,14 @@
                                                                         <td>
                                                                             Certified Crop Advisor
                                                                             <br />Professional Agronomist/Soil Scientist
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Fresno, CA
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -149,6 +157,15 @@
                                                                             </a>
                                                                         </td>
                                                                     </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-book"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            American Society of Agronomy: CA Chapter Former President
+                                                                            <br />Certified Crop Advisor Board Member
+                                                                        </td>
+                                                                    </tr>
                                                                 </tbody>
                                                             </table>
                                                         </div>
@@ -162,7 +179,7 @@
                                                         <strong>Keith M. Backman</strong>
                                                         <li>
                                                             <?php
-                                                            echo yrsOfService(-1960, 0);
+                                                            echo yrsOfService(-1975, 0);
                                                             ?>
                                                             Years Experience
                                                         </li>
@@ -173,7 +190,7 @@
                                                                         <th scope="row">
                                                                             <i class="fas fa-briefcase"></i>
                                                                         </th>
-                                                                        <td>Agronomist</td>
+                                                                        <td>Consultant Manager</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <th scope="row">
@@ -192,7 +209,17 @@
                                                                         <td>
                                                                             Certified Crop Advisor
                                                                             <br />Horticulturist/Pomologist
-                                                                            <br />California Water Distribution Operator
+                                                                            <br />Certified Professional Horticulturist
+                                                                            <br />Nutrient Management Certified
+                                                                            <br />Certified California Water Distribution Operator D1
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Hanford, CA
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -208,8 +235,7 @@
                                                                             <i class="fas fa-globe-americas"></i>
                                                                         </th>
                                                                         <td>
-                                                                            Areas: Eastern Fresno, Kings County, Northern Tulare,
-                                                                            <br />&emsp; San Luis Obispo &amp; Santa Barbara
+                                                                            Areas: All
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -222,6 +248,16 @@
                                                                             </a>
                                                                         </td>
                                                                     </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-book"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            CCA State Board Memeber &amp; International Exam Committee member
+                                                                            <br />Raised on an Orchard in Northern California
+                                                                            <br />Co-Author of the Western Fertilizer Handbook
+                                                                        </td>
+                                                                    </tr>
                                                                 </tbody>
                                                             </table>
                                                         </div>
@@ -229,12 +265,12 @@
                                                 </tr>
                                                 <tr>
                                                     <td class="cons" scope="row">
-                                                        <img alt=" Ben Nydam" title="Ben Nydam" class="img-fluid img-thumbnail" id="cons" src="images/consultants/ben.jpg">
+                                                        <img alt="Ben Nydam" title="Ben Nydam" class="img-fluid img-thumbnail" id="cons" src="images/consultants/ben.jpg">
                                                     </td>
                                                     <td colspan="4">
                                                         <strong>Ben Nydam</strong>
                                                         <li>
-                                                            <?php 
+                                                            <?php
                                                             echo yrsOfService(-1995, 0);
                                                             ?>
                                                             Years Experience
@@ -246,7 +282,7 @@
                                                                         <th scope="row">
                                                                             <i class="fas fa-briefcase"></i>
                                                                         </th>
-                                                                        <td>Consultant | Irrigation Specialist</td>
+                                                                        <td> Sr. Consultant | Irrigation Specialist | Sairy Specialist</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <th scope="row">
@@ -262,6 +298,16 @@
                                                                         </th>
                                                                         <td>
                                                                             Certified Crop Advisor
+                                                                            <br />Nutrient Management Certified
+                                                                            <br />Manuer Management Specialist
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Hanford, CA
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -290,6 +336,16 @@
                                                                             </a>
                                                                         </td>
                                                                     </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-book"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            American Society of Agronomy: CA Chapter President
+                                                                            <br />Routinely guest lectures at the Soil &amp; Plant Conference
+                                                                            <br />C.U.R.E.S. Nutrient Management Trainer
+                                                                        </td>
+                                                                    </tr>
                                                                 </tbody>
                                                             </table>
                                                         </div>
@@ -302,7 +358,7 @@
                                                     <td colspan="4">
                                                         <strong>Danyal Kasapligil</strong>
                                                         <li>
-                                                            <?php 
+                                                            <?php
                                                             echo yrsOfService(-1998, 10);
                                                             ?>
                                                             Years Experience
@@ -314,7 +370,7 @@
                                                                         <th scope="row">
                                                                             <i class="fas fa-briefcase"></i>
                                                                         </th>
-                                                                        <td>Agronomist</td>
+                                                                        <td>Sr. Agronomist</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <th scope="row">
@@ -334,6 +390,15 @@
                                                                             Certified Professional Agronomist
                                                                             <br />Certified Crop Advisor
                                                                             <br />Agricultural Pest Control Advisor
+                                                                            <br />California Certified water Distribution Operator; D1
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Davis, CA
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -363,6 +428,16 @@
                                                                             </a>
                                                                         </td>
                                                                     </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-book"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Nitrogen specialist
+                                                                            <br />American Society of Agronomy: CA Chapter Board Member
+                                                                            <br />Routinely guest lectures at CSU Chico University
+                                                                        </td>
+                                                                    </tr>
                                                                 </tbody>
                                                             </table>
                                                         </div>
@@ -375,7 +450,7 @@
                                                     <td colspan="4">
                                                         <strong>Bill Blanken</strong>
                                                         <li>
-                                                            <?php 
+                                                            <?php
                                                             echo yrsOfService(-2004, 44);
                                                             ?>
                                                             Years Experience
@@ -387,7 +462,7 @@
                                                                         <th scope="row">
                                                                             <i class="fas fa-briefcase"></i>
                                                                         </th>
-                                                                        <td>Agronomist</td>
+                                                                        <td>Agronomist | Dairy Specialist</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <th scope="row">
@@ -403,8 +478,16 @@
                                                                         </th>
                                                                         <td>
                                                                             Pest Control Advisor
-                                                                            <br/>
+                                                                            <br />
                                                                             Certified Crop Advisor
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Hanford, CA
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -420,7 +503,7 @@
                                                                             <i class="fas fa-globe-americas"></i>
                                                                         </th>
                                                                         <td>
-                                                                            Areas: Counties of Kern, Kings &amp; Tulare
+                                                                            Areas: Counties of Kings &amp; Tulare
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -432,6 +515,14 @@
                                                                                 bblanken@dellavallelab.com
                                                                             </a>
                                                                         </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-book"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Spreckels Sugar Sr. Agronomist
+                                                                        </td>California Association of Pest Control Advisors Member
                                                                     </tr>
                                                                 </tbody>
                                                             </table>
@@ -445,7 +536,7 @@
                                                     <td colspan="4">
                                                         <strong>Anne Burkholder</strong>
                                                         <li>
-                                                            <?php 
+                                                            <?php
                                                             echo yrsOfService(-2008, 0);
                                                             ?>
                                                             Years Experience
@@ -480,6 +571,14 @@
                                                                     </tr>
                                                                     <tr>
                                                                         <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Davis, CA
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
                                                                             <i class="fas fa-mobile"></i>
                                                                         </th>
                                                                         <td>Mobile: (530) 400-1346</td>
@@ -489,9 +588,9 @@
                                                                             <i class="fas fa-globe-americas"></i>
                                                                         </th>
                                                                         <td>
-                                                                            Areas: Counties of Yolo, Solano, Colusa &amp; Sutter
+                                                                            Areas: Counties of Yolo, Solano, Colusa, Sutter
                                                                             <br />
-                                                                            &emsp;Cities of Los Ba&ograve;os &amp; Dos Palos
+                                                                            &emsp;&amp; The Northern Sacramento Valley
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -502,6 +601,17 @@
                                                                             <a href="mailto:anne@dellavallelab.com">
                                                                                 anne@dellavallelab.com
                                                                             </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-book"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            American Society of Agronomy: CA chapter Former Board Member
+                                                                            <br />C.U.R.E.S. Nitrogen Management Trainer
+                                                                            <br />Continuous soil moisture monitoring contact
+                                                                            <br />Soil Restoration/Erosion Control
                                                                         </td>
                                                                     </tr>
                                                                 </tbody>
@@ -516,8 +626,8 @@
                                                     <td colspan="4">
                                                         <strong>Lacey Mount</strong>
                                                         <li>
-                                                            <?php 
-                                                            echo yrsOfService(-2014, 0);
+                                                            <?php
+                                                            echo yrsOfService(-2014, 11);
                                                             ?>
                                                             Years Experience
                                                         </li>
@@ -528,7 +638,7 @@
                                                                         <th scope="row">
                                                                             <i class="fas fa-briefcase"></i>
                                                                         </th>
-                                                                        <td>Agronomist</td>
+                                                                        <td>Plant Scientist</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <th scope="row">
@@ -545,6 +655,15 @@
                                                                         </th>
                                                                         <td>
                                                                             Cerified Crop Advisor
+                                                                            <br />Certified to complete Nitrogen Management Plans
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Fresno, CA
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -558,7 +677,7 @@
                                                                             <i class="fas fa-globe-americas"></i>
                                                                         </th>
                                                                         <td>
-                                                                            Areas: Counties of Fresno, Madera &amp; Merced
+                                                                            Areas: Counties of Madera, Stanislaus &amp; Merced
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -569,6 +688,18 @@
                                                                             <a href="mailto:lmount@dellavallelab.com">
                                                                                 lmount@dellavallelab.com
                                                                             </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-book"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Almond Board of California Leadership Program, 2015
+                                                                            <br />Co-Author of the Western Fertilizer Handbook
+                                                                            <br />Lecturer: Fertilixer Research and Education Program
+                                                                            <br />&emsp;California Association of Perst Control Advisors
+                                                                            <br />&emsp;C.U.R.E.S. Grower Training
                                                                         </td>
                                                                     </tr>
                                                                 </tbody>
@@ -583,7 +714,7 @@
                                                     <td colspan="4">
                                                         <strong>Cynthia Tiemersma</strong>
                                                         <li>
-                                                            <?php 
+                                                            <?php
                                                             echo yrsOfService(-2015, 0);
                                                             ?>
                                                             Years Experience
@@ -595,13 +726,14 @@
                                                                         <th scope="row">
                                                                             <i class="fas fa-briefcase"></i>
                                                                         </th>
-                                                                        <td>Dairy Technician</td>
+                                                                        <td>Dairy Technician | Nutrient Management Consulting</td>
                                                                     </tr>
                                                                     <tr>
                                                                         <th scope="row">
                                                                             <i class="fas fa-graduation-cap"></i>
                                                                         </th>
                                                                         <td>
+                                                                            BA Agriculture - Dort College
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -609,6 +741,15 @@
                                                                             <i class="fas fa-certificate"></i>
                                                                         </th>
                                                                         <td>
+                                                                            CDI Leadership Training
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Hanford, CA
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -635,6 +776,15 @@
                                                                             </a>
                                                                         </td>
                                                                     </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-book"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Raised in the Dairy Industry
+                                                                            <br />Milk Processing Laboratory
+                                                                        </td>
+                                                                    </tr>
                                                                 </tbody>
                                                             </table>
                                                         </div>
@@ -647,7 +797,7 @@
                                                     <td colspan="4">
                                                         <strong>Samuel Daud</strong>
                                                         <li>
-                                                            <?php 
+                                                            <?php
                                                             echo yrsOfService(-2015, 0);
                                                             ?>
                                                             Years Experience
@@ -676,7 +826,18 @@
                                                                         <th scope="row">
                                                                             <i class="fas fa-certificate"></i>
                                                                         </th>
-                                                                        <td>Cerified Crop Advisor</td>
+                                                                        <td>
+                                                                            Cerified Crop Advisor
+                                                                            Nitrogen Management Certified
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Fresno, CA
+                                                                        </td>
                                                                     </tr>
                                                                     <tr>
                                                                         <th scope="row">
@@ -691,7 +852,7 @@
                                                                         <td>
                                                                             Areas: Counties of Fresno &amp; Madera
                                                                             <br />
-                                                                            &emsp;Cities of Los Ba&ograve;os &amp; Dos Palos
+                                                                            &emsp;Cities of Los Ba&ntilde;os &amp; Dos Palos
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -702,6 +863,14 @@
                                                                             <a href="mailto:s.daud@dellavallelab.com">
                                                                                 s.daud@dellavallelab.com
                                                                             </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-book"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Oversees the most client accounts of all consultants
                                                                         </td>
                                                                     </tr>
                                                                 </tbody>
@@ -729,7 +898,7 @@
                                                                             <i class="fas fa-briefcase"></i>
                                                                         </th>
                                                                         <td>
-                                                                            Agricultural Consultant
+                                                                            Agrionomist
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -747,7 +916,15 @@
                                                                             <i class="fas fa-certificate"></i>
                                                                         </th>
                                                                         <td>
-                                                                            Distribution Operator D1 | Treatment Operator T1
+                                                                            Certified Crop Advisor Candidate
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Davis, CA
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -774,6 +951,15 @@
                                                                             <a href="mailto:colmedo@dellavallelab.com">
                                                                                 colmedo@dellavallelab.com
                                                                             </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-book"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            California Cerified Water Distribution Operator D1
+                                                                            <br />Treatment Operator T1
                                                                         </td>
                                                                     </tr>
                                                                 </tbody>
@@ -815,6 +1001,15 @@
                                                                             <i class="fas fa-certificate"></i>
                                                                         </th>
                                                                         <td>
+                                                                            Canadian Certfied Crop Advisor
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Hanford, CA
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -830,7 +1025,7 @@
                                                                             <i class="fas fa-globe-americas"></i>
                                                                         </th>
                                                                         <td>
-                                                                            Areas: Hanford &amp; Visalia South
+                                                                            Areas: East Kings &amp; Tulare Counties
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -890,6 +1085,14 @@
                                                                     </tr>
                                                                     <tr>
                                                                         <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Hanford, CA
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
                                                                             <i class="fas fa-mobile"></i>
                                                                         </th>
                                                                         <td>Mobile: (661) 742-2478</td>
@@ -899,9 +1102,7 @@
                                                                             <i class="fas fa-globe-americas"></i>
                                                                         </th>
                                                                         <td>
-                                                                            Areas: Central Valley
-                                                                            <br />
-                                                                            &emsp;(Sacramento to Kern County)
+                                                                            Areas: Kern County
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -912,6 +1113,15 @@
                                                                             <a href="mailto:javoth@dellavallelab.com">
                                                                                 javoth@dellavallelab.com
                                                                             </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-book"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Oversees Technical Services for several large
+                                                                            &emsp;San Joaquin Valley Farms
                                                                         </td>
                                                                     </tr>
                                                                 </tbody>
@@ -1026,6 +1236,14 @@
                                                                     </tr>
                                                                     <tr>
                                                                         <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Hanford, CA
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
                                                                             <i class="fas fa-mobile"></i>
                                                                         </th>
                                                                         <td>Mobile: (559) 922-9299</td>
@@ -1035,7 +1253,7 @@
                                                                             <i class="fas fa-globe-americas"></i>
                                                                         </th>
                                                                         <td>
-                                                                            Areas: Counties of San Los Obispo &amp; Kings
+                                                                            Areas: Counties of San Luis Obispo &amp; Kings
                                                                             <br />
                                                                             &emsp;Areas of South Fresno &amp; North Tulare
                                                                         </td>
@@ -1050,19 +1268,30 @@
                                                                             </a>
                                                                         </td>
                                                                     </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-book"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Technical Manager for a 6,000 acre farm operation from 2013-2017
+                                                                            <br />Nutrient Management Specialty training
+                                                                            <br />Grew up working with Family at custom Harvisting Company
+                                                                            <br />Lecturer: Cuesta College, CSU Fresno, Cal Poly San Luis Obispo
+                                                                        </td>
+                                                                    </tr>
                                                                 </tbody>
                                                             </table>
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr>
+                                                <!--  <tr>
                                                     <td class="cons" scope="row">
                                                         <img alt="Mike LeBarre" title="Mike LeBarre" id="cons" class="img-fluid img-thumbnail" src="images/consultants/mikelebarre.jpg">
                                                     </td>
                                                     <td colspan="4">
                                                         <strong>Mike LeBarre</strong>
                                                         <li>
-                                                            <?php 
+                                                            <?php
                                                             echo yrsOfService(-2008, 0);
                                                             ?>
                                                             Years Experience
@@ -1119,7 +1348,7 @@
                                                             </table>
                                                         </div>
                                                     </td>
-                                                </tr>
+                                                </tr> -->
                                             </tbody>
                                         </table>
                                     </div>
@@ -1221,4 +1450,4 @@
         <?php include 'PageWrappers/footer.php'; ?>
 </body>
 
-</html> 
+</html>
