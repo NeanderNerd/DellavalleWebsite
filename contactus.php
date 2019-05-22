@@ -20,12 +20,12 @@ $x = 0;
 
     <!-- Head php attachment -->
     <?php include 'PageWrappers/Head.php'; ?>
-    <title>Contact Us - Dellavalle Laboratory Inc.</title>
+    <title>Contact Us - Dellavalle Laboratory, Inc.</title>
     <meta name="description" content="An environmental/agricultural laboratory and consulting firm located in the San Joaquin Valley with clientele worldwide." />
 </head>
 
 <body>
-    <!-- Header php atachment -->
+    <!-- Header php attachment -->
     <?php include 'PageWrappers/header.php'; ?>
 
     <!-- Content for main section start -->
@@ -58,7 +58,7 @@ $x = 0;
                         information in the areas below.
                     </p>
                     <h4 class="noBold">Contact Form</h4>
-                    <form class="needs-validation" novalidate action="https://www.SnapHost.com/captcha/send.aspx" method="post" id="myform" target="_top">
+                    <form onsubmit="return ValidateForm(this);" class="needs-validation" novalidate action="https://www.SnapHost.com/captcha/send.aspx" method="post" id="myform" target="_top">
                         <input type="hidden" id="skip_WhereToSend" name="skip_WhereToSend" value='c.garrick@dellavallelab.com'>
                         <input type="hidden" id="skip_Subject" name="skip_Subject" value="WebsiteFormEmail">
                         <input type="hidden" id="skip_WhereToReturn" name="skip_WhereToReturn" value="http://www.dellavallelab.com/thankyou.php">
@@ -79,13 +79,13 @@ $x = 0;
                         <div class="form-group row" id="phone">
                             <label for="inputPhone" class="col-sm-2 col-form-label">Phone Number</label>
                             <div class="col-sm-10">
-                                <input name="phone" type="text" class="form-control" id="inputPhone" placeholder="(123) 456 - 7890">
+                                <input name="phone" type="tel" pattern="[0-9]{3} [0-9]{3}-[0-9]{4}" class="form-control" id="inputPhone" placeholder="123 456-7890">
                             </div>
                         </div>
                         <div class="form-group row" id="email">
                             <label for="inputEmail" class="col-sm-2 col-form-label">*Email</label>
                             <div class="col-sm-10">
-                                <input name="email" type="text" class="form-control" id="inputEmail" placeholder="Example@Dellavallelab.com" required>
+                                <input name="email" type="email" class="form-control" id="inputEmail" placeholder="Example@Dellavallelab.com" required>
                                 <div class="invalid-tooltip">
                                     Please provide your email address so we know how to contact you
                                 </div>
@@ -163,6 +163,15 @@ $x = 0;
                                             });
                                         }, false);
                                     })();
+
+                                    function ValidateForm(frm) {
+                                        if (frm.skip_CaptchaCode.value == "") {
+                                            alert('Enter valid Captcha Please');
+                                            frm.skip_CaptchaCode.focus();
+                                            return false;
+                                        }
+                                        return true;
+                                    }
                                 </script>
                             </div>
                             <div class="col-sm-6">

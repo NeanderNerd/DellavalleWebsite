@@ -85,9 +85,9 @@
                                         <table class="table table-hover">
                                             <tbody>
                                                 <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Nat B. Dellavalle" title="Nat B. Dellavalle" class="img-fluid img-thumbnail" src="images/consultants/nat.jpg">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Nat B. Dellavalle</strong>
                                                         <li>
@@ -172,9 +172,9 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Keith M. Backman" title="Keith M. Backman" id="cons" class="img-fluid img-thumbnail" src="images/consultants/keith.jpg">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Keith M. Backman</strong>
                                                         <li>
@@ -212,6 +212,7 @@
                                                                             <br />Certified Professional Horticulturist
                                                                             <br />Nutrient Management Certified
                                                                             <br />Certified California Water Distribution Operator D1
+                                                                            <br />Manuer Management Specialty under CCA
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
@@ -256,6 +257,10 @@
                                                                             CCA State Board Memeber &amp; International Exam Committee member
                                                                             <br />Raised on an Orchard in Northern California
                                                                             <br />Co-Author of the Western Fertilizer Handbook
+                                                                            <br />Lecturer: CSU Fresno, CalPoly SLO, Cuesta College,
+                                                                            <br />&emsp;West Hills College, Western Nutrient Conference,
+                                                                            <br />&emsp;C.U.R.E.S. Nutrient Management Training,
+                                                                            <br />&emsp;California Association of Pest Control Advisors
                                                                         </td>
                                                                     </tr>
                                                                 </tbody>
@@ -264,9 +269,9 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Ben Nydam" title="Ben Nydam" class="img-fluid img-thumbnail" id="cons" src="images/consultants/ben.jpg">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Ben Nydam</strong>
                                                         <li>
@@ -352,9 +357,9 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Danyal Kasapligil" title="Danyal Kasapligil" id="cons" class="img-fluid img-thumbnail" src="images/consultants/danyal.jpg">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Danyal Kasapligil</strong>
                                                         <li>
@@ -444,9 +449,9 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Bill Blanken " title="Bill Blanken" class="img-fluid img-thumbnail" id="cons" src="images/consultants/bill.jpg">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Bill Blanken</strong>
                                                         <li>
@@ -530,9 +535,9 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Anne Burkholder" title="Anne Burkholder" id="cons" class="img-fluid img-thumbnail" src="images/consultants/anne-sm.jpg">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Anne Burkholder</strong>
                                                         <li>
@@ -620,9 +625,9 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Lacey Mount" title="Lacey Mount" class="img-fluid img-thumbnail" id="cons" src="images/consultants/Lacey_Mount.jpg">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Lacey Mount</strong>
                                                         <li>
@@ -708,9 +713,9 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Cynthia Tiemersma" title="Cynthia Tiemersma" id="cons" class="img-fluid img-thumbnail" src="images/consultants/cynthia.jpg">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Cynthia Tiemersma</strong>
                                                         <li>
@@ -791,9 +796,9 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Sam Daud" title="Sam Daud" class="img-fluid img-thumbnail" id="cons" src="images/consultants/sam-daud.jpg">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Samuel Daud</strong>
                                                         <li>
@@ -879,9 +884,9 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Carlos Olmedo" title="Carlos Olmedo" class="img-fluid img-thumbnail" id="cons" src="images/consultants/CarlosOlmedo.jpg">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Carlos Olmedo</strong>
                                                         <li>
@@ -968,9 +973,9 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Andrew Koetsier" title="Andrew Koetsier" class="img-fluid img-thumbnail" id="cons" src="images/consultants/AndrewKoetsier.png">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Andrew Koetsier</strong>
                                                         <li>
@@ -1044,9 +1049,9 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Joe Voth" title="Joe Voth" class="img-fluid img-thumbnail" id="cons" src="images/consultants/joeVoth.jpg">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Joe Voth</strong>
                                                         <li>
@@ -1121,7 +1126,7 @@
                                                                         </th>
                                                                         <td>
                                                                             Oversees Technical Services for several large
-                                                                            &emsp;San Joaquin Valley Farms
+                                                                            <br />&emsp;San Joaquin Valley Farms
                                                                         </td>
                                                                     </tr>
                                                                 </tbody>
@@ -1129,10 +1134,10 @@
                                                         </div>
                                                     </td>
                                                 </tr>
-                                                <tr>
-                                                    <td class="cons" scope="row">
+                                                <!--  <tr>
+                                                    <th class="cons" scope="row">
                                                         <img alt="Lisa Rubin" title="Lisa Rubin" class="img-fluid img-thumbnail" id="cons" src="images/consultants/LisaRubin.jpg">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Lisa Rubin</strong>
                                                         <li>
@@ -1196,11 +1201,11 @@
                                                             </table>
                                                         </div>
                                                     </td>
-                                                </tr>
+                                                </tr>  -->
                                                 <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Chad Reenders" title="Chad Reenders" class="img-fluid img-thumbnail" id="cons" src="images/Consultants/ChadReenders.png">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Chad Reenders</strong>
                                                         <li>
@@ -1285,9 +1290,9 @@
                                                     </td>
                                                 </tr>
                                                 <!--  <tr>
-                                                    <td class="cons" scope="row">
+                                                    <th class="cons" scope="row">
                                                         <img alt="Mike LeBarre" title="Mike LeBarre" id="cons" class="img-fluid img-thumbnail" src="images/consultants/mikelebarre.jpg">
-                                                    </td>
+                                                    </th>
                                                     <td colspan="4">
                                                         <strong>Mike LeBarre</strong>
                                                         <li>
@@ -1365,45 +1370,148 @@
                             </div>
                             <div id="clientServicesBody" class="collapse" aria-labelledby="clientServicesHeading" data-parent="#aboutUsAccordion">
                                 <div class="card-body">
-                                    <p>
-                                        &emsp;Our client service specialist, a Certified Sampler, is experienced and
-                                        knowledgeable in many areas. With over 25 years of experience locating
-                                        laboratories, coordinating sample collection and answering inquiries;
-                                        you can depend on her. Bids and quotations are available upon request.
-                                    </p>
-                                    <h5>
-                                        Peggy Miller - Client Service Specialist
-                                    </h5>
-                                    <ul>
-                                        <li>
-                                            Soil and plant tissue inquiries
-                                        </li>
-                                        <li>
-                                            Agricultural inquiries (water, manure, etc.)
-                                        </li>
-                                        <li>
-                                            Irrigation water inquiries
-                                        </li>
-                                        <li>
-                                            Pesticide residue
-                                        </li>
-                                        <li>
-                                            Domestic water questions
-                                        </li>
-                                        <li>
-                                            Assistance with sample collection
-                                        </li>
-                                        <li>
-                                            Analytical inquiries
-                                        </li>
-                                        <li>
-                                            Resource research
-                                        </li>
-                                    </ul>
-                                    <p>
-                                        We invite your inquiries. Call 1-800-228-9896 or
-                                        <a href="mailto:pmiller@dellavallelab.com" title="EMAIL PEGGY">pmiller@dellavallelab.com</a>
-                                    </p>
+                                    <div class="table-responsive">
+                                        <table class="table table-hover">
+                                            <tbody>
+                                                <tr>
+                                                    <th class="noBold" scope="row" colspan="5">
+                                                        <p>
+                                                            &emsp;Our client service specialist, a Certified Sampler, is experienced and
+                                                            knowledgeable in many areas. With over 25 years of experience locating
+                                                            laboratories, coordinating sample collection and answering inquiries;
+                                                            you can depend on her. Bids and quotations are available upon request.
+                                                        </p>
+                                                        <h5>
+                                                            Peggy Miller
+                                                            <br />&emsp;~ Client Service Specialist
+                                                        </h5>
+                                                        <ul>
+                                                            <li>Soil and plant tissue inquiries</li>
+                                                            <li>Agricultural inquiries (water, manure, etc.)</li>
+                                                            <li>Irrigation water inquiries</li>
+                                                            <li>Pesticide residue</li>
+                                                            <li>Domestic water questions</li>
+                                                            <li>Assistance with sample collection</li>
+                                                            <li>Analytical inquiries</li>
+                                                            <li>Resource research</li>
+                                                        </ul>
+                                                        <p>
+                                                            We invite your inquiries. Call 1-800-228-9896 or
+                                                            <a href="mailto:pmiller@dellavallelab.com" title="EMAIL PEGGY">pmiller@dellavallelab.com</a>
+                                                        </p>
+                                                    </th>
+                                                </tr>
+                                                <tr>
+                                                    <th class="noBold" scope="row" colspan="5">
+                                                        <h5>
+                                                            Pamala Cox Proctor
+                                                            <br />&emsp;~ Consultant Assistant | Water Specialist | Food Safety Specialist
+                                                        </h5>
+                                                        <li>
+                                                            <?php echo yrsOfService(-1996, 0); ?>
+                                                             Years Experience
+                                                        </li>
+                                                        <ul>
+                                                            <li>Areas: Counties of Kings, Kern, Tulare &amp; San luis Obispo</li>
+                                                            <li>Office Location: Hanford, CA</li>
+                                                            <li>Mobile: (559) 647-8895</li>
+                                                            <li>Email: <a href="mailto:pam@dellavallelab.com">pam@dellavallelab.com</a></li>
+                                                            <li>Radiation Safety Officer for Neutron Probe Program</li>
+                                                            <li>Hazard Analysis and Critical Control Points (HACCP) certified Food Safety Specialist</li>
+                                                            <li>California Water Distribution Operator D1</li>
+                                                            <li>Treatment Operator T1</li>
+                                                        </ul>
+                                                    </th>
+                                                </tr>
+                                                <tr>
+                                                    <th class="cons" scope="row">
+                                                        <img alt="Lisa Rubin" title="Lisa Rubin" class="img-fluid img-thumbnail" id="cons" src="images/consultants/LisaRubin.jpg">
+                                                    </th>
+                                                    <td colspan="4">
+                                                        <strong>Lisa Rubin</strong>
+                                                        <li>
+                                                            <?php
+                                                            echo yrsOfService(-2015, 2);
+                                                            ?>
+                                                            Years Experience
+                                                        </li>
+                                                        <div class="table-responsive">
+                                                            <table class="table table-sm">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-briefcase"></i>
+                                                                        </th>
+                                                                        <td>Technical Consultant</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-graduation-cap"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            BS Plant Science: Plant Health Option - California State University, Fresno
+                                                                            <br />
+                                                                            AA Natural Science - Reedley College
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-certificate"></i>
+                                                                        </th>
+                                                                        <td>Cerified Crop Advisor</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="far fa-building"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Location: Fresno, CA
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-mobile"></i>
+                                                                        </th>
+                                                                        <td>Mobile: (408) 667-7661</td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-globe-americas"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Areas: Central Valley
+                                                                            <br />
+                                                                            &emsp;(Sacramento to Kern County)
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-at"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            <a href="mailto:l.rubin@dellavallelab.com">
+                                                                                l.rubin@dellavallelab.com
+                                                                            </a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <th scope="row">
+                                                                            <i class="fas fa-book"></i>
+                                                                        </th>
+                                                                        <td>
+                                                                            Environmental Permit Writter - Regional Water Quality Control Board
+                                                                            <br />Technical Reporting: Sediment Errosion Plans
+                                                                            <br />&emsp;Regulatory Compliance Reports
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
                                 </div>
                             </div>
                         </div>

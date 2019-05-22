@@ -79,13 +79,6 @@ a {
     outline: none;
 }
 
-a:hover {
-    color: #7eb403;
-    text-decoration: underline;
-    font-weight: bold;
-    outline: none;
-}
-
 h1 {
     font: 65px 'Mr Dafoe', cursive;
     color: #334801;
@@ -254,23 +247,6 @@ tr>td.cons {
     min-width: 124px;
 }
 
-/* ======== FIELDSET & LEGEND ======== */
-
-fieldset {
-    border: 1px dashed #334801;
-    padding: 5px;
-    margin: 10px 0;
-}
-
-legend {
-    color: #334801;
-    background-color: #ffffff;
-    font: bold 16px Arial, Helvetica, sans-serif;
-    letter-spacing: 2px;
-    padding: 2px 5px;
-    margin: 0 0 0 15px;
-}
-
 /* ======== Additional styling for links ======== */
 
 #accordionLinks {
@@ -296,10 +272,6 @@ td strong {
 h4 strong {
     color: #334801;
     font: 18px 'Homemade Apple', cursive;
-}
-
-a {
-    color: #334801;
 }
 
 a:hover {
