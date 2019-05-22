@@ -1385,6 +1385,10 @@
                                                             Peggy Miller
                                                             <br />&emsp;~ Client Service Specialist
                                                         </h5>
+                                                        <li>
+                                                            <?php echo yrs(-1981, 0); ?>
+                                                            Years Experience
+                                                        </li>
                                                         <ul>
                                                             <li>Soil and plant tissue inquiries</li>
                                                             <li>Agricultural inquiries (water, manure, etc.)</li>

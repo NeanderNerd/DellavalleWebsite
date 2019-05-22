@@ -52,18 +52,22 @@ $x = 0;
                         <br />502 Mace Boulevard, #2-B
                         <br />Davis CA 95618
                     </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
                     <hr>
                     <p>
                         We want to be responsive to your questions or issues. Please help us by filling out the necessary
                         information in the areas below.
                     </p>
                     <h4 class="noBold">Contact Form</h4>
-                    <form onsubmit="return ValidateForm(this);" class="needs-validation" novalidate action="https://www.SnapHost.com/captcha/send.aspx" method="post" id="myform" target="_top">
-                        <input type="hidden" id="skip_WhereToSend" name="skip_WhereToSend" value='c.garrick@dellavallelab.com'>
-                        <input type="hidden" id="skip_Subject" name="skip_Subject" value="WebsiteFormEmail">
-                        <input type="hidden" id="skip_WhereToReturn" name="skip_WhereToReturn" value="http://www.dellavallelab.com/thankyou.php">
-                        <input type="hidden" id="skip_SnapHostID" name="skip_SnapHostID" value="JTCETPXSHYN3">
-                        <input name="skip_ShowUsersIp" type="hidden" value="1">
+                    <form onsubmit="return ValidateForm(this);" class="needs-validation" action="https://www.SnapHost.com/captcha/send.aspx" method="post" id="myform" target="_top">
+                        <input type="hidden" id="skip_WhereToSend" name="skip_WhereToSend" value='c.garrick@dellavallelab.com' />
+                        <input type="hidden" id="skip_Subject" name="skip_Subject" value="WebsiteFormEmail" />
+                        <input type="hidden" id="skip_WhereToReturn" name="skip_WhereToReturn" value="http://www.dellavallelab.com/thankyou.php" />
+                        <input type="hidden" id="skip_SnapHostID" name="skip_SnapHostID" value="JTCETPXSHYN3" />
+                        <input name="skip_ShowUsersIp" type="hidden" value="1" />
                         <div class="form-group row" id="name">
                             <label for="inputName" class="col-sm-2 col-form-label">*Name</label>
                             <div class="col-sm-10">
@@ -100,82 +104,75 @@ $x = 0;
                                 <textarea name="comments/questions" class="form-control" id="inputText" placeholder="How do I sample soil for a strawberry patch?"></textarea>
                             </div>
                         </div>
-                        <div class="form-group row center">
-                            <div class="col-sm-6">
-                                <table class="table table-dark">
-                                    <tr>
-                                        <th scope="row" colspan="2" style="padding-bottom:1px;">
-                                            <a href="http://www.snaphost.com/captcha" alt="feedback form email" title="feedback form email">
-                                                feedback form email
-                                            </a>
-                                        </th>
-                                    </tr>
-                                    <tr valign="bottom">
-                                        <th scope="row">
-                                            <a href="#" onclick="return ReloadCaptchaImage('CaptchaImage');">
-                                                <span style="font-size:12px;">
-                                                    reload image
-                                                </span>
-                                            </a><br />
-                                            <a href="http://www.snaphost.com/captcha/ProCaptchaOverview.aspx">
-                                                <img id="CaptchaImage" alt="online forms html" style="border-width:0px;" title="online forms html" src="https://www.SnapHost.com/captcha/CaptchaImage.aspx?id=JTCETPXSHYN3" />
-                                            </a>
-                                        </th>
-                                        <td><br />
-                                            <i>Enter Captcha code</i><br />
-                                            <input id="skip_CaptchaCode" name="skip_CaptchaCode" type="text" style="width:130px; height:48px; font-size:38px;" maxlength="6" /><br />
-                                        </td>
-                                    </tr>
-                                </table>
-                                <script type="text/javascript">
-                                    function ReloadCaptchaImage(captchaImageId) {
-                                        var obj = document.getElementById(captchaImageId);
-                                        var src = '' + obj.src;
-                                        obj.src = '';
-                                        var date = new Date();
-                                        var pos = src.indexOf('&rad=');
-                                        if (pos >= 0) {
-                                            src = src.substr(0, pos);
-                                        };
-                                        obj.src = src + '&rad=' + date.getTime();
-                                        return false;
-                                    };
-
-                                    (function() {
-                                        'use strict';
-                                        window.addEventListener('load', function() {
-                                            var forms = document.getElementsByClassName('needs-validation');
-                                            var texts = document.getElementsByClassName('form-group row');
-                                            var validation = Array.prototype.filter.call(forms, function(form) {
-                                                form.addEventListener('submit', function(event) {
-                                                    if (form.checkValidity() === false) {
-                                                        event.preventDefault();
-                                                        event.stopPropagation();
-                                                    }
-                                                    form.classList.add('was-validated');
-                                                    Array.prototype.filter.call(texts, function(text) {
-                                                        var x = text.getAttribute('id');
-                                                        if (x == 'name' || x == 'email') {
-                                                            text.classList.add('pb-4');
-                                                        };
-                                                    });
-                                                }, false);
-                                            });
-                                        }, false);
-                                    })();
-
-                                    function ValidateForm(frm) {
-                                        if (frm.skip_CaptchaCode.value == "") {
-                                            alert('Enter valid Captcha Please');
-                                            frm.skip_CaptchaCode.focus();
-                                            return false;
-                                        }
-                                        return true;
-                                    }
-                                </script>
+                        <div class="form-group row">
+                            <div class="col-md-6">
+                                <div class="card text-center">
+                                    <div class="card-header bg-transparent">
+                                        <a href="http://www.snaphost.com/captcha" alt="feedback form email" title="feedback form email">
+                                            feedback form email
+                                        </a>
+                                    </div>
+                                    <div class="card-body">
+                                        <a href="#" onclick="return ReloadCaptchaImage('CaptchaImage');">
+                                            <span style="font-size:12px;">
+                                                reload image
+                                            </span>
+                                        </a><br />
+                                        <a href="http://www.snaphost.com/captcha/ProCaptchaOverview.aspx">
+                                            <img id="CaptchaImage" alt="online forms html" style="border-width:0px;" title="online forms html" src="https://www.SnapHost.com/captcha/CaptchaImage.aspx?id=JTCETPXSHYN3" />
+                                        </a>
+                                        <br />
+                                        <i>Enter Captcha code</i><br />
+                                        <input id="skip_CaptchaCode" name="skip_CaptchaCode" type="text" style="width:130px; height:48px; font-size:38px;" maxlength="6" /><br />
+                                    </div>
+                                </div>
                             </div>
-                            <div class="col-sm-6">
-                                <button type="submit" class="btn btn-success">Send</button>
+                            <script type="text/javascript">
+                                function ReloadCaptchaImage(captchaImageId) {
+                                    var obj = document.getElementById(captchaImageId);
+                                    var src = '' + obj.src;
+                                    obj.src = '';
+                                    var date = new Date();
+                                    var pos = src.indexOf('&rad=');
+                                    if (pos >= 0) {
+                                        src = src.substr(0, pos);
+                                    };
+                                    obj.src = src + '&rad=' + date.getTime();
+                                    return false;
+                                };
+                                (function() {
+                                    'use strict';
+                                    window.addEventListener('load', function() {
+                                        var forms = document.getElementsByClassName('needs-validation');
+                                        var texts = document.getElementsByClassName('form-group row');
+                                        var validation = Array.prototype.filter.call(forms, function(form) {
+                                            form.addEventListener('submit', function(event) {
+                                                if (form.checkValidity() === false) {
+                                                    event.preventDefault();
+                                                    event.stopPropagation();
+                                                }
+                                                form.classList.add('was-validated');
+                                                Array.prototype.filter.call(texts, function(text) {
+                                                    var x = text.getAttribute('id');
+                                                    if (x == 'name' || x == 'email') {
+                                                        text.classList.add('pb-4');
+                                                    };
+                                                });
+                                            }, false);
+                                        });
+                                    }, false);
+                                })();
+                                function ValidateForm(frm) {
+                                    if (frm.skip_CaptchaCode.value == "") {
+                                        alert('Enter valid Captcha Please');
+                                        frm.skip_CaptchaCode.focus();
+                                        return false;
+                                    }
+                                    return true;
+                                }
+                            </script>
+                            <div class="col-md-6">
+                                <button type="submit" class="btn btn-success btn-lg btn-block">Send</button>
                             </div>
                         </div>
                     </form>
@@ -188,4 +185,4 @@ $x = 0;
         <?php include 'PageWrappers/footer.php'; ?>
 </body>
 
-</html> 
+</html>
