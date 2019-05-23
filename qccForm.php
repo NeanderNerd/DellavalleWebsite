@@ -29,7 +29,7 @@
     <!-- Content for main section start -->
     <section>
         <div class="container-fluid">
-            <h1>Questions, Comments, Concerns</h1>
+            <h1>Feedback</h1>
             <div class="row">
                 <div class="col-12">
                     <h3>Let us know!</h3>
@@ -49,19 +49,19 @@
                         <input type="hidden" id="skip_ShowUsersIp" name="skip_ShowUsersIp" value="1" />
                         <script type="text/javascript">
                             function ValidateForm(frm) {
-                                if (frm.contact.value == "yes" || frm.contact.value == "no") {
+                                if (frm.Contact.value == "yes" || frm.Contact.value == "no") {
                                     if (frm.Name.value == "") {
                                         alert('If you wish to recieve a response, Please provide your name.');
                                         frm.Name.focus();
                                         return false;
                                     }
-                                    if (frm.contact.value == "yes") {
+                                    if (frm.Contact.value == "yes") {
                                         if (frm.Email.value == "") {
                                             alert('If contact is requested, an email address is required.');
-                                            frm.Email.forcs();
+                                            frm.Email.focus();
                                             return false;
                                         }
-                                        if (frm.Email.value.indexof("@") < 1 || frm.Email.value.indexof(".") < 1) {
+                                        if (frm.Email.value.indexOf("@") < 1 || frm.Email.value.indexOf(".") < 1) {
                                             alert('Please eneter a valid email address.');
                                             frm.Email.focus();
                                             return false;
@@ -98,7 +98,8 @@
                             <div class="card-body text-success">
                                 <!-- Contact -->
                                 <div class="form-group row">
-                                    <select class="form-control col-sm-12" id="contact" name="contact">
+                                    <label for="Contact" class="col-md-2 col-form-label">Contact</label>
+                                    <select class="form-control col-md-10" id="Contact" name="Contact">
                                         <option value="yes" selected>Please contact me to follow up</option>
                                         <option value="no">I wish to not be contacted</option>
                                         <option value="anon">I would like to remain anonymous and wish to not be contacted</option>
@@ -106,7 +107,8 @@
                                 </div>
                                 <!-- QCCC -->
                                 <div class="form-group row">
-                                    <select class="form-control col-sm-12" id="QCCC" name="QCCC">
+                                    <label for="QCCC" class="col-md-2 col-form-label">Type</label>
+                                    <select class="form-control col-md-10" id="QCCC" name="QCCC">
                                         <option value="Question" selected>Question</option>
                                         <option value="Comment">Comment</option>
                                         <option value="Concern">Concern</option>
@@ -115,32 +117,32 @@
                                 </div>
                                 <!-- Name -->
                                 <div class="form-group row">
-                                    <label for="Name" class="col-sm-2 col-form-label">Name</label>
-                                    <input name="Name" type="text" class="col-sm-10 form-control" id="Name" placeholder="Ok to leave blank if Anonymous." />
+                                    <label for="Name" class="col-md-2 col-form-label">Name</label>
+                                    <input name="Name" type="text" class="col-md-10 form-control" id="Name" placeholder="Ok to leave blank if Anonymous." />
                                 </div>
                                 <!-- Title & Company -->
                                 <div class="form-group row">
-                                    <label for="Company" class="col-sm-2 col-form-label">Title &amp; Company</label>
-                                    <input name="Company" type="text" class="col-sm-10 form-control" id="Company" />
+                                    <label for="Company" class="col-md-2 col-form-label">Title &amp; Company</label>
+                                    <input name="Company" type="text" class="col-md-10 form-control" id="Company" />
                                 </div>
                                 <!-- Client Number -->
                                 <div class="form-group row">
-                                    <label for="ClientNum" class="col-sm-2 col-form-label">Client Number</label>
-                                    <input name="ClientNum" type="number" class="col-sm-10 form-control" id=ClientNum min="0" placeholder="If unknown or for anonymous leave blank or enter 0." />
+                                    <label for="ClientNum" class="col-md-2 col-form-label">Client Number</label>
+                                    <input name="ClientNum" type="number" class="col-md-10 form-control" id=ClientNum min="0" placeholder="If unknown or for anonymous leave blank or enter 0." />
                                 </div>
                                 <!-- Email -->
                                 <div class="form-group row">
-                                    <label for="Email" class="col-sm-2 col-form-label">Email</label>
-                                    <input name="Email" type="email" class="col-sm-10 form-control" id="Email" />
+                                    <label for="Email" class="col-md-2 col-form-label">Email</label>
+                                    <input name="Email" type="email" class="col-md-10 form-control" id="Email" />
                                 </div>
                                 <!-- Phone -->
                                 <div class="form-group row">
-                                    <label for="Phone" class="col-sm-2 col-form-label">Phone</label>
-                                    <input name="Phone" type="tel" class="col-sm-10 form-control" id="Phone" pattern="[0-9]{3} [0-9]{3}-[0-9]{4}" placeholder="132 465-7980" />
+                                    <label for="Phone" class="col-md-2 col-form-label">Phone</label>
+                                    <input name="Phone" type="tel" class="col-md-10 form-control" id="Phone" pattern="[0-9]{3} [0-9]{3}-[0-9]{4}" placeholder="132 465-7980" />
                                 </div>
                                 <!-- qcc -->
                                 <div class="form-group row">
-                                    <textarea class="form-control col-sm-12" id="qcc" name="qcc" rows="5" cols="70"></textarea>
+                                    <textarea class="form-control col-md-12" id="qcc" name="qcc" rows="5" cols="70"></textarea>
                                 </div>
                             </div>
                             <div class="card-footer bg-transparent border-success">
@@ -165,10 +167,11 @@
                                                 <br />
                                                 <i>Enter Captcha code</i>
                                                 <br />
-                                                <input id="skip_CaptchaCode" name="skip_CaptchaCode" type="text" class="form-control" maxlength="6" />
-                                                <br />
                                             </div>
                                         </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input name="skip_submit" type="submit" class="btn btn-success btn-lg btn-block" value="Submit" />
                                     </div>
                                 </div>
                             </div>
@@ -177,3 +180,10 @@
                 </div>
             </div>
         </div>
+        <!-- Content for main section end -->
+
+        <!-- Footer php attachment -->
+        <?php include 'PageWrappers/footer.php'; ?>
+</body>
+
+</html>

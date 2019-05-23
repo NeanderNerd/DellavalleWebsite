@@ -1,7 +1,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.00">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-    <meta name="designer" content="templatesintime.com" />
+    <meta name="designer" content="Christopher L. Garrick" />
     <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
     <meta http-equiv="cache-control" content="no-cache" />
     <meta http-equiv="pragma" content="no-cache" />

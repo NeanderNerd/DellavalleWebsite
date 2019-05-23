@@ -18,7 +18,7 @@
 
     <!-- Head php attchment -->
     <?php include 'PageWrappers/Head.php'; ?>
-    <title>How We Help | Dellavalle Lab.</title>
+    <title>How We Help | Dellavalle Laboratory, Inc.</title>
     <meta name="description" content="An environmental/agricultural laboratory and consulting firm located in the San Joaquin Valley with clientele worldwide." />
 </head>
 
