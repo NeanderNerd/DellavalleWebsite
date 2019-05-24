@@ -30,7 +30,7 @@
     <!-- Content for main section start -->
     <section>
         <div class="container-fluid">
-            <h1>Employment</h1>
+            <h1 class="text-md-left text-center">Employment</h1>
             <div class="row">
                 <div class="col-12">
                     <h3>Seasonal Part-Time</h3>
@@ -55,4 +55,4 @@
         <?php include 'PageWrappers/footer.php'; ?>
 </body>
 
-</html> 
+</html>

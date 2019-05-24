@@ -29,7 +29,7 @@
     <!-- Content for main section -->
     <section>
         <div class="container-fluid">
-            <h1>Accreditation</h1>
+            <h1 class="text-md-left text-center">Accreditation</h1>
             <div class="row">
                 <div class="col-12">
                     <p>
@@ -108,4 +108,4 @@
         <?php include 'PageWrappers/footer.php'; ?>
 </body>
 
-</html> 
+</html>

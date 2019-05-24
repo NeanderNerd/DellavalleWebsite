@@ -29,7 +29,7 @@
     <!-- Content for main section start -->
     <section>
         <div class="container-fluid">
-            <h1>How We Help</h1>
+            <h1 class="text-md-left text-center">How We Help</h1>
             <div class="row">
                 <div class="col-12">
                     <p>
@@ -148,4 +148,4 @@
         <?php include 'PageWrappers/footer.php'; ?>
 </body>
 
-</html> 
+</html>

@@ -29,7 +29,7 @@
     <!-- Content for main section -->
     <section>
         <div class="container-fluid">
-            <h1>Analytical Catalog</h1>
+            <h1 class="text-md-left text-center">Analytical Catalog</h1>
             <div class="row">
                 <div class="col-12">
                     <ul>
@@ -169,4 +169,4 @@
         <?php include 'PageWrappers/footer.php'; ?>
 </body>
 
-</html> 
+</html>

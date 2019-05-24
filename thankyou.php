@@ -29,7 +29,7 @@
     <!-- Content for main Section start -->
     <section>
         <div class="container-fluid">
-            <h1>Thank You</h1>
+            <h1 class="text-md-left text-center">Thank You</h1>
             <div class="row">
                 <div class="col-12">
                     <p>Dellavalle Laboratory Inc. appreciates our customers. We should receive your email shortly and will respond to you as soon as possible.</p>
@@ -37,10 +37,10 @@
                 </div>
             </div>
         </div>
-		<!-- Content for main section end -->
+        <!-- Content for main section end -->
 
-		<!-- Footer php attachemnt -->
-		<?php include 'PageWrappers/footer.php'; ?>
+        <!-- Footer php attachemnt -->
+        <?php include 'PageWrappers/footer.php'; ?>
 </body>
 
-</html> 
+</html>

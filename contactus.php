@@ -31,8 +31,8 @@ $x = 0;
     <!-- Content for main section start -->
     <section>
         <div class="container-fluid">
-            <h1>Contact Us</h1>
-            <div class="row">
+            <h1 class="text-md-left text-center">Contact Us</h1>
+            <div class="row text-md-left text-center">
                 <div class="col-12">
                     <h3>Laboratory</h3>
                     <p>
@@ -61,7 +61,7 @@ $x = 0;
                         We want to be responsive to your questions or issues. Please help us by filling out the necessary
                         information in the areas below.
                     </p>
-                    <h4 class="noBold">Contact Form</h4>
+                    <h4 class="noBold text-md-left text-center">Contact Form</h4>
                     <form onsubmit="return ValidateForm(this);" class="needs-validation" action="https://www.SnapHost.com/captcha/send.aspx" method="post" id="myform" target="_top">
                         <input type="hidden" id="skip_WhereToSend" name="skip_WhereToSend" value='c.garrick@dellavallelab.com' />
                         <input type="hidden" id="skip_Subject" name="skip_Subject" value="WebsiteFormEmail" />
@@ -162,6 +162,7 @@ $x = 0;
                                         });
                                     }, false);
                                 })();
+
                                 function ValidateForm(frm) {
                                     if (frm.skip_CaptchaCode.value == "") {
                                         alert('Enter valid Captcha Please');

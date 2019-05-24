@@ -29,7 +29,7 @@
     <!-- Content for main section start -->
     <section>
         <div class="container-fluid">
-            <h1>About Us</h1>
+            <h1 class="text-md-left text-center">About Us</h1>
             <div class="row">
                 <div class="col-12">
                     <p>
@@ -1383,10 +1383,10 @@
                                                         </p>
                                                         <h5>
                                                             Peggy Miller
-                                                            <br />&emsp;~ Client Service Specialist
+                                                            <br />&emsp;~Client Service Specialist
                                                         </h5>
                                                         <li>
-                                                            <?php echo yrs(-1981, 0); ?>
+                                                            <?php echo yrsOfService(-1981, 0); ?>
                                                             Years Experience
                                                         </li>
                                                         <ul>
@@ -1409,13 +1409,15 @@
                                                     <th class="noBold" scope="row" colspan="5">
                                                         <h5>
                                                             Pamala Cox Proctor
-                                                            <br />&emsp;~ Consultant Assistant | Water Specialist | Food Safety Specialist
+                                                            <br />&emsp;~Consultant Assistant
                                                         </h5>
                                                         <li>
                                                             <?php echo yrsOfService(-1996, 0); ?>
                                                              Years Experience
                                                         </li>
                                                         <ul>
+                                                            <li>Water Specialist</li>
+                                                            <li>Food Safety Specialist</li>
                                                             <li>Areas: Counties of Kings, Kern, Tulare &amp; San luis Obispo</li>
                                                             <li>Office Location: Hanford, CA</li>
                                                             <li>Mobile: (559) 647-8895</li>

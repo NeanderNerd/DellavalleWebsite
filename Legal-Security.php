@@ -29,7 +29,7 @@
         <!-- Content for main section start -->
         <section>
             <div class="container-fluid">
-                <h1>Legal &amp; Security Statements</h1>
+                <h1 class="text-md-left text-center">Legal &amp; Security Statements</h1>
                 <div class="row">
                     <div class="col-12">
                         <h3>Email Privacy</h3>

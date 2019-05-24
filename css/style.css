@@ -368,4 +368,15 @@ a[href$=".pdf"]::after {
     a.list-group-item.active>.small.nospin {
         display: block;
     }
+
+    div.center-pills#servicesTabs {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    th.cons {
+        display: none;
+    }
 }

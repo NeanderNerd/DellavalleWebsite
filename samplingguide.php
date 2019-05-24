@@ -29,7 +29,7 @@
     <!-- Content for main section start -->
     <section>
         <div class="container-fluid">
-            <h1>Sampling Techniques</h1>
+            <h1 class="text-md-left text-center">Sampling Techniques</h1>
             <div class=row>
                 <div class="col-12">
                     <p>
