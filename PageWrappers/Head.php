@@ -2,6 +2,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.00">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
     <meta name="designer" content="Christopher L. Garrick" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
     <meta http-equiv="cache-control" content="no-cache" />
     <meta http-equiv="pragma" content="no-cache" />
 
@@ -26,17 +27,6 @@
     <link rel="stylesheet" type="text/css" href="css/ie.css" />
     <![endif]-->
     <link rel="stylesheet" type="text/css" href="css/style.css" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
-    <link rel="manifest" href="/images/site.webmanifest">
-    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#00a300">
-    <link rel="shortcut icon" href="/images/favicon.ico">
-    <meta name="msapplication-TileColor" content="#00a300">
-    <meta name="msapplication-config" content="/images/browserconfig.xml">
-    <meta name="theme-color" content="#ffffff">
-    <meta name="keywords" content="Laboratory, Analytical, Water Analysis, Leaf Analysis, Soil Analysis, Petiole Analysis, ELAP Certified, Nutrient Deficiency, Fertilizer, Recommendations, Nitrogen, Management, Coliform, Ag Lab,
-        Consulting Service, Tomato, CCA, Professional Agronomist, Dairy, Science, Irrigation Management, Distribution Operator, Regional Water Quality Control Board, Potability, Orchard">
     <?php
     $y = date("o");
     function yrsOfService(int $yr, int $ot)

@@ -3,7 +3,6 @@
                 <li data-target="#headerCarousel" data-slide-to="0" class="active"></li>
                 <li data-target="#headerCarousel" data-slide-to="1"></li>
                 <li data-target="#headerCarousel" data-slide-to="2"></li>
-                <li data-target="#headerCarousel" data-slide-to="3"></li>
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -14,9 +13,6 @@
                 </div>
                 <div class="carousel-item">
                     <img src="images/food-and-farming.jpg" class="d-block w-100" alt="Food and Farming">
-                </div>
-                <div class="carousel-item">
-                    <img src="images/LogoAlpha.png" class="d-block w-100" alt="Food and Farming">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#headerCarousel" role="button" data-slide="prev">
