@@ -375,31 +375,6 @@ a[href$=".pdf"]::after {
     }
 }
 
-@media only screen and (min-width: 992px) {
-    div#headerCarousel {
-        max-height: 600px;
-        background-color: #564a34;
-    }
-
-    div.carousel-item {
-        max-height: 600px;
-    }
-    
-    div.carousel-item>img.d-block {
-        max-height: 600px;
-        max-width: 1250px;
-    }
-
-    div#divHead {
-        background-color: #564a34;
-    }
-
-    img#head {
-        max-height: 600px;
-        max-width: 1250px;
-    }
-}
-
 @media only screen and (max-width: 576px) {
     th.cons {
         display: none;

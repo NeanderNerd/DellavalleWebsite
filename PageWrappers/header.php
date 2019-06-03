@@ -11,7 +11,7 @@
 		    <nav class="navbar navbar-dark" style="background-color: #564a34;">
 		        <a class="navbar-brand" href="#" style="color: #aba59a;" data-toggle="collapse" data-target="#navbarNav"
 		            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-		            <img src="favicon.ico?" width="30" height="30" alt="">
+		            <img src="favicon.ico" width="30" height="30" alt="">
 		            Menu
 		        </a>
 		        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
