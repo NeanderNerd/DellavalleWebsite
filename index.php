@@ -40,7 +40,7 @@
             <p>Agriculturally, our analytical methods are for arid and semi-arid growing conditions. The laboratory
                 specializes in analyzing: soils; plant tissues; irrigation, influent/effluent waters; composts and
                 fertilizers. Our professionals provide fertilizer recommendations, nutrient management plans,
-                troubleshooting expertise, irrigation and fertility/salinity management.</p>
+                troubleshooting expertise, irrigation scheduling and fertility/salinity management.</p>
             <p>The laboratory is ELAP certified and also approved by California Department of Food
                 &amp; Agriculture and California Water Quality Control Board. We participate in numerous performance
                 evaluations. Our quality assurance and quality control assures that you will receive quality results.
