@@ -55,4 +55,17 @@
 
     <!-- #EndTemplate -->
 
+    <script>
+        lightBoxClose = function(){
+            document.querySelector(".lightbox").classList.add("closed")
+        }
+    </script>
+    <div class="lightbox">
+        <div class="iframeContainer">
+            <div class="toolbarLB">
+                <span class="closeLB" onclick="lightBoxClose()">x</span>
+            </div>
+            <iframe src="images/specialPictures/FourthOfJuly.pdf" width="500" height="700" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+        </div>
+    </div>
 </html>
