@@ -581,10 +581,10 @@ footer h3 {
 }
 
 .note {
-    height: 2;
+    height: 35px;
     width: 100%;
     position: sticky;
-    z-index: 101;
+    z-index: 1001;
     top: 0;
     bottom: 0;
     right: 0;
@@ -596,7 +596,6 @@ footer h3 {
     -moz-box-shadow: 0 0 5px black;
     box-shadow: 0 0 5px black;
 }
-
 /* ======== IMAGES ======== */
 img {
     border: none;

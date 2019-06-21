@@ -57,7 +57,9 @@
 </script>
 <div id="wrapper">
   <div class="note">
-    Look at me!!!!!
+    <span class="left" style="display:inline-block;width:20%;color:red;">!IMPORTANT!</span>
+    <span class="center" onclick="lightBoxOpen()" style="display:inline-block;width:30%;color:blue;">Week of July 4th Holiday Closure</span>
+    <span class="right" style="display:inline-block;width:20%;color:red;">!IMPORTANT!</span>
   </div>
   <header>
     <nav id="global">

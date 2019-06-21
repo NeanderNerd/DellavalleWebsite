@@ -2,7 +2,6 @@
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 9999;
   background-color: black;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=85);
   opacity: 0.85;
@@ -13,7 +12,6 @@
   position: absolute;
   left: 0;
   width: 100%;
-  z-index: 10000;
   text-align: center;
   line-height: 0;
   font-family: "lucida grande", tahoma, verdana, arial, sans-serif;
