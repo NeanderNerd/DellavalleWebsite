@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="Home">
 <?php $x = 0; ?>
 
 <head>

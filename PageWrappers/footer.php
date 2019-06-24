@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <article class="contentBox2 marginLeft">
 	<!-- #BeginEditable "contentBottomL" -->
 	<p>

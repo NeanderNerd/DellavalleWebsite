@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="Home">
 <!-- #BeginTemplate "Templates/layout1.dwt" -->
 
 <head>

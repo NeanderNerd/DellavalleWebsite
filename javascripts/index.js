@@ -12,7 +12,11 @@ function rC(nam) {
 }
 
 function writeCookie(nam,val) {
-    document.cookie = nam + '=' + escape(val);
+    var now = new Date();
+    var time = now.getTime();
+    var expireTime = time + 1000*360000000;
+    now.setTime(expireTime);
+    document.cookie = nam + '=' + escape(val) + ';expires=' + now.toUTCString() + ';path=/'; 
 }
 
 function lookupCookie(nam) {
@@ -47,4 +51,8 @@ init();
 
 lightBoxClose = function() {
     document.querySelector(".lightbox").classList.add("closed");
+}
+
+function eC(nam) {
+    createCookie(nam,"",-1)
 }

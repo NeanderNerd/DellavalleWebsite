@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="Home">
 <?php $x = 0; ?>
 
 <head>
@@ -37,10 +37,10 @@
                 </div>
             </div>
         </div>
-		<!-- Content for main section end -->
+        <!-- Content for main section end -->
 
-		<!-- Footer php attachemnt -->
-		<?php include 'PageWrappers/footer.php'; ?>
+        <!-- Footer php attachemnt -->
+        <?php include 'PageWrappers/footer.php'; ?>
 </body>
 
-</html> 
+</html>
