@@ -903,7 +903,7 @@
                                                                             <i class="fas fa-briefcase"></i>
                                                                         </th>
                                                                         <td>
-                                                                            Agrionomist
+                                                                            Agronomist
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
