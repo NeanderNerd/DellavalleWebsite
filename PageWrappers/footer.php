@@ -90,7 +90,17 @@
 		            </p>
 		            <p class="tiny">All Rights Reserved</p>
 		        </div>
-		    </div>
+			</div>
+			<div class="row center">
+				<div class="col-md-3"></div>
+				<div class="col-md-3 content-md-right">
+					<a class="tiny" title="Legal" href="Legal-Security.php">Legal &amp; Security Statements</a>
+				</div>
+				<div class="col-md-3 content-md-left">
+					<a class="tiny" title="QCC" href="qccForm.php">Questions, Comments, Complaints Form</a>
+				</div>
+				<div class="col-md-3"></div>
+			</div>
 		</footer>
 		<!-- jQuery library -->
 		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
