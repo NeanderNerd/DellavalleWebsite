@@ -4,17 +4,17 @@
 html.Home{
     height: 101%;
     margin-bottom: 1px;
-    background: -moz-linear-gradient(top, #78b005 0%, #78b005 10%, #ffffff 10%, #ffffff 100%);
+    /* background: -moz-linear-gradient(top, #78b005 0%, #78b005 10%, #ffffff 10%, #ffffff 100%);
     background: -webkit-gradient(left top, left bottom, color-stop(0%, #78b005), color-stop(10%, #78b005), color-stop(10%, #ffffff), color-stop(100%, #ffffff));
     background: -webkit-linear-gradient(top, #78b005 0%, #78b005 10%, #ffffff 10%, #ffffff 100%);
     background: -o-linear-gradient(top, #78b005 0%, #78b005 10%, #ffffff 10%, #ffffff 100%);
     background: -ms-linear-gradient(top, #78b005 0%, #78b005 10%, #ffffff 10%, #ffffff 100%);
-    background: linear-gradient(to bottom, #78b005 0%, #78b005 10%, #ffffff 10%, #ffffff 100%);
+    background: linear-gradient(to bottom, #78b005 0%, #78b005 10%, #ffffff 10%, #ffffff 100%); */
 }
 
 body {
     background: url('../images/backbar.jpg') repeat-x;
-    background-position-y: 35px;
+    /* background-position-y: 35px; */
     font: normal .90em "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
     color: #202020;
     text-align: justify;
@@ -580,7 +580,7 @@ footer h3 {
     background-color: #FFFF00;
 }
 
-.note {
+/* .note {
     height: 35px;
     width: 100%;
     position: sticky;
@@ -595,7 +595,7 @@ footer h3 {
     -webkit-box-shadow: 0 0 5px black;
     -moz-box-shadow: 0 0 5px black;
     box-shadow: 0 0 5px black;
-}
+} */
 /* ======== IMAGES ======== */
 img {
     border: none;

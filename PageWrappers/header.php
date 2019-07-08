@@ -53,11 +53,11 @@
   }(document, 'script', 'facebook-jssdk'));
 </script>
 <div id="wrapper">
-  <div class="note">
+  <!-- <div class="note">
     <span class="left" style="display:inline-block;width:20%;color:red;">!IMPORTANT!</span>
     <span class="center" onclick="lightBoxOpen()" style="display:inline-block;width:30%;color:blue;">Week of July 4th Holiday Closure</span>
     <span class="right" style="display:inline-block;width:20%;color:red;">!IMPORTANT!</span>
-  </div>
+  </div> -->
   <header>
     <nav id="global">
       <ul>
