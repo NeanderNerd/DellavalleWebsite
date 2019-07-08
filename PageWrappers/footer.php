@@ -80,7 +80,7 @@
 		<p class="tiny">Designed by <a href="http://www.wattleweb.com" target="_blank">Wattleweb Global Solutions</a></p>
 	</footer>
 </div>
-<div class="lightbox closed">
+<!-- <div class="lightbox closed">
 	<div class="iframeContainer">
 		<div class="toolbarLB">
 			<span class="closeLB" onclick="lightBoxClose()">x</span>
@@ -88,4 +88,4 @@
 		<iframe src="images/specialPictures/FourthOfJuly.pdf" width="500" height="700" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 	</div>
 </div>
-<script src="javascripts/index.js" type="text/javascript"></script>
+<script src="javascripts/index.js" type="text/javascript"></script> -->
